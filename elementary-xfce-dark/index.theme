@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=elementary Xfce dark
+Comment=Addon for dark panels
+Inherits=elementary-xfce
+
+Example=directory-x-normal
+
+#Directory list
+Directories=panel/22,panel/48,
+
+[panel/22]
+Size=22
+Context=Status
+Type=Fixed
+
+[panel/48]
+Size=48
+Context=Status
+Type=Fixed
