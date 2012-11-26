@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg1325"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="gnome-panel.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="xfce4-panel.svg">
   <metadata
      id="metadata51">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,13 +50,6 @@
      inkscape:current-layer="svg1325" />
   <defs
      id="defs1327">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 24 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="48 : 24 : 1"
-       inkscape:persp3d-origin="24 : 16 : 1"
-       id="perspective53" />
     <linearGradient
        id="linearGradient3958">
       <stop
@@ -130,25 +123,6 @@
        id="linearGradient3898"
        xlink:href="#linearGradient2270"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="44"
-       y1="24"
-       x2="50"
-       y2="24"
-       id="linearGradient3970"
-       xlink:href="#linearGradient3958"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.336101,0.480508)" />
-    <mask
-       id="mask3966">
-      <rect
-         width="49"
-         height="32"
-         x="-0.336101"
-         y="8.4805079"
-         id="rect3968"
-         style="fill:url(#linearGradient3970);fill-opacity:1;stroke:none" />
-    </mask>
     <linearGradient
        x1="44"
        y1="24"
@@ -239,13 +213,6 @@
          id="rect3998"
          style="fill:url(#linearGradient4000);fill-opacity:1;stroke:none" />
     </mask>
-    <inkscape:perspective
-       id="perspective2937"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
   </defs>
   <rect
      style="fill:url(#linearGradient2268);fill-opacity:1;stroke:#969696;stroke-width:0.99999952;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"

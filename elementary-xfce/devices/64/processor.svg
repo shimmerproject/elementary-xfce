@@ -14,7 +14,7 @@
    height="64px"
    id="svg3386"
    version="1.1"
-   inkscape:version="0.48.3 r9882"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="processor.svg">
   <defs
      id="defs3388">
@@ -143,16 +143,6 @@
          id="stop3975" />
     </linearGradient>
     <linearGradient
-       spreadMethod="reflect"
-       gradientTransform="matrix(1.0386769,0,0,1.0160569,88.434662,25.489867)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient4543-180-9"
-       id="linearGradient2575-4-169-7"
-       y2="-19.026062"
-       x2="-97.480377"
-       y1="-10.230078"
-       x1="-110.57743" />
-    <linearGradient
        id="linearGradient4543-180-9">
       <stop
          id="stop5315-5"
@@ -193,17 +183,6 @@
          style="stop-color:#252525;stop-opacity:1;"
          id="stop4737" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4543-180-9"
-       id="linearGradient4045"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0386769,0,0,1.0160569,88.434662,25.489867)"
-       spreadMethod="reflect"
-       x1="-110.57743"
-       y1="-10.230078"
-       x2="-97.480377"
-       y2="-19.026062" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient8265-821-176-38-919-66-249-7-7-5"
@@ -327,7 +306,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

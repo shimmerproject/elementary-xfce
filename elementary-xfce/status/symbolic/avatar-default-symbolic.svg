@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7739"
@@ -17,29 +16,7 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="avatar-default-symbolic.svg">
   <defs
-     id="defs11">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3678-6"
-       id="linearGradient3009-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4342346,0,0,0.5947449,-34.884962,-1.1462819)"
-       x1="115.62145"
-       y1="13.475067"
-       x2="115.62145"
-       y2="41.680771" />
-    <linearGradient
-       id="linearGradient3678-6">
-      <stop
-         id="stop3680-8"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop3682-9"
-         offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1;" />
-    </linearGradient>
-  </defs>
+     id="defs11" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -68,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

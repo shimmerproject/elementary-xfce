@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,12 +14,12 @@
    height="48px"
    id="svg1307"
    sodipodi:version="0.32"
-   inkscape:version="0.43+devel"
-   sodipodi:docbase="/home/lapo/Desktop/gnome-applets/scalable"
-   sodipodi:docname="sticky-notes.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="xfce4-notes-plugin.svg"
    inkscape:export-filename="/home/ulisse/icone/sticky-notes/scalable/sticky-notes.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   version="1.1">
   <defs
      id="defs1309">
     <linearGradient
@@ -168,18 +169,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient2263">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop2265" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop2267" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient2207">
       <stop
          style="stop-color:#fef8c1;stop-opacity:1"
@@ -200,17 +189,6 @@
        y2="27.959209"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-3.000034)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2263"
-       id="radialGradient2269"
-       cx="25.25"
-       cy="43.75"
-       fx="25.25"
-       fy="43.75"
-       r="19.25"
-       gradientTransform="matrix(1,0,0,0.194805,0,35.22727)"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2281"
@@ -348,9 +326,6 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:grid-points="true"
-     gridspacingx="0.5px"
-     gridspacingy="0.5px"
-     gridempspacing="2"
      inkscape:window-width="1034"
      inkscape:window-height="730"
      inkscape:window-x="94"
@@ -359,7 +334,20 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:showpageshadow="false"
-     showborder="true" />
+     showborder="true">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0px"
+       spacingx="0.5px"
+       spacingy="0.5px"
+       color="#3f3fff"
+       empcolor="#3f3fff"
+       opacity="0.15"
+       empopacity="0.38"
+       empspacing="2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1312">
     <rdf:RDF>
