@@ -241,6 +241,18 @@
        fx="32.214287"
        fy="0.017006775"
        r="1.6428572" />
+    <filter
+       inkscape:collect="always"
+       id="filter5157"
+       x="-0.10100815"
+       width="1.2020163"
+       y="-1.4533951"
+       height="3.9067902">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.557209"
+         id="feGaussianBlur5159" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -256,9 +268,9 @@
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1111"
+     inkscape:window-width="1119"
      inkscape:window-height="803"
-     inkscape:window-x="348"
+     inkscape:window-x="340"
      inkscape:window-y="258"
      inkscape:window-maximized="0" />
   <metadata
@@ -283,6 +295,16 @@
        id="path5070"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cszc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.4;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5157)"
+       id="path5155"
+       sodipodi:cx="25.214285"
+       sodipodi:cy="42.714287"
+       sodipodi:rx="18.5"
+       sodipodi:ry="1.2857143"
+       d="m 43.714285,42.714287 a 18.5,1.2857143 0 1 1 -37.0000001,0 18.5,1.2857143 0 1 1 37.0000001,0 z"
+       transform="translate(-1.1428571,-0.42857143)" />
     <g
        id="g4989"
        transform="translate(0,1)">
