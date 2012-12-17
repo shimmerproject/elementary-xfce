@@ -168,7 +168,7 @@
        x2="20.544775"
        y2="55.441643"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.34210529,0,0,0.31818182,0.01823537,0.78944149)" />
+       gradientTransform="matrix(0.35355374,0,0,0.32499424,-0.17790848,0.57448043)" />
     <linearGradient
        id="linearGradient3845">
       <stop
@@ -211,7 +211,8 @@
        y1="15.799416"
        x2="10.685644"
        y2="1.3771272"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0334647,0,0,1.0214105,-0.19675409,-0.23186339)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -221,7 +222,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.197802"
-     inkscape:cx="9.8386696"
+     inkscape:cx="9.8057745"
      inkscape:cy="7.7363336"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -229,13 +230,17 @@
      inkscape:document-units="px"
      inkscape:window-width="1095"
      inkscape:window-height="669"
-     inkscape:window-x="269"
-     inkscape:window-y="115"
+     inkscape:window-x="2077"
+     inkscape:window-y="99"
      inkscape:window-maximized="0"
      inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
-       id="grid3137" />
+       id="grid3137"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata2478">
@@ -254,10 +259,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <path
-       style="fill:url(#linearGradient3800);fill-opacity:1;stroke:url(#linearGradient3793);stroke-width:0.99999994;stroke-opacity:1;display:inline"
+       style="fill:url(#linearGradient3800);fill-opacity:1;stroke:url(#linearGradient3793);stroke-width:0.80000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="path3884"
        inkscape:connector-curvature="0"
-       d="M 7.5,1.499752 12.461861,4.5315997 7.5,7.499752 7.5,5.5 C 5.9230647,5.5 3.5450483,6.8579532 3.5450495,9.5450495 3.5450507,12.232146 5.8287911,13.499752 7.5,13.499752 c 1.9415039,0 3.684653,-1.489104 3.774752,-2.999752 l 2.075248,0 c -0.180198,2.40112 -2.642015,5 -5.85,5 C 4.2920147,15.5 1.5450495,12.978286 1.5450495,9.5450495 1.5450495,6.1118128 4.0557114,3.6505551 7.5,3.5 z"
+       d="m 7.4190827,0.8495039 4.9026613,3.5472562 -4.9026613,3.7975435 0,-2.6282113 c -1.629707,0 -3.817006,1.2068297 -3.8170048,3.951458 1.3e-6,2.7446287 2.2250178,3.9042257 3.9521533,3.9042257 2.0064757,0 3.8079588,-1.430888 3.9010738,-2.973879 l 2.144695,0 C 13.413772,12.900426 10.869571,15.599999 7.5542312,15.599999 4.2388916,15.599999 1.4,13.024294 1.4,9.5175503 1.4,6.0108064 3.859532,3.4968519 7.4190827,3.3430733 z"
        sodipodi:nodetypes="cccczscczzcc" />
   </g>
 </svg>
