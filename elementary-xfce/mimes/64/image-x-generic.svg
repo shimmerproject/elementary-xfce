@@ -40,14 +40,19 @@
      inkscape:window-width="1111"
      inkscape:window-height="732"
      id="namedview54824"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="4.9166667"
-     inkscape:cx="23.474597"
-     inkscape:cy="9.7587497"
+     inkscape:cx="10.034637"
+     inkscape:cy="60.503998"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2453" />
+     inkscape:current-layer="svg2453"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3040" />
+  </sodipodi:namedview>
   <defs
      id="defs2455">
     <linearGradient
@@ -356,22 +361,18 @@
          width="28" />
     </g>
   </g>
-  <rect
-     style="fill:url(#linearGradient3016);fill-opacity:1;stroke:#c1c1c1;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.96862745;stroke-dasharray:none"
-     id="rect3580"
+  <path
      transform="matrix(-0.99999851,0.00172583,-9.6461239e-4,-0.99999953,0,0)"
-     y="-57.504318"
-     x="-61.444622"
-     height="46.898277"
-     width="58.954849" />
-  <rect
-     style="fill:url(#linearGradient3011);fill-opacity:1;stroke:url(#linearGradient3013);stroke-width:1.00000978;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     id="rect3582"
+     style="fill:url(#linearGradient3016);fill-opacity:1;stroke:#c1c1c1;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.96862745"
+     d="m -61.444524,-57.60607 58.9999897,0.10183 -0.045337,46.999938 -58.9999901,-0.101817 z"
+     id="rect3580"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
      transform="matrix(-0.99999287,0.00377648,0.00242719,-0.99999705,0,0)"
-     y="-54.521435"
-     x="-58.533718"
-     ry="0"
-     rx="0"
-     height="40.800339"
-     width="52.901348" />
+     style="fill:url(#linearGradient3011);fill-opacity:1;stroke:url(#linearGradient3013);stroke-width:1.00000978;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+     d="m -58.633238,-54.721589 53.000868,0.200154 0.099513,41.0005 -53.0008607,-0.200161 z"
+     id="rect3582"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
 </svg>
