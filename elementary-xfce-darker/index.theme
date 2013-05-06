@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=elementary Xfce darker
+Comment=Addon for dark toolbar icons
+Inherits=elementary-xfce-dark
+
+Example=directory-x-normal
+
+#Directory list
+Directories=actions/22,actions/24,
+
+[actions/22]
+Size=22
+Context=Actions
+Type=Fixed
+
+[actions/24]
+Size=24
+Context=Actions
+Type=Fixed
