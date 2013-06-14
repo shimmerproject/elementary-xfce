@@ -15,8 +15,8 @@
    height="48"
    id="svg9481"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="emblem-desktop.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="xfce-desktop-test.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata55">
@@ -26,6 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,13 +42,18 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="11.9375"
-     inkscape:cx="23.91623"
+     inkscape:cx="30.86911"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:current-layer="svg9481" />
+     inkscape:current-layer="svg9481"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3799" />
+  </sodipodi:namedview>
   <defs
      id="defs9483">
     <linearGradient
@@ -132,22 +138,22 @@
        id="linearGradient3958">
       <stop
          id="stop3960"
-         style="stop-color:#a1a1a1;stop-opacity:1"
+         style="stop-color:#434343;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3962"
-         style="stop-color:#4d4d4d;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient2446-733-45">
       <stop
          id="stop3793"
-         style="stop-color:#fafafa;stop-opacity:1"
+         style="stop-color:#333333;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3795"
-         style="stop-color:#c5c5c5;stop-opacity:1"
+         style="stop-color:#242424;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -263,6 +269,18 @@
        y1="366.64789"
        x2="302.85715"
        y2="609.50507" />
+    <filter
+       inkscape:collect="always"
+       id="filter3803"
+       x="-0.061395349"
+       width="1.1227907"
+       y="-2.64"
+       height="6.28">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1"
+         id="feGaussianBlur3805" />
+    </filter>
   </defs>
   <rect
      style="opacity:0.3;fill:url(#linearGradient2459);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -288,6 +306,11 @@
      rx="2.6659844"
      height="36.997868"
      width="44.997868" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;filter:url(#filter3803);opacity:0.7"
+     d="m 2,14 43,0 0,1 -43,0 z"
+     id="path3801"
+     inkscape:connector-curvature="0" />
   <path
      style="opacity:0.2;fill:url(#linearGradient2445);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00213289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path2603"
