@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,11 +41,11 @@
      inkscape:window-height="791"
      id="namedview37"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="27.21508"
-     inkscape:cy="24.226737"
+     inkscape:zoom="9.8333335"
+     inkscape:cx="19.3083"
+     inkscape:cy="0.50847373"
      inkscape:window-x="410"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3786"
      showguides="true"
@@ -57,6 +57,22 @@
   </sodipodi:namedview>
   <defs
      id="defs3788">
+    <radialGradient
+       r="23"
+       gradientTransform="matrix(1.1924,0.53139429,-0.49419,0.81474,3.4847,3.6991715)"
+       cx="14.237"
+       cy="12.595"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3841">
+      <stop
+         offset="0"
+         style="stop-color:#ebebec;stop-opacity:1;"
+         id="stop3843" />
+      <stop
+         offset="1"
+         style="stop-color:#d6d6d7;stop-opacity:1;"
+         id="stop3845" />
+    </radialGradient>
     <linearGradient
        id="linearGradient4028">
       <stop
@@ -103,11 +119,11 @@
        r="23">
       <stop
          id="stop7064"
-         style="stop-color:#f0f0f1"
+         style="stop-color:#e2e2e4;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop7060"
-         style="stop-color:#ddddde"
+         style="stop-color:#c9c9ca;stop-opacity:1;"
          offset="1" />
     </radialGradient>
     <linearGradient
@@ -411,6 +427,15 @@
        y1="25.356892"
        x2="23.575972"
        y2="31.210939" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient3841"
+       id="linearGradient3839"
+       x1="7.75"
+       y1="28.5"
+       x2="39.75"
+       y2="28.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      id="rect2723"
@@ -448,7 +473,7 @@
      inkscape:connector-curvature="0" />
   <path
      id="path7046"
-     style="opacity:0.4;fill:none;stroke:#ffffff;stroke-width:0.97705001;stroke-linecap:round"
+     style="opacity:0.2;fill:none;stroke:#ffffff;stroke-width:0.97705001000000002;stroke-linecap:round"
      d="M 45.511,40.511 2.489,40.489"
      inkscape:connector-curvature="0" />
   <path
@@ -458,7 +483,7 @@
      d="m 12,21 -4,16 31.5,0 -4,-16 z"
      style="opacity:0.5;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
-     style="fill:none;stroke:#949494;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:url(#linearGradient3839);stroke:#949494;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1.0"
      d="m 12,20.5 -4,16 31.5,0 -4,-16 z"
      id="path3246"
      inkscape:connector-curvature="0"
