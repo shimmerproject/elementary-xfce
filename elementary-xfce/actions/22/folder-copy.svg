@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="24"
-   height="24"
+   width="22"
+   height="22"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
@@ -79,7 +79,7 @@
        x2="169.22964"
        y1="58.583481"
        x1="126.69791"
-       gradientTransform="matrix(5.4893416e-2,1.3851317e-2,2.572632e-3,5.248166e-2,-11.212261,-26.738461)"
+       gradientTransform="matrix(0.05489342,0.01385132,0.00257263,0.05248166,-11.212261,-26.738461)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient2554-641"
        xlink:href="#linearGradient7012-661-145-733-759-865-745-340"
@@ -214,7 +214,7 @@
        xlink:href="#linearGradient7012-661-145-733-759-865-745"
        id="linearGradient2576"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(5.4893416e-2,1.3851317e-2,2.572632e-3,5.248166e-2,-11.212261,-26.738461)"
+       gradientTransform="matrix(0.05489342,0.01385132,0.00257263,0.05248166,-11.212261,-26.738461)"
        x1="126.69791"
        y1="58.583481"
        x2="169.22964"
@@ -599,16 +599,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-2)">
     <g
        id="g3182"
-       transform="translate(2,0.99618507)">
+       transform="translate(1,1.996185)">
       <path
          d="m 2.02332,1.976667 0,1 -1,0 0,4 14,0 0,-4 -7,0 0,-1 -6,0 z"
          id="rect4170-0-1"
@@ -643,7 +645,7 @@
     <g
        inkscape:label="Layer 1"
        id="layer1-8"
-       transform="translate(6,6.9961851)">
+       transform="translate(5,7.9961851)">
       <path
          id="rect4170-0"
          d="m 2.02332,1.976667 0,1 -1,0 0,4 14,0 0,-4 -7,0 0,-1 -6,0 z"
