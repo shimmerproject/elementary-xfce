@@ -7,54 +7,29 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   height="16"
-   width="16"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="battery-empty-symbolic.svg">
+   width="16"
+   height="16"
+   id="svg4598">
   <defs
-     id="defs84401" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview84399" />
+     id="defs4600" />
   <metadata
-     id="metadata90">
+     id="metadata4603">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
   <g
-     id="layer9"
-     transform="translate(-141,-217)">
-    <g
-       id="g10518"
-       transform="matrix(0,1,-1,0,393,197)">
-      <desc
-         id="desc10524">Used when multiple batteries are installed and one is completely empty.</desc>
-    </g>
+     id="layer1">
     <path
-       id="path3434"
-       style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe"
-       d="m145 217v1 1h-1-1v1 12 1h1 9 1v-1-12-1h-1-1v-1-1h-1-1-4-1zm2 2h3v1 1h1 1v10h-7v-10h1 1v-1-1z" />
+       d="M 16,7 C 16,6.446 15.554,6 15,6 L 14,6 14,4 C 14,3.446 13.554,3 13,3 L 1,3 C 0.446,3 0,3.446 0,4 l 0,8 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 1,0 c 0.554,0 1,-0.446 1,-1 z m -1,0.5 0,1 C 15,8.777 14.777,9 14.5,9 L 14,9 14,7 14.5,7 C 14.777,7 15,7.223 15,7.5 z m -2,-3 0,7 c 0,0.277 -0.223,0.5 -0.5,0.5 l -11,0 C 1.223,12 1,11.777 1,11.5 l 0,-7 C 1,4.223 1.223,4 1.5,4 l 11,0 C 12.777,4 13,4.223 13,4.5 z"
+       id="rect2998"
+       style="color:#000000;fill:#d33636;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
