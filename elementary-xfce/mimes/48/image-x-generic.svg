@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg2453"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="gnome-mime-image.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="image-x-generic.svg">
   <metadata
      id="metadata54826">
     <rdf:RDF>
@@ -39,14 +39,18 @@
      inkscape:window-width="1025"
      inkscape:window-height="640"
      id="namedview54824"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
+     showgrid="true"
+     inkscape:zoom="9.8333333"
      inkscape:cx="20.440678"
-     inkscape:cy="24"
+     inkscape:cy="20.630127"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2453" />
+     inkscape:current-layer="svg2453">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3012" />
+  </sodipodi:namedview>
   <defs
      id="defs2455">
     <radialGradient
@@ -169,7 +173,7 @@
        xlink:href="#linearGradient4157-401-351"
        id="linearGradient3011"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.49083928,0,0,0.38033509,-57.357121,-48.338392)"
+       gradientTransform="matrix(0.49083928,0,0,0.38033509,-57.355901,-47.838386)"
        x1="28.938274"
        y1="17.33289"
        x2="105.36545"
@@ -179,7 +183,7 @@
        xlink:href="#linearGradient3610-302"
        id="linearGradient3013"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.114285,0,0,1.1111113,2.751443,3.5103427)"
+       gradientTransform="matrix(1.114285,0,0,1.1111113,2.7526635,4.0103487)"
        x1="-24.032034"
        y1="-13.090545"
        x2="-24.097931"
@@ -189,7 +193,7 @@
        xlink:href="#linearGradient259-942"
        id="linearGradient3016"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.5066363,0,0,0.35124819,-58.338079,-49.085982)"
+       gradientTransform="matrix(0.5066363,0,0,0.35124819,-58.338559,-48.585983)"
        x1="108.26451"
        y1="110.28094"
        x2="25.817675"
@@ -197,7 +201,8 @@
   </defs>
   <g
      style="opacity:0.4"
-     id="g3257">
+     id="g3257"
+     transform="translate(0,-0.50000003)">
     <rect
        style="fill:url(#linearGradient19619);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
        id="rect2879"
@@ -220,16 +225,16 @@
      style="fill:url(#linearGradient3016);fill-opacity:1;stroke:#c1c1c1;stroke-width:1.00000012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.96862745;stroke-dasharray:none"
      id="rect3580"
      transform="matrix(-0.9999985,0.00173317,-9.6052607e-4,-0.99999954,0,0)"
-     y="-44.002605"
-     x="-46.457802"
+     y="-43.502605"
+     x="-46.458282"
      height="35.922085"
      width="44.965565" />
   <rect
      style="fill:url(#linearGradient3011);fill-opacity:1;stroke:url(#linearGradient3013);stroke-width:1.00000966;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3582"
      transform="matrix(-0.99999295,0.00375523,0.00244093,-0.99999702,0,0)"
-     y="-41.017403"
-     x="-43.527538"
+     y="-40.517399"
+     x="-43.526318"
      ry="0"
      rx="0"
      height="29.853907"
