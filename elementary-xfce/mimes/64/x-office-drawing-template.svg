@@ -14,8 +14,8 @@
    height="64"
    id="svg4017"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="x-office-drawing.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="libreoffice-oasis-drawing-template.svg">
   <defs
      id="defs4019">
     <radialGradient
@@ -148,16 +148,6 @@
        x2="-51.786404"
        y2="2.9062471" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4102"
-       id="linearGradient3023"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0501977,0,0,0.9932209,-1.681624,-0.76407796)"
-       x1="28.534189"
-       y1="24.239939"
-       x2="16.887266"
-       y2="13.663627" />
-    <linearGradient
        id="linearGradient4102">
       <stop
          id="stop4104"
@@ -234,17 +224,6 @@
        fy="39.464806"
        r="3.5" />
     <linearGradient
-       id="linearGradient3205">
-      <stop
-         id="stop3207"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3209"
-         style="stop-color:#000000;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient22140"
        id="linearGradient3161"
@@ -289,16 +268,6 @@
          style="stop-color:#cbcdd9;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6240"
-       id="linearGradient3165"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,1,133.21779,919.36222)"
-       x1="75.779678"
-       y1="86"
-       x2="75.779678"
-       y2="127.03607" />
     <linearGradient
        id="linearGradient6240">
       <stop
@@ -351,7 +320,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
