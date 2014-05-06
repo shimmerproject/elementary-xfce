@@ -15,7 +15,7 @@
    id="svg3810"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="x-office-drawing.svg">
+   sodipodi:docname="libreoffice-oasis-drawing-template.svg">
   <defs
      id="defs3812">
     <linearGradient
@@ -90,16 +90,6 @@
        xlink:href="#linearGradient3104"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4102"
-       id="linearGradient3064"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.6594275,0,0,0.6465221,-5.0326126,-4.5947162)"
-       x1="28.534189"
-       y1="24.239939"
-       x2="16.887266"
-       y2="13.663627" />
-    <linearGradient
        id="linearGradient4102">
       <stop
          id="stop4104"
@@ -120,16 +110,6 @@
        id="linearGradient3065"
        xlink:href="#linearGradient4102"
        inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3412"
-       id="linearGradient3116"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.6,0.6,0,5.8976269,-12.49769)"
-       x1="33.876614"
-       y1="19.948324"
-       x2="44.118835"
-       y2="30.190546" />
     <linearGradient
        id="linearGradient3412">
       <stop
@@ -183,7 +163,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
