@@ -40,10 +40,10 @@
      inkscape:window-width="1535"
      inkscape:window-height="876"
      id="namedview112003"
-     showgrid="true"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="39.989671"
-     inkscape:cy="43.235372"
+     showgrid="false"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="47.069346"
+     inkscape:cy="50.284594"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -114,7 +114,7 @@
        id="linearGradient6549"
        xlink:href="#linearGradient6543"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7731162,0,0,2.7236186,-17.853119,-69.879411)" />
+       gradientTransform="matrix(2.7731162,0,0,2.7236186,-17.853119,-70.879044)" />
     <linearGradient
        id="linearGradient8942">
       <stop
@@ -288,7 +288,7 @@
          inkscape:connector-curvature="0"
          style="fill:url(#linearGradient6549);fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path5074"
-         d="m 20.542697,-17.001711 c 6.405609,-7.175001 12.12599,-14.203446 19.490364,-21.355493 3.485714,-4.107121 11.758107,-3.22462 14.310838,0.12513 1.144006,0.994249 1.492842,1.299314 10.518862,12.04553 l 0.06724,5.430596 -9.930938,-4.249829 0,13.46341 -7.842488,-10.806091 -4.459871,7.151945 -3.859497,-12.599174 -4.552868,10.805374 z" />
+         d="m 20.043,-18.001344 c 6.405609,-7.175001 12.325626,-14.203446 19.69,-21.355493 3.485714,-4.107121 12.158269,-3.324913 14.711,0.02484 1.144006,0.994249 1.392741,0.899784 10.418761,11.646 l 0.06724,5.930419 -9.930938,-4.249829 0,13.46341 -7.842488,-10.806091 -4.459871,7.151945 -3.859497,-12.599174 -4.552868,10.805374 z" />
       <path
          sodipodi:nodetypes="ccccccccccccccc"
          inkscape:connector-curvature="0"
@@ -344,8 +344,9 @@
       <path
          style="fill:#dde0da;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path8968"
-         d="M 46.48476,11.312883 33.076844,8.9851248 33.145774,11.296604 46.99028,14.031315 46.484756,11.312883 Z"
-         inkscape:connector-curvature="0" />
+         d="M 46.48476,11.312883 C 41.381768,11.522698 37.128804,10.410249 33.076844,8.9851248 l 0.06893,2.3114792 c 3.532687,2.065862 8.565876,2.531188 13.844506,2.734711 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
     </g>
   </g>
 </svg>

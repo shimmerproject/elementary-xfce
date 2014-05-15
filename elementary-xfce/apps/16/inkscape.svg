@@ -176,7 +176,7 @@
        xlink:href="#linearGradient6543"
        id="linearGradient2486"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.40423151,0,0,0.40080101,-1.455317,5.7997562)"
+       gradientTransform="matrix(0.45871433,0,0,0.41985441,-2.7256163,4.4573662)"
        x1="23.142857"
        y1="16.714287"
        x2="23.142857"
@@ -199,11 +199,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32"
-     inkscape:cx="8.5091185"
-     inkscape:cy="6.4935084"
+     inkscape:zoom="16"
+     inkscape:cx="4.6714116"
+     inkscape:cy="4.7677008"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      fill="#eeeeec"
@@ -294,7 +294,7 @@
        inkscape:connector-curvature="0" />
     <path
        id="path5074"
-       d="m 4.9094483,13.00678 2.5478915,-2.825411 c 0.264675,-0.3404919 0.8005948,-0.2830485 1.1374533,0.06349 l 2.2514839,2.753804 z"
+       d="M 4.497,12.007 C 5.4345243,11.020415 6.303119,9.8959779 7.3095823,9.0472739 7.6099306,8.6905945 8.2967994,8.7507688 8.6790603,9.1137788 9.5307092,9.8423637 10.382349,11.031853 11.234,11.99849 Z"
        style="fill:url(#linearGradient2486);fill-opacity:1;fill-rule:evenodd;stroke:none"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0" />
@@ -325,30 +325,30 @@
          d="m 20.985414,42.86777 c 4.713683,-0.788252 8.331712,-0.74985 8.760057,-4.752472 0.345188,-3.225562 -3.551035,-4.091914 -5.255072,-0.978912 -1.641523,2.998804 -3.504985,5.731384 -3.504985,5.731384 z"
          style="fill:url(#radialGradient2468);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible"
          inkscape:connector-curvature="0" />
-      <path
+      <circle
          transform="matrix(0.608217,-0.10171,0.04414374,0.689789,20.41956,11.75746)"
          inkscape:r_cy="true"
          inkscape:r_cx="true"
-         d="M 8.8749989,37.75 A 1.2499999,1.2499999 0 0 1 7.624999,39 1.2499999,1.2499999 0 0 1 6.3749992,37.75 1.2499999,1.2499999 0 0 1 7.624999,36.5 1.2499999,1.2499999 0 0 1 8.8749989,37.75 Z"
-         sodipodi:ry="1.2499999"
-         sodipodi:rx="1.2499999"
-         sodipodi:cy="37.75"
-         sodipodi:cx="7.624999"
          id="path6971"
          style="opacity:0.52777782;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         sodipodi:type="arc" />
-      <path
+         d="M 8.8749989,37.75 A 1.2499999,1.2499999 0 0 1 7.624999,39 1.2499999,1.2499999 0 0 1 6.3749992,37.75 1.2499999,1.2499999 0 0 1 7.624999,36.5 1.2499999,1.2499999 0 0 1 8.8749989,37.75 Z"
          sodipodi:type="arc"
+         sodipodi:ry="1.2499999"
+         sodipodi:rx="1.2499999"
+         sodipodi:cy="37.75"
+         sodipodi:cx="7.624999" />
+      <circle
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="path6983"
-         sodipodi:cx="7.624999"
-         sodipodi:cy="37.75"
-         sodipodi:rx="1.2499999"
-         sodipodi:ry="1.2499999"
-         d="M 8.8749989,37.75 A 1.2499999,1.2499999 0 0 1 7.624999,39 1.2499999,1.2499999 0 0 1 6.3749992,37.75 1.2499999,1.2499999 0 0 1 7.624999,36.5 1.2499999,1.2499999 0 0 1 8.8749989,37.75 Z"
          inkscape:r_cx="true"
          inkscape:r_cy="true"
-         transform="matrix(0.562239,-0.09402052,0.04080659,0.637644,27.55723,4.593379)" />
+         transform="matrix(0.562239,-0.09402052,0.04080659,0.637644,27.55723,4.593379)"
+         d="M 8.8749989,37.75 A 1.2499999,1.2499999 0 0 1 7.624999,39 1.2499999,1.2499999 0 0 1 6.3749992,37.75 1.2499999,1.2499999 0 0 1 7.624999,36.5 1.2499999,1.2499999 0 0 1 8.8749989,37.75 Z"
+         sodipodi:type="arc"
+         sodipodi:ry="1.2499999"
+         sodipodi:rx="1.2499999"
+         sodipodi:cy="37.75"
+         sodipodi:cx="7.624999" />
       <path
          inkscape:r_cy="true"
          inkscape:r_cx="true"
