@@ -6,7 +6,7 @@ Inherits=elementary-xfce
 Example=directory-x-normal
 
 #Directory list
-Directories=apps/16,apps/24,apps/32,apps/48,apps/64,apps/96,apps/128,panel/16,panel/22,panel/24,panel/48,
+Directories=apps/16,apps/24,apps/32,apps/48,apps/64,apps/96,apps/128,panel/16,panel/22,panel/24,panel/32,panel/48,
 
 [apps/16]
 Size=16
@@ -55,6 +55,11 @@ Type=Fixed
 
 [panel/24]
 Size=24
+Context=Status
+Type=Fixed
+
+[panel/32]
+Size=32
 Context=Status
 Type=Fixed
 
