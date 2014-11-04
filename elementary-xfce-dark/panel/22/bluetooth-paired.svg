@@ -16,7 +16,7 @@
    id="svg3226"
    sodipodi:version="0.32"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="bluetooth-active.svg"
+   sodipodi:docname="bluetooth-paired.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata17">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,7 +44,7 @@
      id="base"
      showgrid="true"
      inkscape:zoom="20.75"
-     inkscape:cx="11.397591"
+     inkscape:cx="14.290767"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -110,7 +110,7 @@
        xlink:href="#linearGradient3678-9"
        id="linearGradient2399"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4101105,0,0,0.5452071,5.179196,-2.898516)"
+       gradientTransform="matrix(0.4101105,0,0,0.5452071,25.179196,-2.898516)"
        x1="31.261829"
        y1="23.638462"
        x2="31.261829"
@@ -126,6 +126,15 @@
          offset="1"
          id="stop3682-7" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3678-9"
+       id="linearGradient3783"
+       x1="19"
+       y1="10"
+       x2="19"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="g3770"
@@ -148,13 +157,13 @@
        style="color:#bebebe;fill:url(#linearGradient3784);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.82310748;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <path
-     inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="path2441"
-     d="m 18,11 c -1.108,0 -2,0.910763 -2,2.03125 L 16,14 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 20,11.910764 19.108,11 18,11 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z" />
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.5"
+     id="path3006"
+     d="m 17.5,12.59685 c -0.923333,0 -1.666667,0.72897 -1.666667,1.625801 l 0,0.77538 C 15.371667,14.998031 15,15.355007 15,15.798425 l 0,2.401181 C 15,18.643024 15.371667,19 15.833333,19 l 3.333334,0 C 19.628333,19 20,18.643024 20,18.199606 l 0,-2.401181 c 0,-0.443418 -0.371667,-0.800394 -0.833333,-0.800394 l 0,-0.77538 c 0,-0.896831 -0.743334,-1.625801 -1.666667,-1.625801 z m 0,0.800394 c 0.461667,0 0.833333,0.354065 0.833333,0.800394 l 0,0.800393 -1.666666,0 0,-0.800393 c 0,-0.446329 0.371666,-0.800394 0.833333,-0.800394 z"
+     inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:url(#linearGradient2399);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect2822"
-     d="m 18,10 c -1.108,0 -2,0.910763 -2,2.03125 L 16,13 c -0.554,0 -1,0.446 -1,1 l 0,3 c 0,0.554 0.446,1 1,1 l 4,0 c 0.554,0 1,-0.446 1,-1 l 0,-3 c 0,-0.554 -0.446,-1 -1,-1 l 0,-0.96875 C 20,10.910764 19.108,10 18,10 z m 0,1 c 0.554,0 1,0.442363 1,1 l 0,1 -2,0 0,-1 c 0,-0.557637 0.446,-1 1,-1 z" />
+     d="m 17.5,11.59685 c -0.923333,0 -1.666667,0.72897 -1.666667,1.625801 l 0,0.77538 C 15.371667,13.998031 15,14.355007 15,14.798425 l 0,2.401181 C 15,17.643024 15.371667,18 15.833333,18 l 3.333334,0 C 19.628333,18 20,17.643024 20,17.199606 l 0,-2.401181 c 0,-0.443418 -0.371667,-0.800394 -0.833333,-0.800394 l 0,-0.77538 c 0,-0.896831 -0.743334,-1.625801 -1.666667,-1.625801 z m 0,0.800394 c 0.461667,0 0.833333,0.354065 0.833333,0.800394 l 0,0.800393 -1.666666,0 0,-0.800393 c 0,-0.446329 0.371666,-0.800394 0.833333,-0.800394 z"
+     id="rect2822-5"
+     style="color:#000000;fill:url(#linearGradient3783);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>
