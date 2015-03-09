@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="battery-full-charged-symbolic.svg"
+   sodipodi:docname="battery-full-symbolic_charging2.svg"
    inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -35,9 +35,9 @@
      inkscape:bbox-paths="true"
      bordercolor="#666666"
      borderopacity="1"
-     inkscape:current-layer="layer10"
-     inkscape:cx="-248.8682"
-     inkscape:cy="24.0311"
+     inkscape:current-layer="layer9"
+     inkscape:cx="7.2930824"
+     inkscape:cy="12.0311"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -59,18 +59,18 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="749"
+     inkscape:window-height="1149"
      inkscape:window-maximized="1"
-     inkscape:window-width="1280"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:zoom="1">
+     inkscape:zoom="32">
     <inkscape:grid
        dotted="false"
        empspacing="4"
        enabled="true"
        id="grid4866"
-       originx="-172.0002px"
+       originx="-252.0002px"
        originy="-759px"
        snapvisiblegridlinesonly="true"
        spacingx="1px"
@@ -86,7 +86,7 @@
        enabled="true"
        id="grid13609"
        opacity="0.1254902"
-       originx="-172.0002px"
+       originx="-252.0002px"
        originy="-759px"
        snapvisiblegridlinesonly="true"
        spacingx="0.5px"
@@ -121,56 +121,54 @@
      label="status"
      inkscape:label="status"
      style="display:inline"
-     transform="translate(-413.0004,542)">
-    <g
-       id="g4148"
-       transform="matrix(0,-1,1,0,955.0004,-112.9996)">
-      <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="rect3206-90"
-         d="m 414.0004,-539 c -0.554,0 -1,0.446 -1,1 l 0,8 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -12,0 z m 0.5,1 11,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,7 c 0,0.277 -0.223,0.5 -0.5,0.5 l -11,0 c -0.277,0 -0.5,-0.223 -0.5,-0.5 l 0,-7 c 0,-0.277 0.223,-0.5 0.5,-0.5 z m 0.75,1 c -0.1385,0 -0.25,0.1115 -0.25,0.25 l 0,0.75 4,2 0.0625,-3 -3.8125,0 z m 3.8125,0 5.9375,5 0,-4.75 c 0,-0.1385 -0.1115,-0.25 -0.25,-0.25 l -5.6875,0 z m 5.9375,5 -4,-2 0,3 3.75,0 c 0.1385,0 0.25,-0.1115 0.25,-0.25 l 0,-0.75 z m -4,1 -6,-5 0,4.75 c 0,0.1385 0.1115,0.25 0.25,0.25 l 5.75,0 z m 6,-4 0.5,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,1 c 0,0.277 -0.223,0.5 -0.5,0.5 l -0.5,0 0,-2 z"
-         inkscape:connector-curvature="0" />
-    </g>
+     transform="translate(-493.0004,542)">
+    <path
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       d="M 7,0 C 6.446,0 6,0.446 6,1 L 6,2 4,2 C 3.446,2 3,2.446 3,3 l 0,12 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 L 13,3 C 13,2.446 12.554,2 12,2 L 10,2 10,1 C 10,0.446 9.554,0 9,0 Z M 10,4 8,8 11,8 6,14 8,10 5,9.953125 Z"
+       transform="translate(493.0004,-542)"
+       id="rect3206-702"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscsssssssscsssccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="devices"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="places"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="mimes"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="emblems"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="g71291"
      inkscape:label="emotes"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="g4953"
      inkscape:label="categories"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="actions"
      style="display:inline"
-     transform="translate(-413.0004,542)" />
+     transform="translate(-493.0004,542)" />
 </svg>
