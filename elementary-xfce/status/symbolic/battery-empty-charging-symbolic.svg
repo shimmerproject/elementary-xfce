@@ -16,7 +16,7 @@
    height="16"
    id="svg7384"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="16.000004">
   <metadata
      id="metadata90">
@@ -36,8 +36,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-271.65643"
-     inkscape:cy="24.0311"
+     inkscape:cx="-3.6520841"
+     inkscape:cy="-1.5822834"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -59,22 +59,22 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="749"
+     inkscape:window-height="1030"
      inkscape:window-maximized="1"
-     inkscape:window-width="1280"
+     inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:zoom="1">
+     inkscape:window-y="26"
+     inkscape:zoom="45.254834">
     <inkscape:grid
        dotted="false"
        empspacing="4"
        enabled="true"
        id="grid4866"
-       originx="-252.0002px"
-       originy="-759px"
+       originx="-252.0002"
+       originy="-759"
        snapvisiblegridlinesonly="true"
-       spacingx="1px"
-       spacingy="1px"
+       spacingx="1"
+       spacingy="1"
        type="xygrid"
        visible="true" />
     <inkscape:grid
@@ -86,11 +86,11 @@
        enabled="true"
        id="grid13609"
        opacity="0.1254902"
-       originx="-252.0002px"
-       originy="-759px"
+       originx="-252.0002"
+       originy="-759"
        snapvisiblegridlinesonly="true"
-       spacingx="0.5px"
-       spacingy="0.5px"
+       spacingx="0.5"
+       spacingy="0.5"
        type="xygrid"
        visible="true" />
   </sodipodi:namedview>
@@ -122,20 +122,16 @@
      inkscape:label="status"
      style="display:inline"
      transform="translate(-493.0004,542)">
-    <g
-       id="g4149"
-       transform="matrix(0,-1,1,0,1035.0004,-32.9996)">
-      <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="rect3206-702"
-         d="m 494.0004,-539 c -0.554,0 -1,0.446 -1,1 l 0,8 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 z m 0.5,1 11,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,7 c 0,0.277 -0.223,0.5 -0.5,0.5 l -11,0 c -0.277,0 -0.5,-0.223 -0.5,-0.5 l 0,-7 c 0,-0.277 0.223,-0.5 0.5,-0.5 z m 12.5,3 0.5,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,1 c 0,0.277 -0.223,0.5 -0.5,0.5 l -0.5,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="path3172-2"
-         d="m 505.0004,-532 -5.9525,-5 -0.0475,3 -4,-2 6,5 0,-3 z"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 496.0004,-527 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -12 c 0,-0.554 -0.446,-1 -1,-1 h -2 v -1 c 0,-0.554 -0.446,-1 -1,-1 h -2 c -0.554,0 -1,0.446 -1,1 v 1 h -2 c -0.554,0 -1,0.446 -1,1 z m 1,-0.5 v -11 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 7 c 0.277,0 0.5,0.223 0.5,0.5 v 11 c 0,0.277 -0.223,0.5 -0.5,0.5 h -7 c -0.277,0 -0.5,-0.223 -0.5,-0.5 z m 3,-12.5 v -0.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 1 c 0.277,0 0.5,0.223 0.5,0.5 v 0.5 z"
+       id="rect3206-702"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 503.0004,-538 -5,5.9525 3,0.0475 -2,4 5,-6 h -3 z"
+       id="path3172-2"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
