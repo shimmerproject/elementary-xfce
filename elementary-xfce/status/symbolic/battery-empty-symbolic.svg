@@ -36,8 +36,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer9"
-     inkscape:cx="-14.534159"
-     inkscape:cy="17.076141"
+     inkscape:cx="-25.596659"
+     inkscape:cy="16.826141"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -59,11 +59,11 @@
      inkscape:snap-nodes="true"
      inkscape:snap-others="false"
      inkscape:snap-to-guides="true"
-     inkscape:window-height="1030"
+     inkscape:window-height="1029"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:zoom="16">
     <inkscape:grid
        dotted="false"
@@ -105,19 +105,17 @@
      style="display:inline"
      transform="translate(-373.0002,562)">
     <path
-       class="warning"
+       class="error"
        inkscape:connector-curvature="0"
        d="m 376.0002,-547 c 0,0.554 0.446,1 1,1 l 8,0 c 0.554,0 1,-0.446 1,-1 l 0,-12 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-1 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 c -0.554,0 -1,0.446 -1,1 l 0,1 -2,0 c -0.554,0 -1,0.446 -1,1 z m 1,-0.5 0,-11 c 0,-0.277 0.223,-0.5 0.5,-0.5 l 7,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,11 c 0,0.277 -0.223,0.5 -0.5,0.5 l -7,0 c -0.277,0 -0.5,-0.223 -0.5,-0.5 z m 3,-12.5 0,-0.5 c 0,-0.277 0.223,-0.5 0.5,-0.5 l 1,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,0.5 z"
        id="path13474"
        sodipodi:nodetypes="sssssscsssscsssssssssssscsssscc"
        style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#c6262e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-    <rect
+    <path
+       class="error"
        style="opacity:0.25;fill:#c6262e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect824"
-       width="6"
-       height="10"
-       x="378.00021"
-       y="-558" />
+       d="m 378.00021,-558 h 6 v 10 h -6 z"
+       id="rect824" />
   </g>
   <g
      inkscape:groupmode="layer"
