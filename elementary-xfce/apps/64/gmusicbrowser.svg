@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,19 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="64"
    height="64"
-   id="svg4167"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gmusicbrowser.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/usr/share/icons/elementaryXubuntu/apps/16/gmusicbrowser.png"
-   inkscape:export-xdpi="30"
-   inkscape:export-ydpi="30">
+   id="svg4167">
   <metadata
      id="metadata99">
     <rdf:RDF>
@@ -29,39 +18,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     inkscape:window-height="706"
-     inkscape:window-width="1175"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     showgrid="true"
-     inkscape:zoom="7.3362329"
-     inkscape:cx="24.31565"
-     inkscape:cy="41.349499"
-     inkscape:window-x="101"
-     inkscape:window-y="68"
-     inkscape:current-layer="svg4167"
-     inkscape:window-maximized="0"
-     inkscape:snap-global="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3010"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
   <defs
      id="defs4169">
     <linearGradient
@@ -128,7 +88,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2372-991"
        id="linearGradient3101"
        gradientUnits="userSpaceOnUse"
@@ -138,7 +97,6 @@
        x2="34.171181"
        y2="199.93648" />
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3242-978"
        id="radialGradient3104"
        gradientUnits="userSpaceOnUse"
@@ -149,7 +107,6 @@
        fy="37.45607"
        r="5.7384715" />
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3599-836"
        id="radialGradient3107"
        gradientUnits="userSpaceOnUse"
@@ -160,7 +117,6 @@
        fy="16.980043"
        r="12.030256" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2490-435"
        id="linearGradient3109"
        gradientUnits="userSpaceOnUse"
@@ -170,7 +126,6 @@
        x2="26.71656"
        y2="4.0338311" />
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8838"
        id="radialGradient3112"
        gradientUnits="userSpaceOnUse"
@@ -184,76 +139,45 @@
   <path
      d="m 43.5,18.322341 c 0,9.288379 0,19.463891 0,28.75227 0.587626,5.678119 -4.076223,10.995768 -9.564278,11.277294 -4.048621,0.382094 -8.499442,-3.074959 -8.22351,-7.247125 0.0524,-6.496864 7.659162,-11.27958 13.787788,-9.913316 0,-9.287371 0,-36.0742074 0,-37.476939 0,-1.2947006 3.678245,-1.5694544 3.834455,0 0.145567,1.462518 1.10356,6.842118 7.246985,13.054158 6.032227,6.099604 7.833892,17.637683 -0.324493,27.115972 C 54.596456,32.88344 54.836767,24.758029 43.5,18.322341 z"
      id="path2588"
-     style="fill:url(#radialGradient3107);fill-opacity:1;stroke:url(#linearGradient3109);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccssscc" />
+     style="fill:url(#radialGradient3107);fill-opacity:1;stroke:url(#linearGradient3109);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
      style="opacity:0.15;fill:url(#radialGradient3112);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible"
      id="path2598"
-     d="m 49.134117,57.279292 c 0,3.79652 -8.399404,6.874207 -18.760596,6.874207 -10.361191,0 -18.760598,-3.077687 -18.760598,-6.874207 0,-3.79652 8.399407,-6.874208 18.760598,-6.874208 10.361192,0 18.760596,3.077688 18.760596,6.874208 l 0,0 z"
-     inkscape:connector-curvature="0" />
+     d="m 49.134117,57.279292 c 0,3.79652 -8.399404,6.874207 -18.760596,6.874207 -10.361191,0 -18.760598,-3.077687 -18.760598,-6.874207 0,-3.79652 8.399407,-6.874208 18.760598,-6.874208 10.361192,0 18.760596,3.077688 18.760596,6.874208 l 0,0 z" />
   <path
      d="M 34.998716,57.719755 C 30.390771,58.50574 26.26028,55.58035 26.26028,51.328864 c 0,-4.25148 4.363503,-8.846318 8.971447,-9.632303 4.607946,-0.785984 7.987303,0.622483 7.987303,4.873967 -0.284097,7.873545 -4.511237,9.746904 -8.220314,11.149227 z"
      id="path2596"
-     style="fill:url(#radialGradient3104);fill-opacity:1;stroke:none"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csscc" />
+     style="fill:url(#radialGradient3104);fill-opacity:1;stroke:none" />
   <path
      d="m 41,6 c 0,4.794913 0,18.741017 0,36.2 -0.340037,-0.28895 -0.317996,-0.21928 -0.999994,-0.391843 L 39.999994,41.591452 40,3.7797814 c 0,0 0.83155,-1.3210473 2.88221,-0.3254644 -0.136315,1.3971748 0.85063,6.0703141 5.367717,11.455775 2.692118,2.896582 7.195744,6.92016 6.942991,15.542677 C 54.794174,29.36576 56.829828,25.49085 48.010803,16.581062 41.986683,10.494944 41,5.9999945 41,6 z"
      id="path2594"
-     style="opacity:0.4;fill:url(#linearGradient3101);fill-opacity:1;fill-rule:evenodd;stroke:none"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccsc" />
+     style="opacity:0.4;fill:url(#linearGradient3101);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   <g
      id="g3057"
      transform="translate(-9.534568,9.892329)">
     <path
-       inkscape:export-ydpi="134.91817"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:connector-curvature="0"
        id="path4097-8"
        d="m 39.205579,24.088725 c -5.512904,0.581837 -9.998497,5.311282 -10.232218,11.011601 l 1.648526,0 c 0.236963,-4.890446 4.167397,-8.968175 8.924767,-9.388842 l 0,-1.622759 c -0.113829,0.0084 -0.228083,-0.01196 -0.341075,0 z"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#74a111;fill-opacity:1;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       inkscape:export-ydpi="134.91817"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:connector-curvature="0"
        id="path4099-4"
        d="m 39.546654,16.148776 c -9.529421,0.959855 -17.113897,9.171909 -17.508458,18.95155 l 2.216981,0 c 0.377277,-8.553475 6.97518,-15.682804 15.291478,-16.633318 l 0,-2.318232 z"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#74a111;fill-opacity:1;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
-       inkscape:export-ydpi="134.91817"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:connector-curvature="0"
        id="path4101-2"
        d="M 39.546654,7.1076706 C 25.798149,8.9399456 15.103241,20.97065 14.534568,35.100326 l 3.069666,0 c 0.56244,-12.375413 9.944194,-22.921511 21.94242,-24.74713 l 0,-3.2455254 z"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#74a111;fill-opacity:1;stroke:none;stroke-width:1.70000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.70000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 40.534568,8.1150156 C 26.786061,9.9472906 16.091153,21.977995 15.52248,36.107671 l 3.069667,0 C 19.154586,23.732257 28.53634,13.186159 40.534568,11.36054 l 0,-3.2455244 z"
-       id="path3010"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-ydpi="134.91817" />
+       id="path3010" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 40.534074,17.156121 c -9.529422,0.959854 -17.113897,9.171909 -17.508458,18.95155 l 2.21698,0 c 0.377276,-8.553475 6.97518,-15.682805 15.291478,-16.633319 l 0,-2.318231 z"
-       id="path3780"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-ydpi="134.91817" />
+       id="path3780" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 39.832581,24.756574 c -5.512904,0.581837 -9.998497,5.311282 -10.232218,11.011602 l 1.648526,0 C 31.485852,30.877729 35.416287,26.8 40.173657,26.379333 l 0,-1.622759 c -0.113828,0.0084 -0.228083,-0.01196 -0.341076,0 z"
-       id="path3782"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/knome/gmb-icon-proposal-2011-green.png"
-       inkscape:export-xdpi="134.91817"
-       inkscape:export-ydpi="134.91817" />
+       id="path3782" />
   </g>
 </svg>

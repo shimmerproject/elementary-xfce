@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,18 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64px"
    height="64px"
    id="svg3386"
-   version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="processor.svg">
+   version="1.1">
   <defs
      id="defs3388">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3924-45"
        id="linearGradient3107-996"
        gradientUnits="userSpaceOnUse"
@@ -184,7 +177,6 @@
          id="stop4737" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8265-821-176-38-919-66-249-7-7-5"
        id="linearGradient4052"
        gradientUnits="userSpaceOnUse"
@@ -194,7 +186,6 @@
        x2="20.054544"
        y2="24.627615" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3967"
        id="linearGradient4055"
        gradientUnits="userSpaceOnUse"
@@ -204,7 +195,6 @@
        x2="23.99999"
        y2="41.906403" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4543-180-9"
        id="linearGradient4059"
        gradientUnits="userSpaceOnUse"
@@ -215,7 +205,6 @@
        x2="-97.480377"
        y2="-19.026062" />
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-532-470-681"
        id="radialGradient4088"
        gradientUnits="userSpaceOnUse"
@@ -226,7 +215,6 @@
        fy="8.4497671"
        r="19.99999" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3707-319-631-407-324-616-674-812-821-107-178-392-400-392-896-672"
        id="linearGradient4090"
        gradientUnits="userSpaceOnUse"
@@ -236,7 +224,6 @@
        x2="24"
        y2="3.8990016" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4543-180-8"
        id="linearGradient4093-6"
        gradientUnits="userSpaceOnUse"
@@ -258,7 +245,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4537-678-2"
        id="linearGradient4095-9"
        gradientUnits="userSpaceOnUse"
@@ -279,25 +265,6 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="32"
-     inkscape:cy="32"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:document-units="px"
-     inkscape:grid-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="750"
-     inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata3391">
     <rdf:RDF>
@@ -311,9 +278,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <g
        transform="matrix(1.5000021,0,0,0.5555561,-4.0000114,35.888881)"
        id="g2036"
@@ -375,7 +340,6 @@
        width="47" />
     <text
        transform="scale(1.0001885,0.99981155)"
-       sodipodi:linespacing="125%"
        id="text5120-6"
        y="37.819469"
        x="32.261436"
@@ -384,11 +348,9 @@
          style="fill:#000000"
          y="37.819469"
          x="32.07663"
-         id="tspan5122-6"
-         sodipodi:role="line">CPU</tspan></text>
+         id="tspan5122-6">CPU</tspan></text>
     <text
        transform="scale(1.0001885,0.99981155)"
-       sodipodi:linespacing="125%"
        id="text5120"
        y="38.819656"
        x="32.261436"
@@ -397,8 +359,7 @@
          style="fill:url(#linearGradient4059)"
          y="38.819656"
          x="32.07663"
-         id="tspan5122"
-         sodipodi:role="line">CPU</tspan></text>
+         id="tspan5122">CPU</tspan></text>
     <rect
        width="45"
        height="45"
@@ -585,10 +546,8 @@
          y="-56.974365" />
     </g>
     <path
-       sodipodi:nodetypes="ccccccc"
        d="M 8.9335923,5 C 7.9684275,5 5,6.2926588 5,7.5500001 L 5.0179665,39 C 6.5714117,38.965755 57.820898,26.466881 59,25.865672 L 59,8.0383297 C 59,7.0772571 56.408253,5 55.572522,5 z"
        id="path3333"
-       style="opacity:0.15;fill:url(#linearGradient4052);fill-opacity:1;fill-rule:evenodd;stroke:none"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.15;fill:url(#linearGradient4052);fill-opacity:1;fill-rule:evenodd;stroke:none" />
   </g>
 </svg>

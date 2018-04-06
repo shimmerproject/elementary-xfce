@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,27 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg3067"
-   version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="emblem-readonly.svg">
+   version="1.1">
   <defs
      id="defs3069">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11520"
-       id="radialGradient3009"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0391051,0,0,2.0391051,-25.847328,-36.563417)"
-       cx="24.44569"
-       cy="35.87817"
-       fx="24.44569"
-       fy="35.87817"
-       r="20.530962" />
     <linearGradient
        id="linearGradient11520">
       <stop
@@ -49,35 +32,8 @@
        gradientTransform="matrix(1.3419141,0,0,1.3419141,-16.804015,996.50596)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3092"
-       xlink:href="#linearGradient11520"
-       inkscape:collect="always" />
+       xlink:href="#linearGradient11520" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="20.406789"
-     inkscape:cy="17.15922"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:window-width="1251"
-     inkscape:window-height="676"
-     inkscape:window-x="444"
-     inkscape:window-y="248"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3115"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
   <metadata
      id="metadata3072">
     <rdf:RDF>
@@ -86,13 +42,11 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
     <rect
@@ -114,12 +68,8 @@
        rx="1.943984"
        ry="1.943984" />
     <path
-       inkscape:connector-curvature="0"
        style="opacity:0.69886361;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.9999997;marker:none;visibility:visible;display:block;overflow:visible"
        d="M 15.562503,1028.3622 C 13,1028.3622 11,1030.3622 11,1032.3182 l 0,3.0439 -1.0999987,2e-4 c -0.4952682,10e-5 -0.9000012,0.5793 -0.9000012,0.9999 l 0,7 c 0,0.4204 0.404733,1 0.9000012,1 l 12.2124927,0 c 0.495276,0 0.887506,-0.5796 0.887506,-1 l 0,-7 c 0,-0.4206 -0.392232,-0.9999 -0.887506,-0.9999 l -1.118724,0 0.01246,-2.995 C 21,1030.3622 19,1028.3622 16.01246,1028.3622 c -0.152299,0 -0.598167,0 -0.449999,0 z m 0.299996,2 c 0.05516,0 0.117978,0 0.175001,0 2.9625,0 2.90898,2.0174 2.9625,2.7736 l 0,2.2266 -6,0 0,-2.2144 c -0.01288,-0.7502 0,-2.7858 2.862499,-2.7858 z"
-       id="path2086"
-       inkscape:r_cx="true"
-       inkscape:r_cy="true"
-       sodipodi:nodetypes="cscsssssssscccscccccccc" />
+       id="path2086" />
   </g>
 </svg>
