@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,19 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
    id="svg4588"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
-   version="1.0"
-   sodipodi:docname="node-delete.svg">
+   version="1.0">
   <defs
      id="defs4590">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient7442">
       <stop
          style="stop-color:white;stop-opacity:1;"
@@ -32,7 +24,6 @@
          id="stop7446" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient7430">
       <stop
          style="stop-color:#d3d7cf;stop-opacity:1;"
@@ -82,7 +73,6 @@
          id="stop8335" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8331"
        id="linearGradient4753"
        gradientUnits="userSpaceOnUse"
@@ -92,7 +82,6 @@
        x2="1.0000585"
        y2="423.45538" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8343"
        id="linearGradient4755"
        gradientUnits="userSpaceOnUse"
@@ -102,7 +91,6 @@
        x2="0.58696824"
        y2="423.58575" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient7430"
        id="linearGradient4757"
        gradientUnits="userSpaceOnUse"
@@ -112,7 +100,6 @@
        x2="15.698984"
        y2="404.59772" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient7442"
        id="linearGradient4759"
        gradientUnits="userSpaceOnUse"
@@ -122,44 +109,6 @@
        x2="12.816311"
        y2="406.51099" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="11.836967"
-     inkscape:cy="14.976942"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:grid-bbox="false"
-     inkscape:document-units="px"
-     width="22px"
-     height="22px"
-     inkscape:showpageshadow="false"
-     showborder="false"
-     inkscape:window-width="1129"
-     inkscape:window-height="844"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:grid-points="true"
-     inkscape:guide-bbox="true"
-     showguides="true">
-    <inkscape:grid
-       id="GridFromPre046Settings"
-       type="xygrid"
-       originx="0px"
-       originy="0px"
-       spacingx="0.5px"
-       spacingy="0.5px"
-       color="#3f3fff"
-       empcolor="#3f3fff"
-       opacity="0.15"
-       empopacity="0.38"
-       empspacing="2" />
-  </sodipodi:namedview>
   <metadata
      id="metadata4593">
     <rdf:RDF>
@@ -172,9 +121,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <g
        transform="translate(19,-394.0001)"
        id="g5738">
@@ -202,16 +149,14 @@
     <path
        style="opacity:1;fill:#ef2929;fill-opacity:1.0;stroke:#a40000;stroke-width:1.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 6.5,5.5 L 6.5,8.5 L 15.5,8.5 L 15.5,5.5 L 6.5,5.5 z "
-       id="rect1946"
-       sodipodi:nodetypes="ccccc" />
+       id="rect1946" />
     <g
        id="g2865"
        style="stroke:white;opacity:0.5">
       <path
          id="path2861"
          d="M 14.5,6.5 L 7.5,6.5 L 7.5,7.5"
-         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-         sodipodi:nodetypes="cc" />
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

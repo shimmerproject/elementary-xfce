@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,24 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="22"
    height="22"
    id="svg7903"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
-   version="1.0"
-   sodipodi:docname="node-curve.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/andreas/project/inkscape/22x22/actions/node-curve.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:modified="true">
+   version="1.0">
   <defs
      id="defs7905">
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8357"
        id="linearGradient19069"
        gradientUnits="userSpaceOnUse"
@@ -34,7 +21,6 @@
        x2="-8.6875"
        y2="417.38632" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient7430"
        id="linearGradient19067"
        gradientUnits="userSpaceOnUse"
@@ -44,7 +30,6 @@
        x2="15.698984"
        y2="404.59772" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient8357">
       <stop
          style="stop-color:white;stop-opacity:1;"
@@ -56,7 +41,6 @@
          id="stop8361" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8357"
        id="linearGradient19065"
        gradientUnits="userSpaceOnUse"
@@ -65,7 +49,6 @@
        x2="-8.6875"
        y2="417.38632" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient7430">
       <stop
          style="stop-color:#d3d7cf;stop-opacity:1;"
@@ -77,7 +60,6 @@
          id="stop7434" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient7430"
        id="linearGradient19063"
        gradientUnits="userSpaceOnUse"
@@ -87,7 +69,6 @@
        x2="15.698984"
        y2="404.59772" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient11905">
       <stop
          style="stop-color:#babdb6;stop-opacity:1;"
@@ -99,7 +80,6 @@
          id="stop11909" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient11905"
        id="linearGradient19952"
        gradientUnits="userSpaceOnUse"
@@ -109,7 +89,6 @@
        y2="409.06992"
        gradientTransform="translate(-0.490834,0.796096)" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient11913">
       <stop
          style="stop-color:#555753;stop-opacity:1;"
@@ -121,7 +100,6 @@
          id="stop11917" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient11913"
        id="linearGradient19950"
        gradientUnits="userSpaceOnUse"
@@ -130,26 +108,6 @@
        x2="162.09949"
        y2="409.02002" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="6.9676993"
-     inkscape:cy="12.386224"
-     inkscape:current-layer="node_curve"
-     showgrid="false"
-     inkscape:grid-bbox="true"
-     inkscape:document-units="px"
-     width="22px"
-     height="22px"
-     inkscape:window-width="797"
-     inkscape:window-height="628"
-     inkscape:window-x="3"
-     inkscape:window-y="72" />
   <metadata
      id="metadata7908">
     <rdf:RDF>
@@ -162,9 +120,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     id="layer1">
     <g
        id="node_curve"
        transform="matrix(1,0,0,1.005236,19.124901,-412.00671)">
@@ -172,12 +128,10 @@
          id="g19944"
          transform="matrix(0,1.242086,-1.235753,0,502.4343,214.853)">
         <path
-           sodipodi:nodetypes="cc"
            id="path19946"
            d="M 161.03293,410.03293 C 161.03293,415.28367 163.63471,418 169,418"
            style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient19950);stroke-width:3.22021127;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           sodipodi:nodetypes="cc"
            id="path19948"
            d="M 160.60422,409.51485 C 160.60422,414.79092 162.49508,418.35454 168.60422,418.35454"
            style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient19952);stroke-width:0.80505282px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />

@@ -6,85 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="22"
    height="22"
-   id="svg4524"
-   sodipodi:docname="list-remove.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1288"
-     inkscape:window-height="823"
-     id="namedview26"
-     showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="12.20339"
-     inkscape:cy="12"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4524" />
+   id="svg4524">
   <defs
      id="defs4526">
-    <linearGradient
-       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1">
-      <stop
-         id="stop5430-5-0"
-         style="stop-color:#737373;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop5432-2-0"
-         style="stop-color:#636363;stop-opacity:1"
-         offset="0.26238" />
-      <stop
-         id="stop5434-9-6"
-         style="stop-color:#4b4b4b;stop-opacity:1"
-         offset="0.704952" />
-      <stop
-         id="stop5436-2-7"
-         style="stop-color:#3f3f3f;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       cx="16.202444"
-       cy="-19.005346"
-       r="19.99999"
-       fx="16.202444"
-       fy="-19.005346"
-       id="radialGradient3769"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.5000006,-1.5241254,0,-16.959842,-23.077676)" />
-    <radialGradient
-       cx="16.202444"
-       cy="-19.005346"
-       r="19.99999"
-       fx="16.202444"
-       fy="-19.005346"
-       id="radialGradient3896"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.5000006,-1.5241254,0,-17.131885,-23.077676)" />
-    <radialGradient
-       cx="22.652411"
-       cy="-40.142262"
-       r="19.99999"
-       fx="22.652411"
-       fy="-40.142262"
-       id="radialGradient3896-0"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.4583908,0,0,-1.5241254,45.582541,-59.323023)" />
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5">
       <stop
@@ -120,8 +47,7 @@
       <path
          style="fill:url(#radialGradient4328);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
-         id="path4326"
-         inkscape:connector-curvature="0" />
+         id="path4326" />
     </clipPath>
     <radialGradient
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5"
@@ -142,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -150,26 +76,22 @@
      style="opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 2,9 C 1.446,9 1,9.446 1,10 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 10 C 21,9.446 20.554,9 20,9 Z"
      id="path4197"
-     clip-path="none"
-     inkscape:connector-curvature="0" />
+     clip-path="none" />
   <path
      id="rect3352"
      d="M 2,8 C 1.446,8 1,8.446 1,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 21,8.446 20.554,8 20,8 Z"
      style="fill:url(#radialGradient4168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     clip-path="none"
-     inkscape:connector-curvature="0" />
+     clip-path="none" />
   <path
      style="opacity:0.1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
      id="path4173"
      clip-path="url(#clipPath4324)"
-     transform="translate(-1)"
-     inkscape:connector-curvature="0" />
+     transform="translate(-1)" />
   <path
      clip-path="url(#clipPath4324)"
      id="path4330"
      d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
      style="opacity:0.05;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(-1)"
-     inkscape:connector-curvature="0" />
+     transform="translate(-1)" />
 </svg>
