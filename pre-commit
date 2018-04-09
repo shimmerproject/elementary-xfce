@@ -1,0 +1,18 @@
+#!/bin/bash
+#
+# Runs Inkscape vacuum (twice) to clean up svgs.
+# The first run reorders the elements in the svg and pollutes the diffs, the second
+# run cancels out this effect.
+
+CDIR=$(git rev-parse --show-toplevel)
+
+echo "Running Inkscape vacuum. This may take some time..."
+
+git diff --cached --name-status --diff-filter=ACMR | while read STATUS FILE; do
+  if [[ "$FILE" =~ ^.+(svg)$ ]]; then
+    inkscape --vacuum-defs -z $CDIR/$FILE --export-plain-svg=$CDIR/$FILE
+    inkscape --vacuum-defs -z $CDIR/$FILE --export-plain-svg=$CDIR/$FILE
+  fi
+done
+
+exit 0
