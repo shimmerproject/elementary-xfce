@@ -6,62 +6,84 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
    width="22"
    height="22"
-   id="svg4524">
+   id="svg3682"
+   version="1.1">
   <defs
-     id="defs4526">
+     id="defs3684">
     <linearGradient
-       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5">
+       xlink:href="#linearGradient2782"
+       id="linearGradient2847"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.42727125,0,0,0.12727572,22.360961,33.962389)"
+       x1="-35.217045"
+       y1="1.4762254"
+       x2="-35.217045"
+       y2="41.689045" />
+    <linearGradient
+       id="linearGradient2782">
       <stop
-         id="stop5430-5-0-9"
-         style="stop-color:#737373;stop-opacity:1"
+         id="stop2784"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0" />
       <stop
-         id="stop5432-2-0-0"
-         style="stop-color:#636363;stop-opacity:1"
-         offset="0.26238" />
-      <stop
-         id="stop5434-9-6-8"
-         style="stop-color:#4b4b4b;stop-opacity:1"
-         offset="0.704952" />
-      <stop
-         id="stop5436-2-7-0"
-         style="stop-color:#3f3f3f;stop-opacity:1"
+         id="stop2786"
+         style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <radialGradient
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5"
-       id="radialGradient4168"
+       xlink:href="#linearGradient3242"
+       id="radialGradient3630"
+       cx="21.978981"
+       cy="5.0000005"
+       fx="21.978981"
+       fy="5.0000005"
+       r="20"
        gradientUnits="userSpaceOnUse"
-       cx="12"
-       cy="3"
-       fx="12"
-       fy="3"
-       r="8"
-       gradientTransform="matrix(1.5646867e-7,3.7500001,-3.8749999,1.625e-7,20.624999,-42)" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4324">
-      <path
-         style="fill:url(#radialGradient4328);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
-         id="path4326" />
-    </clipPath>
-    <radialGradient
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5"
-       id="radialGradient4328"
+       gradientTransform="matrix(0,0.53248716,-3.4659018,0,28.620732,20.539582)" />
+    <linearGradient
+       id="linearGradient3242">
+      <stop
+         id="stop3244"
+         style="stop-color:#f8b17e;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3246"
+         style="stop-color:#e35d4f;stop-opacity:1"
+         offset="0.26238" />
+      <stop
+         id="stop3248"
+         style="stop-color:#c6262e;stop-opacity:1"
+         offset="0.66093999" />
+      <stop
+         id="stop3250"
+         style="stop-color:#690b54;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2490"
+       id="linearGradient2852"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5646867e-7,3.7500001,-3.8749999,1.625e-7,21.624999,-42)"
-       cx="12"
-       cy="3"
-       fx="12"
-       fy="3"
-       r="8" />
+       gradientTransform="matrix(0.4443811,0,0,0.16627275,22.797531,33.118053)"
+       x1="-33.650978"
+       y1="43.419788"
+       x2="-33.650978"
+       y2="-0.20339131" />
+    <linearGradient
+       id="linearGradient2490">
+      <stop
+         id="stop2492"
+         style="stop-color:#791235;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2494"
+         style="stop-color:#dd3b27;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
   </defs>
   <metadata
-     id="metadata4529">
+     id="metadata3687">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -72,26 +94,22 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     style="opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 2,9 C 1.446,9 1,9.446 1,10 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 10 C 21,9.446 20.554,9 20,9 Z"
-     id="path4197"
-     clip-path="none" />
-  <path
-     id="rect3352"
-     d="M 2,8 C 1.446,8 1,8.446 1,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 21,8.446 20.554,8 20,8 Z"
-     style="fill:url(#radialGradient4168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     clip-path="none" />
-  <path
-     style="opacity:0.1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
-     id="path4173"
-     clip-path="url(#clipPath4324)"
-     transform="translate(-1)" />
-  <path
-     clip-path="url(#clipPath4324)"
-     id="path4330"
-     d="M 3,8 C 2.446,8 2,8.446 2,9 v 4 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 V 9 C 22,8.446 21.554,8 21,8 Z"
-     style="opacity:0.05;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     transform="translate(-1)" />
+  <g
+     id="layer1"
+     transform="translate(-0.29122108,-25.708782)">
+    <rect
+       style="fill:url(#radialGradient3630);fill-opacity:1;stroke:url(#linearGradient2852);stroke-width:1.00031328;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3376"
+       y="33.208939"
+       x="1.7913777"
+       height="6.9996867"
+       width="18.999687" />
+    <rect
+       style="opacity:0.4;fill:none;stroke:url(#linearGradient2847);stroke-width:1.02054322;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3404"
+       y="34.219055"
+       x="2.8014927"
+       height="4.9794569"
+       width="16.979456" />
+  </g>
 </svg>
