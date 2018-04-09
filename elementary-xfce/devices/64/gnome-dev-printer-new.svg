@@ -381,7 +381,8 @@
        y2="31.066593"
        x2="15"
        y1="1"
-       x1="15" />
+       x1="15"
+       gradientTransform="translate(32.000003,32)" />
     <linearGradient
        id="linearGradient3245">
       <stop
@@ -394,13 +395,13 @@
          id="stop3249" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(1.371986,0,0,1.3637101,-16.760391,-15.390168)"
+       gradientTransform="matrix(1.371986,0,0,1.3637101,15.239612,16.609832)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient2264"
        id="linearGradient2452"
        y2="34.224861"
        x2="24.103895"
-       y1="15.180944"
+       y1="12.396914"
        x1="24.103895" />
     <linearGradient
        id="linearGradient2264">
@@ -422,7 +423,7 @@
          offset="1" />
     </linearGradient>
     <radialGradient
-       gradientTransform="matrix(1.5058824,0,0,0.37647,-78.305888,26.258824)"
+       gradientTransform="matrix(1.5058824,0,0,0.37647,-46.305885,58.258824)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient8838"
        id="radialGradient2469"
@@ -526,20 +527,20 @@
      y="55"
      id="rect6329"
      style="fill:url(#linearGradient2444);fill-opacity:1;stroke:none" />
-  <g
-     id="layer1"
-     transform="translate(32.000003,32)">
-    <path
-       style="opacity:0.3;fill:url(#radialGradient2469);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="path8836"
-       d="m 31.999998,28 c 0,2.209139 -7.163445,4 -16.000001,4 C 7.1634417,32 -3.2e-6,30.209139 -3.2e-6,28 c 0,-2.209139 7.1634449,-4 16.0000002,-4 8.836556,0 16.000001,1.790861 16.000001,4 l 0,0 z" />
-    <path
-       style="fill:url(#linearGradient2452);fill-opacity:1;fill-rule:evenodd;stroke:#699536;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path2262"
-       d="m 10.5,10.5 0,-9.0000001 11,0 0,9.0000001 9,0 0,11 -9,0 0,9 -11,0 0,-9 -9,0 0,-11 9,0 z" />
-    <path
-       style="opacity:0.4;fill:none;stroke:url(#linearGradient3255);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="path3253"
-       d="m 11.5,2.5 0,8 c -0.004,0.550623 -0.449377,0.99601 -1,1 l -8,0 0,9 8,0 c 0.550623,0.004 0.99601,0.449377 1,1 l 0,8 9,0 0,-8 c 0.004,-0.550623 0.449377,-0.99601 1,-1 l 8,0 0,-9 -8,0 c -0.550623,-0.004 -0.99601,-0.449377 -1,-1 l 0,-8 -9,0 z" />
-  </g>
+  <path
+     d="m 64.000001,60 c 0,2.209139 -7.163445,4 -16.000001,4 -8.836555,0 -16,-1.790861 -16,-4 0,-2.209139 7.163445,-4 16,-4 8.836556,0 16.000001,1.790861 16.000001,4 z"
+     id="path8836"
+     style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:url(#radialGradient2469);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999988;marker:none" />
+  <path
+     d="m 42.500003,42.5 v -9 h 11 v 9 h 9 v 11 h -9 v 9 h -11 v -9 h -9 v -11 z"
+     id="path2262"
+     style="display:inline;fill:url(#linearGradient2452);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 43.500003,34.5 v 8 c -0.004,0.550623 -0.449377,0.99601 -1,1 h -8 v 9 h 8 c 0.550623,0.004 0.99601,0.449377 1,1 v 8 h 9 v -8 c 0.004,-0.550623 0.449377,-0.99601 1,-1 h 8 v -9 h -8 c -0.550623,-0.004 -0.99601,-0.449377 -1,-1 v -8 z"
+     id="path3253"
+     style="display:inline;opacity:0.4;fill:none;stroke:url(#linearGradient3255);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0f5a00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.5"
+     id="path913"
+     d="m 42.500003,42.5 v -9 h 11 v 9 h 9 v 11 h -9 v 9 h -11 v -9 h -9 v -11 z" />
 </svg>
