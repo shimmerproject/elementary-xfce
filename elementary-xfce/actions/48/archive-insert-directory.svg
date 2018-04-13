@@ -6,34 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="48"
    height="48"
-   id="svg44406"
-   sodipodi:docname="add-folder-to-archive.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="736"
-     inkscape:window-height="480"
-     id="namedview119"
-     showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="404"
-     inkscape:window-y="111"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg44406" />
+   id="svg44406">
   <metadata
      id="metadata3492">
     <rdf:RDF>
@@ -276,15 +252,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="22.181572"
-       y1="14.499924"
-       x2="22.181572"
-       y2="44.051018"
-       id="linearGradient2532"
-       xlink:href="#linearGradient2264"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.5165267,0,0,0.5333212,30.519825,20.258444)" />
-    <linearGradient
        id="linearGradient2264">
       <stop
          id="stop3244-gr"
@@ -521,16 +488,6 @@
        xlink:href="#linearGradient2264"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.5165267,0,0,0.5333212,30.519825,20.258444)" />
-    <radialGradient
-       xlink:href="#linearGradient5060-179"
-       id="radialGradient3050"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.02303994,0,0,0.01470022,21.62311,37.040176)"
-       cx="605.71429"
-       cy="486.64789"
-       fx="605.71429"
-       fy="486.64789"
-       r="117.14286" />
   </defs>
   <g
      id="layer1">
@@ -630,18 +587,15 @@
       <path
          d="M 17.562451,22.488448 29.574003,33.026409 17.562451,43.511552 V 38.5 H 8.550899 v -11 h 9.011552 z"
          id="path2624"
-         style="display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2532-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97689688;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         inkscape:connector-curvature="0" />
+         style="display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2532-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.97689688;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
       <path
          d="M 18.562451,24.593836 28.079686,33 18.562451,41.363535 V 37.5 H 9.5624506 v -9 h 9.0000004 z"
          id="path2626"
-         style="display:inline;overflow:visible;visibility:visible;opacity:0.35400008;fill:none;stroke:url(#linearGradient2529);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-         inkscape:connector-curvature="0" />
+         style="display:inline;overflow:visible;visibility:visible;opacity:0.35400008;fill:none;stroke:url(#linearGradient2529);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
     </g>
     <path
        d="M 17.562451,22.488448 29.574003,33.026409 17.562451,43.511552 V 38.5 H 8.550899 v -11 h 9.011552 z"
        id="path900"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0f5a00;stroke-width:0.97689688;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
-       inkscape:connector-curvature="0" />
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0f5a00;stroke-width:0.97689688;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none" />
   </g>
 </svg>
