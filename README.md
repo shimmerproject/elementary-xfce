@@ -1,5 +1,5 @@
 <div>
-    <img title="Mail icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/internet/05/internet-mail.png" />
+    <img title="Mail icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/internet-mail.png" />
     <img title="Desktop search icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/catfish.png" />
     <img title="Web browser icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/web-browser.png" />
     <img title="Photos icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/multimedia-photo-manager.png" />
