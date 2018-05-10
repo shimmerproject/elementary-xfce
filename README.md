@@ -1,16 +1,16 @@
 <div>
-    <img title="Mail icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/internet-mail.svg" />
-    <img title="Desktop search icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/catfish.svg" />
-    <img title="Web browser icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/web-browser.svg" />
-    <img title="Photos icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/multimedia-photo-manager.svg" />
-    <img title="Network error icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/status/64/network-error.svg" />
-    <img title="Notification icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/xfce4-notifyd.svg" />
-    <img title="Warning icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/status/64/dialog-warning.svgs" />
-    <img title="Menu Editor icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/menulibre.svg" />
-    <img title="Gmusicbrowser icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/gmusicbrowser.svg" />
-    <img title="Parole Video player icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/parole.svg" />
-    <img title="Libreoffice Writer icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/libreoffice-writer.svg" />
-    <img title="Terminal icon" src="https://raw.githubusercontent.com/shimmerproject/elementary-xfce/master/elementary-xfce/apps/64/utilities-terminal.svg" />
+    <img title="Mail icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/internet/05/internet-mail.png" />
+    <img title="Desktop search icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/catfish.png" />
+    <img title="Web browser icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/web-browser.png" />
+    <img title="Photos icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/multimedia-photo-manager.png" />
+    <img title="Network error icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/network-error.png" />
+    <img title="Notification icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/xfce4-notifyd.png" />
+    <img title="Power Manager icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/preferences-system-power.png" />
+    <img title="Menu Editor icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/menulibre.png" />
+    <img title="Gmusicbrowser icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/gmusicbrowser.png" />
+    <img title="Parole Video player icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/parole.png" />
+    <img title="Libreoffice Writer icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/libreoffice-writer.png" />
+    <img title="Terminal icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/utilities-terminal.png" />
  </div>
 
 # elementary-xfce Icon theme
