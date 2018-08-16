@@ -1,0 +1,31 @@
+#!/bin/sh
+
+help () {
+    echo "Supported options are:"
+    echo "    --help                          print this help and exit"
+    echo "    --prefix=<path>                 specify installation prefix"
+    echo "        default <path> is /usr/local"
+}
+
+PREFIX="/usr/local"
+while [ $# -gt 0 ]; do
+    case $1 in
+        --help)
+            help
+            exit 0
+            ;;
+        --prefix=*)
+            PREFIX=`echo $1 | sed 's/--prefix=//'`
+            ;;
+        *)
+            echo "Unknown option $1"
+            help
+            exit 1
+            ;;
+    esac
+    shift
+done
+
+echo "Creating Makefile..."
+sed -e s,@prefix@,$PREFIX, Makefile.in > Makefile
+echo "Installation prefix is $PREFIX"
