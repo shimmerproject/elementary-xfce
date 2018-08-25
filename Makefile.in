@@ -45,4 +45,5 @@ builddir:
 
 clean:
 	rm -rf ./build
+	rm -rf ./Makefile
 	rm -rf ./svgtopng/svgtopng
