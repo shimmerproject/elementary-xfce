@@ -14,6 +14,7 @@ install: build
 	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons
+	@echo \nThe icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
 
 uninstall:
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
@@ -29,11 +30,12 @@ icon-caches:
 
 build: builddir
 	chmod +x ./svgtopng/pngtheme.sh
-	./svgtopng/pngtheme.sh build/elementary-xfce
-	./svgtopng/pngtheme.sh build/elementary-xfce-dark
-	./svgtopng/pngtheme.sh build/elementary-xfce-darker
-	./svgtopng/pngtheme.sh build/elementary-xfce-darkest
-	find build -type f -iname '*.png' | xargs optipng -strip all -silent
+	@./svgtopng/pngtheme.sh build/elementary-xfce
+	@./svgtopng/pngtheme.sh build/elementary-xfce-dark
+	@./svgtopng/pngtheme.sh build/elementary-xfce-darker
+	@./svgtopng/pngtheme.sh build/elementary-xfce-darkest
+	@echo == Optimizing all icon pngs
+	@find build -type f -iname '*.png' | xargs optipng -strip all -silent
 
 builddir:
 	mkdir -p build
