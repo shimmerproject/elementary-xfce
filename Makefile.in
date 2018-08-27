@@ -33,6 +33,7 @@ build: builddir
 	./svgtopng/pngtheme.sh build/elementary-xfce-dark
 	./svgtopng/pngtheme.sh build/elementary-xfce-darker
 	./svgtopng/pngtheme.sh build/elementary-xfce-darkest
+	find build -type f -iname '*.png' | xargs optipng -strip all
 
 builddir:
 	mkdir -p build
