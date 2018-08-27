@@ -31,7 +31,7 @@ You can use the Makefile to install the theme locally (default prefix is /usr/lo
 ### Installation for the current user only (without admin privileges)
 
 ```
-./autogen.sh --prefix=$HOME/.local
+./configure --prefix=$HOME/.local
 make
 make install
 make icon-caches
@@ -40,7 +40,7 @@ make icon-caches
 ### Installation for all users
 
 ```
-./autogen.sh
+./configure
 make
 sudo make install
 sudo make icon-cache
