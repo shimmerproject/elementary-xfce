@@ -43,5 +43,4 @@ make icon-caches
 ./configure
 make
 sudo make install
-sudo make icon-cache
 sudo make icon-caches
