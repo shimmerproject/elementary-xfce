@@ -27,6 +27,7 @@ You can use the Makefile to install the theme locally (default prefix is /usr/lo
 
 ### Build dependencies
 - optipng
+- GTK3
 
 ### Installation for the current user only (without admin privileges)
 
