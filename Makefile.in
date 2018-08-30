@@ -8,13 +8,14 @@ all: $(SUBDIRS) build
 $(SUBDIRS):
 	$(MAKE) -C $@
 
-install: build
+install:
 	install -d $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons
-	@echo \nThe icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
+	@echo
+	@echo The icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
 
 uninstall:
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
