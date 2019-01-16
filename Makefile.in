@@ -1,5 +1,6 @@
 PREFIX=@prefix@
 DESTDIR=
+CC?=gcc
 
 SUBDIRS := svgtopng
 
