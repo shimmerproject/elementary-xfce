@@ -6,7 +6,7 @@ Inherits=elementary-xfce-dark
 Example=directory-x-normal
 
 #Directory list
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/128,actions/symbolic,
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/128,actions/symbolic,apps/48,
 
 [actions/16]
 Size=16
@@ -46,4 +46,9 @@ Type=Scalable
 [actions/symbolic]
 Size=16
 Context=Actions
+Type=Scalable
+
+[apps/48]
+Size=48
+Context=Apps
 Type=Scalable
