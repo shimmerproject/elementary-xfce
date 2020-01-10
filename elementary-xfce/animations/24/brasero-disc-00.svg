@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   width="24"
+   id="svg2"
    height="24"
-   id="svg2">
+   width="24"
+   version="1.0">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -26,30 +26,30 @@
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         id="stop3589-9-2"
+         offset="0"
          style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
+         id="stop3589-9-2" />
       <stop
-         id="stop3591-7-4"
+         offset="1"
          style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
+         id="stop3591-7-4" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3587-6-5"
-       id="linearGradient3161"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-24.785715,-2.035714)"
-       x1="35.007519"
-       y1="23.178743"
+       y2="4.9945626"
        x2="35.007519"
-       y2="4.9945626" />
+       y1="23.178743"
+       x1="35.007519"
+       gradientTransform="translate(-24.785715,-2.035714)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3161"
+       xlink:href="#linearGradient3587-6-5" />
   </defs>
   <path
-     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 12,5 C 7.5840001,5 3.9999998,8.5840001 4,13 C 4,17.416 7.5840002,21 12,21 C 16.416,21 20,17.416 20,13 C 20,8.5840001 16.416,5.0000002 12,5 z M 12,10 C 13.656,10 15,11.344 15,13 C 15,14.656 13.656,16 12,16 C 10.344,16 9,14.656 9,13 C 9.0000001,11.344 10.344,10 12,10 z"
      id="path3229"
-     d="M 12,5 C 7.5840001,5 3.9999998,8.5840001 4,13 C 4,17.416 7.5840002,21 12,21 C 16.416,21 20,17.416 20,13 C 20,8.5840001 16.416,5.0000002 12,5 z M 12,10 C 13.656,10 15,11.344 15,13 C 15,14.656 13.656,16 12,16 C 10.344,16 9,14.656 9,13 C 9.0000001,11.344 10.344,10 12,10 z" />
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     style="opacity:0.41999996;fill:url(#linearGradient3161);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 12,4 C 7.5840001,4 3.9999998,7.5840001 4,12 C 4,16.416 7.5840002,20 12,20 C 16.416,20 20,16.416 20,12 C 20,7.5840001 16.416,4.0000002 12,4 z M 12,9 C 13.656,9.0000001 15,10.344 15,12 C 15,13.656 13.656,15 12,15 C 10.344,15 9,13.656 9,12 C 9.0000001,10.344 10.344,9 12,9 z"
      id="path3170"
-     d="M 12,4 C 7.5840001,4 3.9999998,7.5840001 4,12 C 4,16.416 7.5840002,20 12,20 C 16.416,20 20,16.416 20,12 C 20,7.5840001 16.416,4.0000002 12,4 z M 12,9 C 13.656,9.0000001 15,10.344 15,12 C 15,13.656 13.656,15 12,15 C 10.344,15 9,13.656 9,12 C 9.0000001,10.344 10.344,9 12,9 z" />
+     style="opacity:0.41999996;fill:url(#linearGradient3161);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>

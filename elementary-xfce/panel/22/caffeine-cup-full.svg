@@ -6,51 +6,51 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg2816"
-   height="22"
+   version="1.0"
    width="22"
-   version="1.0">
+   height="22"
+   id="svg2816">
   <defs
      id="defs3199">
     <linearGradient
        id="linearGradient4787">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop4789"
          offset="0"
-         id="stop4789" />
+         style="stop-color:#000000;stop-opacity:1;" />
       <stop
-         style="stop-color:#363636;stop-opacity:1;"
+         id="stop4791"
          offset="1"
-         id="stop4791" />
+         style="stop-color:#363636;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient4787"
-       id="linearGradient5021"
-       x1="12"
-       y1="2"
-       x2="12"
+       gradientUnits="userSpaceOnUse"
        y2="21"
-       gradientUnits="userSpaceOnUse" />
+       x2="12"
+       y1="2"
+       x1="12"
+       id="linearGradient5021"
+       xlink:href="#linearGradient4787" />
     <linearGradient
        id="linearGradient3587-6-5-8">
       <stop
-         id="stop3589-9-2-4"
+         offset="0"
          style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
+         id="stop3589-9-2-4" />
       <stop
-         id="stop3591-7-4-3"
+         offset="1"
          style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
+         id="stop3591-7-4-3" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3587-6-5-8"
-       id="linearGradient3808"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.94073967,0)"
-       x1="11"
-       y1="11.16047"
+       y2="23"
        x2="11"
-       y2="23" />
+       y1="11.16047"
+       x1="11"
+       gradientTransform="translate(-0.94073967,0)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3808"
+       xlink:href="#linearGradient3587-6-5-8" />
   </defs>
   <metadata
      id="metadata8">
@@ -65,50 +65,50 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4166"
-     transform="translate(-1 -1)">
+     transform="translate(-1 -1)"
+     id="g4166">
     <g
        id="g4999">
       <g
-         id="g5015"
-         style="fill:url(#linearGradient5021)">
+         style="fill:url(#linearGradient5021)"
+         id="g5015">
         <path
-           id="path3831"
+           style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none"
            d="M 2.0592603,9 C 2,14 2.0788853,21 10.5,21 c 8.421115,0 8.55926,-8 8.55926,-8 l 2.49974,0 c 0.277,0 0.5,-0.216987 0.5,-0.5 l 0,-1 c 0,-0.283013 -0.223,-0.5 -0.5,-0.5 l -2.49974,0 c 0.03386,-0.877365 0,-2 0,-2 z"
-           style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none" />
+           id="path3831" />
         <g
            id="g3902">
           <path
-             style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             id="path3896"
              d="m 6.2103768,3 c -2.2103768,3 2,2 0,5"
-             id="path3896" />
-          <path
-             id="path3898"
-             d="m 10.210377,3 c -2.210377,3 2,2 0,5"
              style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <path
              style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m 10.210377,3 c -2.210377,3 2,2 0,5"
+             id="path3898" />
+          <path
+             id="path3900"
              d="m 14.210377,3 c -2.210377,3 2,2 0,5"
-             id="path3900" />
+             style="opacity:0.6;fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         </g>
         <path
-           style="opacity:0.7;fill:url(#linearGradient3808);fill-opacity:1;stroke:none"
+           id="path2990"
            d="M 2.0592603,8 C 2,13 2.0788853,20 10.5,20 c 8.421115,0 8.55926,-8 8.55926,-8 l 2.49974,0 c 0.277,0 0.5,-0.216987 0.5,-0.5 l 0,-1 c 0,-0.283013 -0.223,-0.5 -0.5,-0.5 l -2.49974,0 c 0.03386,-0.8773655 0,-2 0,-2 z"
-           id="path2990" />
+           style="opacity:0.7;fill:url(#linearGradient3808);fill-opacity:1;stroke:none" />
         <g
            id="g3907">
           <path
-             id="path3833"
+             style="opacity:0.7;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              d="m 6.2103768,2 c -2.2103768,3 2,2 0,5"
+             id="path3833" />
+          <path
+             id="path3892"
+             d="m 10.210377,2 c -2.210377,3 2,2 0,5"
              style="opacity:0.7;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <path
              style="opacity:0.7;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             d="m 10.210377,2 c -2.210377,3 2,2 0,5"
-             id="path3892" />
-          <path
-             id="path3894"
              d="m 14.210377,2 c -2.210377,3 2,2 0,5"
-             style="opacity:0.7;fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+             id="path3894" />
         </g>
       </g>
     </g>

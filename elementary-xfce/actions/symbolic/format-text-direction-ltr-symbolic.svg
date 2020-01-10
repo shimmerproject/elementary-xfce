@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -23,41 +23,41 @@
   <defs
      id="defs16" />
   <g
-     color="#bebebe"
+     id="g4"
      transform="translate(-533 -57)"
-     id="g4">
+     color="#bebebe">
     <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
-       x="534"
+       id="rect6"
        y="58"
-       id="rect6" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
        x="534"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <rect
+       id="rect8"
        y="61"
-       id="rect8" />
-    <path
-       d="M534 67h10v1h-10zM546 68v2h-10v1h10v2l3-2.5z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none"
-       id="path10" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
        x="534"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <path
+       id="path10"
+       style="marker:none"
+       overflow="visible"
+       fill="#666"
+       d="M534 67h10v1h-10zM546 68v2h-10v1h10v2l3-2.5z" />
+    <rect
+       id="rect12"
        y="64"
-       id="rect12" />
+       x="534"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
   </g>
 </svg>

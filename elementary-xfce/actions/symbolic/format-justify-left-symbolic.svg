@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -23,53 +23,53 @@
   <defs
      id="defs18" />
   <g
-     color="#bebebe"
+     id="g4"
      transform="translate(-613 -77)"
-     id="g4">
+     color="#bebebe">
     <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
-       x="614"
+       id="rect6"
        y="78"
-       id="rect6" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="10"
        x="614"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <rect
+       id="rect8"
        y="81"
-       id="rect8" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
+       x="614"
        width="10"
-       x="614"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <rect
+       id="rect10"
        y="87"
-       id="rect10" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
        x="614"
+       width="10"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <rect
+       id="rect12"
        y="90"
-       id="rect12" />
-    <rect
-       fill="#666"
-       height="1"
-       overflow="visible"
-       style="marker:none"
-       width="14"
        x="614"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
+    <rect
+       id="rect14"
        y="84"
-       id="rect14" />
+       x="614"
+       width="14"
+       style="marker:none"
+       overflow="visible"
+       height="1"
+       fill="#666" />
   </g>
 </svg>

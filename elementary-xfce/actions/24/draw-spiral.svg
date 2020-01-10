@@ -7,40 +7,40 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="24"
+   id="svg6860"
    height="24"
-   id="svg6860">
+   width="24"
+   version="1.1">
   <defs
      id="defs6862">
     <linearGradient
-       id="linearGradient4526"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient4526">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop4528"
          offset="0"
-         id="stop4528" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <radialGradient
-       xlink:href="#linearGradient2195"
-       id="radialGradient17200"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.555978,0,0,0.14814769,-2.2275,14.361103)"
-       cx="25.125"
-       cy="44.8125"
-       fx="25.125"
+       r="20.25"
        fy="44.8125"
-       r="20.25" />
+       fx="25.125"
+       cy="44.8125"
+       cx="25.125"
+       gradientTransform="matrix(0.555978,0,0,0.14814769,-2.2275,14.361103)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient17200"
+       xlink:href="#linearGradient2195" />
     <linearGradient
        id="linearGradient2195">
       <stop
-         id="stop2197"
+         style="stop-color:#000000;stop-opacity:1;"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         id="stop2197" />
       <stop
-         id="stop2199"
+         style="stop-color:#000000;stop-opacity:0;"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         id="stop2199" />
     </linearGradient>
   </defs>
   <metadata
@@ -56,18 +56,18 @@
     </rdf:RDF>
   </metadata>
   <ellipse
-     id="path17194"
-     style="display:block;overflow:visible;visibility:visible;opacity:0.18333333;fill:url(#radialGradient17200);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72337621;marker:none"
-     cx="11.741447"
-     cy="20.999989"
+     ry="2.9999986"
      rx="11.258554"
-     ry="2.9999986" />
+     cy="20.999989"
+     cx="11.741447"
+     style="display:block;overflow:visible;visibility:visible;opacity:0.18333333;fill:url(#radialGradient17200);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.72337621;marker:none"
+     id="path17194" />
   <path
-     id="path17196"
+     style="opacity:1;fill:none;stroke:#0e141f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
      d="m 11.0223,13.36587 c 0.984,1.12658 -0.7866,2.23144 -1.6993,2.11249 C 7.3322,15.2189 6.5934,12.89803 7.1914,11.17227 7.9841,8.88484 10.6678,8.04079 13.1143,8.86065 c 2.4623,0.82515 3.6622,4.94623 2.4629,7.43886 -1.673,3.47708 -5.3261,5.15289 -8.8826,3.56366 C 2.5091,17.99284 0.8749,12.83387 2.7598,8.7422 4.92,4.05279 10.6994,2.23566 15.269,4.41641 c 5.1382,2.45211 7.1178,8.87494 4.671,13.93983 -0.289,0.59824 -0.6328,1.16965 -1.0253,1.70515"
-     style="opacity:1;fill:none;stroke:#0e141f;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+     id="path17196" />
   <path
-     id="path17198"
+     style="opacity:1;fill:none;stroke:#667885;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 11.0223,13.36587 c 0.984,1.12658 -0.7866,2.23144 -1.6993,2.11249 C 7.3322,15.2189 6.5934,12.89803 7.1914,11.17227 7.9841,8.88484 10.6678,8.04079 13.1143,8.86065 c 2.4623,0.82515 3.6622,4.94623 2.4629,7.43886 -1.673,3.47708 -5.3261,5.15289 -8.8826,3.56366 C 2.5091,17.99284 0.8749,12.83387 2.7598,8.7422 4.92,4.05279 10.6994,2.23566 15.269,4.41641 c 5.1382,2.45211 7.1178,8.87494 4.671,13.93983 -0.289,0.59824 -0.6328,1.16965 -1.0253,1.70515"
-     style="opacity:1;fill:none;stroke:#667885;stroke-width:1.39999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="path17198" />
 </svg>

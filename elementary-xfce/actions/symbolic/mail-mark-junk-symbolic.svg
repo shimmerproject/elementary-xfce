@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,16 +23,16 @@
   <defs
      id="defs10" />
   <g
-     transform="translate(-453 -177)"
-     id="g4">
+     id="g4"
+     transform="translate(-453 -177)">
     <path
-       color="#000"
-       d="M458.22 178l-.313.281-3.625 3.625-.282.313V187.78l.282.313 3.625 3.625.312.281h5.563l.312-.281 3.625-3.625.281-.313V182.22l-.28-.313-3.626-3.625-.312-.281h-5.157zm1.78 3h2v3l-.25 2h-1.468l-.282-2zm1 5.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z"
-       fill="#666"
-       font-family="Sans"
-       font-weight="400"
-       overflow="visible"
+       id="path6"
        style="line-height:normal;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none"
-       id="path6" />
+       overflow="visible"
+       font-weight="400"
+       font-family="Sans"
+       fill="#666"
+       d="M458.22 178l-.313.281-3.625 3.625-.282.313V187.78l.282.313 3.625 3.625.312.281h5.563l.312-.281 3.625-3.625.281-.313V182.22l-.28-.313-3.626-3.625-.312-.281h-5.157zm1.78 3h2v3l-.25 2h-1.468l-.282-2zm1 5.75a1.25 1.25 0 1 1 0 2.5 1.25 1.25 0 0 1 0-2.5z"
+       color="#000" />
   </g>
 </svg>

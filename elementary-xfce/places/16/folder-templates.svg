@@ -6,52 +6,52 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="16"
-   height="16"
+   version="1.1"
    id="svg3182"
-   version="1.1">
+   height="16"
+   width="16">
   <defs
      id="defs3184">
     <linearGradient
-       xlink:href="#linearGradient3412"
-       id="linearGradient3273"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,-1,-16.999999,48.999999)"
-       x1="42.783993"
-       y1="32.537422"
+       y2="18.12406"
        x2="38.972309"
-       y2="18.12406" />
+       y1="32.537422"
+       x1="42.783993"
+       gradientTransform="matrix(1,0,0,-1,-16.999999,48.999999)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3273"
+       xlink:href="#linearGradient3412" />
     <linearGradient
        id="linearGradient3412">
       <stop
-         offset="0"
+         id="stop3414"
          style="stop-color:#fcfcfc;stop-opacity:1"
-         id="stop3414" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3416"
          style="stop-color:#cbcdd9;stop-opacity:1"
-         id="stop3416" />
+         offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient3428">
       <stop
-         offset="0"
+         id="stop3430"
          style="stop-color:#ffffff;stop-opacity:1"
-         id="stop3430" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3432"
          style="stop-color:#ffffff;stop-opacity:0"
-         id="stop3432" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       y2="18.353575"
-       x2="33.811069"
-       y1="31.65719"
-       x1="40.105618"
-       gradientTransform="matrix(0.99749995,0,0,-0.99749995,-16.923748,48.896056)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3428"
        id="linearGradient3149"
-       xlink:href="#linearGradient3428" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99749995,0,0,-0.99749995,-16.923748,48.896056)"
+       x1="40.105618"
+       y1="31.65719"
+       x2="33.811069"
+       y2="18.353575" />
   </defs>
   <metadata
      id="metadata3187">
@@ -66,19 +66,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
-     transform="translate(0,-16)">
+     transform="translate(0,-16)"
+     id="layer1">
     <g
-       id="g3297"
-       transform="matrix(-1,0,0,1,29,1)">
+       transform="matrix(-1,0,0,1,29,1)"
+       id="g3297">
       <path
-         style="opacity:0.8;fill:url(#linearGradient3273);fill-opacity:1;fill-rule:evenodd;stroke:#83899a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 13.5,30.5 15,-15 0,15 -15,0 z m 6.999999,-3.000001 5,0 0,-4.999999 -5,4.999999 z"
          id="path3410"
-         d="m 13.5,30.5 15,-15 0,15 -15,0 z m 6.999999,-3.000001 5,0 0,-4.999999 -5,4.999999 z" />
+         style="opacity:0.8;fill:url(#linearGradient3273);fill-opacity:1;fill-rule:evenodd;stroke:#83899a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
-         style="opacity:0.4;fill:none;stroke:url(#linearGradient3149);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 15.713203,29.538323 11.845312,-11.845312 0,11.845312 -11.845312,0 z"
          id="path3424"
-         d="m 15.713203,29.538323 11.845312,-11.845312 0,11.845312 -11.845312,0 z" />
+         style="opacity:0.4;fill:none;stroke:url(#linearGradient3149);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
   </g>
 </svg>

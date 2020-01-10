@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   width="22"
+   id="svg4431"
    height="22"
-   id="svg4431">
+   width="22"
+   version="1.0">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -26,35 +26,35 @@
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         id="stop3589-9-2"
+         offset="0"
          style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
+         id="stop3589-9-2" />
       <stop
-         id="stop3591-7-4"
+         offset="1"
          style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
+         id="stop3591-7-4" />
     </linearGradient>
     <linearGradient
-       x1="9"
-       y1="3"
-       x2="9"
-       y2="21"
-       id="linearGradient2393"
-       xlink:href="#linearGradient3587-6-5"
+       gradientTransform="translate(-1,0)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1,0)" />
+       xlink:href="#linearGradient3587-6-5"
+       id="linearGradient2393"
+       y2="21"
+       x2="9"
+       y1="3"
+       x1="9" />
   </defs>
   <g
-     id="g3272"
+     transform="translate(-1,-1)"
      style="opacity:0.4"
-     transform="translate(-1,-1)">
+     id="g3272">
     <path
-       d="m 3,11 0,5 2,0 4,4 0,-13 -4,4 -2,0 z m 8,2 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m 8,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m -4,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z"
+       style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path2387-4"
-       style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       d="m 3,11 0,5 2,0 4,4 0,-13 -4,4 -2,0 z m 8,2 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m 8,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m -4,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z" />
     <path
-       d="m 3,10 0,5 2,0 4,4 0,-13 -4,4 -2,0 z m 8,2 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m 8,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m -4,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z"
+       style="opacity:0.8;fill:url(#linearGradient2393);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path2387"
-       style="opacity:0.8;fill:url(#linearGradient2393);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       d="m 3,10 0,5 2,0 4,4 0,-13 -4,4 -2,0 z m 8,2 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m 8,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z m -4,0 c 0.666667,0 1.333333,0 2,0 0,0.333333 0,0.666667 0,1 -0.666667,0 -1.333333,0 -2,0 0,-0.333333 0,-0.666667 0,-1 z" />
   </g>
 </svg>

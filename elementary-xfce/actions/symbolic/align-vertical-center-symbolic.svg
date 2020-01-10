@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,75 +23,75 @@
   <defs
      id="defs22" />
   <g
-     transform="translate(-633 -105)"
+     id="g4"
      fill="#666"
-     id="g4">
+     transform="translate(-633 -105)">
     <rect
-       color="#bebebe"
-       height="4"
-       overflow="visible"
-       style="marker:none"
-       width="3"
-       x="639"
+       id="rect6"
        y="107"
-       id="rect6" />
-    <rect
-       color="#bebebe"
-       height="5"
-       overflow="visible"
-       style="marker:none"
-       width="3"
-       x="635"
-       y="106"
-       id="rect8" />
-    <rect
-       color="#bebebe"
-       height="4"
-       overflow="visible"
-       style="marker:none"
-       transform="scale(1 -1)"
-       width="3"
        x="639"
-       y="-118"
-       id="rect10" />
-    <rect
-       color="#bebebe"
-       height="5"
-       overflow="visible"
-       style="marker:none"
-       transform="scale(1 -1)"
        width="3"
+       style="marker:none"
+       overflow="visible"
+       height="4"
+       color="#bebebe" />
+    <rect
+       id="rect8"
+       y="106"
        x="635"
-       y="-119"
-       id="rect12" />
-    <rect
-       color="#bebebe"
-       height="3"
-       overflow="visible"
-       style="marker:none"
        width="3"
-       x="643"
-       y="108"
-       id="rect14" />
-    <rect
-       color="#bebebe"
-       height="3"
-       overflow="visible"
        style="marker:none"
+       overflow="visible"
+       height="5"
+       color="#bebebe" />
+    <rect
+       id="rect10"
+       y="-118"
+       x="639"
+       width="3"
        transform="scale(1 -1)"
-       width="3"
-       x="643"
-       y="-117"
-       id="rect16" />
-    <path
-       color="#000"
-       d="M634 113h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1z"
-       fill-rule="evenodd"
-       font-family="sans-serif"
-       font-weight="400"
+       style="marker:none"
        overflow="visible"
-       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       height="4"
+       color="#bebebe" />
+    <rect
+       id="rect12"
+       y="-119"
+       x="635"
+       width="3"
+       transform="scale(1 -1)"
+       style="marker:none"
+       overflow="visible"
+       height="5"
+       color="#bebebe" />
+    <rect
+       id="rect14"
+       y="108"
+       x="643"
+       width="3"
+       style="marker:none"
+       overflow="visible"
+       height="3"
+       color="#bebebe" />
+    <rect
+       id="rect16"
+       y="-117"
+       x="643"
+       width="3"
+       transform="scale(1 -1)"
+       style="marker:none"
+       overflow="visible"
+       height="3"
+       color="#bebebe" />
+    <path
+       id="path18"
        white-space="normal"
-       id="path18" />
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       overflow="visible"
+       font-weight="400"
+       font-family="sans-serif"
+       fill-rule="evenodd"
+       d="M634 113h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1zm2 0h1v-1h-1z"
+       color="#000" />
   </g>
 </svg>

@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="22"
+   id="svg3833"
    height="22"
-   id="svg3833">
+   width="22"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -26,34 +26,34 @@
     <linearGradient
        id="linearGradient3678">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3680"
          offset="0"
-         id="stop3680" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:1;"
+         id="stop3682"
          offset="1"
-         id="stop3682" />
+         style="stop-color:#e6e6e6;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3678"
-       id="linearGradient3629"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.191199,6.438695)"
-       x1="14.547132"
-       y1="13.589763"
+       y2="-2.938695"
        x2="14.547132"
-       y2="-2.938695" />
+       y1="13.589763"
+       x1="14.547132"
+       gradientTransform="translate(-0.191199,6.438695)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3629"
+       xlink:href="#linearGradient3678" />
   </defs>
   <g
-     id="g3632"
-     style="opacity:0.4">
+     style="opacity:0.4"
+     id="g3632">
     <path
-       style="opacity:0.5;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 6.5,2.5 2,6 6.5,9 2,13 11,19 20,13 15.5,9 20,6 15.5,2.5 11,6 6.5,2.5 z"
        id="path3973"
-       d="M 6.5,2.5 2,6 6.5,9 2,13 11,19 20,13 15.5,9 20,6 15.5,2.5 11,6 6.5,2.5 z" />
+       style="opacity:0.5;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
-       style="opacity:1;color:#000000;fill:url(#linearGradient3629);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 6.5,3.5 2,7 6.5,10 2,14 11,20 20,14 15.5,10 20,7 15.5,3.5 11,7 6.5,3.5 z"
        id="path3967"
-       d="M 6.5,3.5 2,7 6.5,10 2,14 11,20 20,14 15.5,10 20,7 15.5,3.5 11,7 6.5,3.5 z" />
+       style="opacity:1;color:#000000;fill:url(#linearGradient3629);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

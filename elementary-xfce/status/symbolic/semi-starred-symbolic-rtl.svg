@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,16 +23,16 @@
   <defs
      id="defs10" />
   <g
-     transform="translate(-513 91)"
-     id="g4">
+     id="g4"
+     transform="translate(-513 91)">
     <path
-       color="#000"
-       d="M520.987-90.38l1.986 5.38h5.514l-4.286 3.482 1.42 5.338-4.634-3.002-4.635 3.002 1.42-5.338L513.487-85H519zm0 2.886L519.697-84h-3.396l2.604 2.115-.92 3.455 3.002-1.943.013.01v-7.094z"
-       fill="#f9c440"
-       font-family="sans-serif"
-       font-weight="400"
-       overflow="visible"
+       id="path6"
        style="line-height:normal;-inkscape-font-specification:sans-serif;text-indent:0;text-align:start;text-decoration-line:none;text-transform:none;marker:none"
-       id="path6" />
+       overflow="visible"
+       font-weight="400"
+       font-family="sans-serif"
+       fill="#f9c440"
+       d="M520.987-90.38l1.986 5.38h5.514l-4.286 3.482 1.42 5.338-4.634-3.002-4.635 3.002 1.42-5.338L513.487-85H519zm0 2.886L519.697-84h-3.396l2.604 2.115-.92 3.455 3.002-1.943.013.01v-7.094z"
+       color="#000" />
   </g>
 </svg>

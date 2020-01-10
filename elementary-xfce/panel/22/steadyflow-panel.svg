@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   width="22"
+   id="svg2423"
    height="22"
-   id="svg2423">
+   width="22"
+   version="1.0">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -26,30 +26,30 @@
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         offset="0"
+         id="stop3589-9-2"
          style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3591-7-4"
          style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3587-6-5"
-       id="linearGradient3805"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.51263812,0,0,-0.51263812,4.421543,21.587315)"
-       x1="18.684637"
-       y1="34.307465"
+       y2="5.0470595"
        x2="18.684637"
-       y2="5.0470595" />
+       y1="34.307465"
+       x1="18.684637"
+       gradientTransform="matrix(0.51263812,0,0,-0.51263812,4.421543,21.587315)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3805"
+       xlink:href="#linearGradient3587-6-5" />
   </defs>
   <path
-     d="m 18,12 -7,8 -7,-8 4,0 0,-7 6,0 0,7 z"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4348-1-1"
-     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="m 18,12 -7,8 -7,-8 4,0 0,-7 6,0 0,7 z" />
   <path
-     d="m 18,11 -7,8 -7,-8 4,0 0,-7 6,0 0,7 z"
+     style="opacity:0.7;fill:url(#linearGradient3805);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4348-1"
-     style="opacity:0.7;fill:url(#linearGradient3805);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="m 18,11 -7,8 -7,-8 4,0 0,-7 6,0 0,7 z" />
 </svg>

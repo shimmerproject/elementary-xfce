@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   width="22"
+   id="svg3239"
    height="22"
-   id="svg3239">
+   width="22"
+   version="1.0">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -26,34 +26,34 @@
     <linearGradient
        id="linearGradient3678">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3680"
          offset="0"
-         id="stop3680" />
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:1;"
+         id="stop3682"
          offset="1"
-         id="stop3682" />
+         style="stop-color:#e6e6e6;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3678"
-       id="linearGradient3042"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.1428572,-21.361257,-1.21292)"
-       x1="32.361256"
-       y1="4.561305"
+       y2="18.561304"
        x2="32.361256"
-       y2="18.561304" />
+       y1="4.561305"
+       x1="32.361256"
+       gradientTransform="matrix(1,0,0,1.1428572,-21.361257,-1.21292)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3042"
+       xlink:href="#linearGradient3678" />
   </defs>
   <g
-     id="g3038"
-     transform="translate(0,-1)">
+     transform="translate(0,-1)"
+     id="g3038">
     <path
-       id="path2998"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 5,5 C 3.892,5 3,5.7337143 3,7 l 0,12 c 0,1.266286 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.733714 2,-2 L 19,7 C 19,5.7337143 18.108,5 17,5 L 5,5 z m 4.875,3 c 2.740036,0 3.393059,0.1250926 4.1875,0.75 0.93473,0.73526 1.217011,2.045302 0.71875,3.34375 -0.331356,0.863499 -2.056348,1.625 -3.6875,1.625 l -1.4375,0 0,1.59375 c 0,1.23379 0.164117,1.692743 0.78125,2.125 C 11.190295,17.964779 11.120518,18 8.9375,18 6.754482,18 6.684705,17.96478 7.4375,17.4375 8.174374,16.921374 8.21875,16.60946 8.21875,13 8.21875,9.390539 8.17438,9.078626 7.4375,8.5625 6.694907,8.0423673 6.838597,8 9.875,8 z m -0.25,0.9375 c -0.02247,1.38958 -0.0093,2.766647 0,4.15625 L 10.9375,12.875 c 0.729569,-0.118392 1.443524,-0.314452 1.59375,-0.46875 0.150229,-0.154304 0.379245,-0.696903 0.5,-1.1875 0.31146,-1.265366 -0.490766,-2.177393 -1.96875,-2.25 L 9.625,8.9375 z"
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path2998" />
     <path
-       id="path3004"
+       style="fill:url(#linearGradient3042);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 5,4 C 3.892,4 3,4.7337144 3,6 l 0,12 c 0,1.266286 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.733714 2,-2 L 19,6 C 19,4.7337144 18.108,4 17,4 L 5,4 z m 4.875,3 c 2.740037,0 3.393059,0.1250926 4.1875,0.75 0.93473,0.73526 1.217011,2.045302 0.71875,3.34375 -0.331356,0.863499 -2.056348,1.625 -3.6875,1.625 l -1.4375,0 0,1.59375 c 0,1.23379 0.1641158,1.692743 0.78125,2.125 C 11.190295,16.964779 11.120519,17 8.9375,17 6.754482,17 6.684705,16.964778 7.4375,16.4375 8.174374,15.921374 8.21875,15.60946 8.21875,12 8.21875,8.3905387 8.174375,8.0786265 7.4375,7.5625 6.694907,7.0423673 6.8385969,7 9.875,7 z M 9.625,7.9375 C 9.60253,9.3270795 9.58445,10.704147 9.59375,12.09375 L 10.9375,11.875 c 0.729569,-0.118392 1.443524,-0.314452 1.59375,-0.46875 0.150229,-0.154304 0.379245,-0.696904 0.5,-1.1875 0.31146,-1.2653663 -0.490766,-2.1773935 -1.96875,-2.25 L 9.625,7.9375 z"
-       style="fill:url(#linearGradient3042);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path3004" />
   </g>
 </svg>
