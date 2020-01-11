@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg7384"
-   height="16"
+   version="1.1"
    width="16"
-   version="1.1">
+   height="16"
+   id="svg7384">
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
@@ -17,24 +17,24 @@
     <linearGradient
        id="linearGradient3817-8">
       <stop
-         id="stop3819-3"
+         style="stop-color:#bebebe;stop-opacity:0.698"
          offset="0"
-         style="stop-color:#bebebe;stop-opacity:0.698" />
+         id="stop3819-3" />
       <stop
-         id="stop3821-4"
+         style="stop-color:#bebebe;stop-opacity:1"
          offset="1"
-         style="stop-color:#bebebe;stop-opacity:1" />
+         id="stop3821-4" />
     </linearGradient>
     <radialGradient
-       xlink:href="#linearGradient3817-8"
-       id="radialGradient3842"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5,0,0,1.5,-4,-7)"
-       cx="8"
-       cy="12"
-       fx="8"
+       r="4"
        fy="12"
-       r="4" />
+       fx="8"
+       cy="12"
+       cx="8"
+       gradientTransform="matrix(1.5,0,0,1.5,-4,-7)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3842"
+       xlink:href="#linearGradient3817-8" />
   </defs>
   <metadata
      id="metadata90">
@@ -49,42 +49,42 @@
     </rdf:RDF>
   </metadata>
   <rect
-     y="3"
-     x="0"
-     height="10"
-     width="1"
+     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3039"
-     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <rect
-     y="4"
-     x="2"
-     height="8"
      width="1"
-     id="rect3041"
-     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     id="rect3043"
-     d="M 4 4 L 4 12 L 12 12 L 12 4 L 4 4 z M 5 5 L 11 5 L 11 11 L 5 11 L 5 5 z "
-     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <rect
-     y="4"
-     x="13"
-     height="8"
-     width="1"
-     id="rect3045"
-     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <rect
-     y="3"
-     x="15"
      height="10"
-     width="1"
-     id="rect3047"
-     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     x="0"
+     y="3" />
   <rect
-     y="5"
-     x="5"
-     height="6"
-     width="6"
+     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3041"
+     width="1"
+     height="8"
+     x="2"
+     y="4" />
+  <path
+     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 4 4 L 4 12 L 12 12 L 12 4 L 4 4 z M 5 5 L 11 5 L 11 11 L 5 11 L 5 5 z "
+     id="rect3043" />
+  <rect
+     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3045"
+     width="1"
+     height="8"
+     x="13"
+     y="4" />
+  <rect
+     style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999987999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3047"
+     width="1"
+     height="10"
+     x="15"
+     y="3" />
+  <rect
+     style="color:#000000;fill:url(#radialGradient3842);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect3043-2"
-     style="color:#000000;fill:url(#radialGradient3842);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     width="6"
+     height="6"
+     x="5"
+     y="5" />
 </svg>

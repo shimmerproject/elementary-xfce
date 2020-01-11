@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg3294"
-   height="24"
+   version="1.0"
    width="16"
-   version="1.0">
+   height="24"
+   id="svg3294">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -27,43 +27,43 @@
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         offset="0"
+         id="stop3589-9-2"
          style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3591-7-4"
          style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       y2="19"
-       x2="-33.805603"
-       y1="16"
-       x1="-33.805603"
-       gradientTransform="translate(41.805604,1)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5"
        id="linearGradient2993"
-       xlink:href="#linearGradient3587-6-5" />
-    <linearGradient
-       y2="15.041595"
-       x2="-33.805603"
-       y1="3"
-       x1="-33.805603"
-       gradientTransform="translate(41.805604,1)"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41.805604,1)"
+       x1="-33.805603"
+       y1="16"
+       x2="-33.805603"
+       y2="19" />
+    <linearGradient
+       xlink:href="#linearGradient3587-6-5"
        id="linearGradient2996"
-       xlink:href="#linearGradient3587-6-5" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(41.805604,1)"
+       x1="-33.805603"
+       y1="3"
+       x2="-33.805603"
+       y2="15.041595" />
   </defs>
   <path
-     d="M 1,5 C 0.446,5 0,5.4893865 0,6.09375 l 0,9.8125 C 0,16.510614 0.446,17 1,17 l 14,0 c 0.554,0 1,-0.489386 1,-1.09375 l 0,-9.8125 C 16,5.4893863 15.554,5 15,5 L 1,5 z m 1,2 12,0 0,8 -12,0 0,-8 z m 3,11 6,0 0,1 2,0 0,2 -10,0 0,-2 2,0 0,-1 z"
+     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3287"
-     style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="M 1,5 C 0.446,5 0,5.4893865 0,6.09375 l 0,9.8125 C 0,16.510614 0.446,17 1,17 l 14,0 c 0.554,0 1,-0.489386 1,-1.09375 l 0,-9.8125 C 16,5.4893863 15.554,5 15,5 L 1,5 z m 1,2 12,0 0,8 -12,0 0,-8 z m 3,11 6,0 0,1 2,0 0,2 -10,0 0,-2 2,0 0,-1 z" />
   <path
-     d="M 1,4 C 0.446,4 0,4.4893865 0,5.09375 l 0,9.8125 C 0,15.510614 0.446,16 1,16 l 14,0 c 0.554,0 1,-0.489386 1,-1.09375 l 0,-9.8125 C 16,4.4893863 15.554,4 15,4 L 1,4 z m 1,2 12,0 0,8 -12,0 0,-8 z"
+     style="opacity:0.7;fill:url(#linearGradient2996);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect2722"
-     style="opacity:0.7;fill:url(#linearGradient2996);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="M 1,4 C 0.446,4 0,4.4893865 0,5.09375 l 0,9.8125 C 0,15.510614 0.446,16 1,16 l 14,0 c 0.554,0 1,-0.489386 1,-1.09375 l 0,-9.8125 C 16,4.4893863 15.554,4 15,4 L 1,4 z m 1,2 12,0 0,8 -12,0 0,-8 z" />
   <path
-     d="m 5,17 6,0 0,1 2,0 0,2 -10,0 0,-2 2,0 0,-1 z"
+     style="opacity:0.7;fill:url(#linearGradient2993);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3271"
-     style="opacity:0.7;fill:url(#linearGradient2993);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="m 5,17 6,0 0,1 2,0 0,2 -10,0 0,-2 2,0 0,-1 z" />
 </svg>

@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg3810"
-   height="16"
+   version="1.1"
    width="16"
-   version="1.1">
+   height="16"
+   id="svg3810">
   <defs
      id="defs3812">
     <linearGradient
        id="linearGradient4166">
       <stop
-         id="stop4168"
+         style="stop-color:#f06b37;stop-opacity:1"
          offset="0"
-         style="stop-color:#f06b37;stop-opacity:1" />
+         id="stop4168" />
       <stop
-         id="stop4170"
+         style="stop-color:#ee5216;stop-opacity:1"
          offset="1"
-         style="stop-color:#ee5216;stop-opacity:1" />
+         id="stop4170" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="14.205318"
-       x2="9.0734386"
-       y1="1.3716267"
-       x1="9.4765244"
+       xlink:href="#linearGradient4166"
        id="linearGradient4172"
-       xlink:href="#linearGradient4166" />
+       x1="9.4765244"
+       y1="1.3716267"
+       x2="9.0734386"
+       y2="14.205318"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3815">
@@ -45,27 +45,27 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path4154"
+     d="m 7.5,7.8583762 6,-3.2033891 m 0,6.5956619 0,-6.5956619 -6,-3.0677979 -6.0217935,3.0677979 0,6.5956619 L 7.5,14.500021 Z m -6,3.249372 0,-6.6416448 -5.9782065,-3.2033891"
      style="display:inline;fill:none;stroke:#c1400e;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4154" />
+  <path
+     id="path3054-7"
+     style="display:inline;fill:none;stroke:url(#linearGradient4172);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 7.5,7.8583762 6,-3.2033891 m 0,6.5956619 0,-6.5956619 -6,-3.0677979 -6.0217935,3.0677979 0,6.5956619 L 7.5,14.500021 Z m -6,3.249372 0,-6.6416448 -5.9782065,-3.2033891" />
   <path
-     d="m 7.5,7.8583762 6,-3.2033891 m 0,6.5956619 0,-6.5956619 -6,-3.0677979 -6.0217935,3.0677979 0,6.5956619 L 7.5,14.500021 Z m -6,3.249372 0,-6.6416448 -5.9782065,-3.2033891"
-     style="display:inline;fill:none;stroke:url(#linearGradient4172);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path3054-7" />
-  <path
-     id="path4158"
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;opacity:0.2"
      d="M 1.40407,4.6935419 7.4391075,7.8465411 13.400247,4.7181747"
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;opacity:0.2" />
+     id="path4158" />
   <path
-     style="opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="path4160"
      d="m 1.5518669,11.270501 5.8379753,3.177632 6.1582048,-3.128366"
-     id="path4160" />
+     style="opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
-     style="opacity:0.4;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="path4162"
      d="M 2.5125463,4.1023545 7.4883731,1.5405427 12.341036,4.0530889"
-     id="path4162" />
+     style="opacity:0.4;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <path
-     id="path4164"
+     style="opacity:0.1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
      d="m 1.4287028,5.7773854 0,4.5324366"
-     style="opacity:0.1;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+     id="path4164" />
 </svg>

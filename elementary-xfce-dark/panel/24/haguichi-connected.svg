@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="24"
+   id="svg6001"
    height="24"
-   id="svg6001">
+   width="24"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -27,30 +27,30 @@
     <linearGradient
        id="linearGradient4149">
       <stop
-         id="stop4151"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1" />
+         id="stop4151" />
       <stop
-         id="stop4153"
+         style="stop-color:#e6e6e6;stop-opacity:1"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1" />
+         id="stop4153" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient4149"
-       id="linearGradient4150"
-       x1="14"
-       y1="4"
-       x2="14"
-       y2="19"
+       gradientTransform="translate(1,1)"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1,1)" />
+       y2="19"
+       x2="14"
+       y1="4"
+       x1="14"
+       id="linearGradient4150"
+       xlink:href="#linearGradient4149" />
   </defs>
   <path
-     id="rect4985-3"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
      d="M 12.945312,6 6,13.5 l 2.4414062,2.623047 0.00977,0.0098 L 12.945312,21 18,21 11.496094,13.974609 8.5058594,16.078125 11.054688,13.5 18,6 12.945312,6 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+     id="rect4985-3" />
   <path
-     id="rect4985"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
      d="M 12.945312,5 6,12.5 l 2.4433594,2.621094 -0.00195,0.002 L 12.945312,20 18,20 11.496094,12.974609 8.4980469,15.082031 11.054688,12.5 18,5 12.945312,5 Z"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+     id="rect4985" />
 </svg>

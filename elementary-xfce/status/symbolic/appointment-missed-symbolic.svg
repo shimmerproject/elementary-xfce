@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
+   height="16"
    width="16.001"
-   height="16">
+   id="svg2"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,25 +23,25 @@
   <defs
      id="defs12" />
   <g
-     id="g4"
-     transform="translate(-833 251)">
+     transform="translate(-833 251)"
+     id="g4">
     <path
-       id="path6"
-       white-space="normal"
-       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
-       overflow="visible"
-       font-weight="400"
-       font-family="sans-serif"
-       fill="#666"
+       color="#000"
        d="M840.5-251c-4.13 0-7.5 3.37-7.5 7.5s3.37 7.5 7.5 7.5c.428 0 .845-.044 1.254-.113a4.411 4.411 0 0 1-.662-1.918c-.194.02-.392.031-.592.031-3.05 0-5.5-2.45-5.5-5.5s2.45-5.5 5.5-5.5a5.485 5.485 0 0 1 5.467 6.094 4.409 4.409 0 0 1 1.918.66A7.46 7.46 0 0 0 848-243.5c0-4.13-3.37-7.5-7.5-7.5zm2.965 4.002a.425.425 0 0 0-.072.008v.008a.5.5 0 0 0-.25.156l-2.657 2.649-1.656-1.649c-.314-.514-1.201.373-.687.688l2 2a.5.5 0 0 0 .687 0l3-3a.5.5 0 0 0-.365-.86z"
-       color="#000" />
-    <path
-       id="path8"
-       style="marker:none"
+       fill="#666"
+       font-family="sans-serif"
+       font-weight="400"
        overflow="visible"
-       fill="#ef2929"
-       d="M845.5-242a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm-.5 1h1v3h-1zm0 4h1v1h-1z"
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       white-space="normal"
+       id="path6" />
+    <path
+       class="error"
        color="#bebebe"
-       class="error" />
+       d="M845.5-242a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm-.5 1h1v3h-1zm0 4h1v1h-1z"
+       fill="#ef2929"
+       overflow="visible"
+       style="marker:none"
+       id="path8" />
   </g>
 </svg>

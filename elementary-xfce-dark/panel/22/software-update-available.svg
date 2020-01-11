@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   height="22"
-   width="22"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="22"
+   height="22">
   <defs
      id="defs7">
     <linearGradient
        id="linearGradient3678">
       <stop
-         id="stop3680"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3680" />
       <stop
-         id="stop3682"
+         style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1;" />
+         id="stop3682" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="20"
-       x2="8"
-       y1="3"
-       x1="8"
+       xlink:href="#linearGradient3678"
        id="linearGradient843"
-       xlink:href="#linearGradient3678" />
+       x1="8"
+       y1="3"
+       x2="8"
+       y2="20"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata12">
@@ -45,23 +45,23 @@
     </rdf:RDF>
   </metadata>
   <circle
-     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01824379;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
-     id="circle845"
-     cx="17.5"
-     cy="5.5"
-     r="3.5" />
-  <path
-     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;marker:none;opacity:0.5"
-     d="m 11,4 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 L 14.164062,8.1015625 A 3.5,3.5 0 0 1 13,5.5 3.5,3.5 0 0 1 13.013672,5.2089844 Z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
-     id="path821" />
-  <path
-     id="path816"
-     d="M 11 3 L 11 5 A 6 6 0 0 0 5 11 L 7 11 A 4 4 0 0 1 11 7 L 11 9 L 14.164062 7.1015625 A 3.5 3.5 0 0 1 13 4.5 A 3.5 3.5 0 0 1 13.013672 4.2089844 L 11 3 z M 15 11 A 4 4 0 0 1 11 15 L 11 13 L 6 16 L 11 19 L 11 17 A 6 6 0 0 0 17 11 L 15 11 z "
-     style="color:#bebebe;overflow:visible;fill:url(#linearGradient843);fill-opacity:1;marker:none" />
-  <circle
      r="3.5"
-     cy="4.5"
+     cy="5.5"
      cx="17.5"
+     id="circle845"
+     style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.01824379;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
+  <path
+     id="path821"
+     d="m 11,4 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 L 14.164062,8.1015625 A 3.5,3.5 0 0 1 13,5.5 3.5,3.5 0 0 1 13.013672,5.2089844 Z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
+     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;marker:none;opacity:0.5" />
+  <path
+     style="color:#bebebe;overflow:visible;fill:url(#linearGradient843);fill-opacity:1;marker:none"
+     d="M 11 3 L 11 5 A 6 6 0 0 0 5 11 L 7 11 A 4 4 0 0 1 11 7 L 11 9 L 14.164062 7.1015625 A 3.5 3.5 0 0 1 13 4.5 A 3.5 3.5 0 0 1 13.013672 4.2089844 L 11 3 z M 15 11 A 4 4 0 0 1 11 15 L 11 13 L 6 16 L 11 19 L 11 17 A 6 6 0 0 0 17 11 L 15 11 z "
+     id="path816" />
+  <circle
+     style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:9.01824379;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
      id="path879-5"
-     style="opacity:1;fill:#f57900;fill-opacity:1;stroke:none;stroke-width:9.01824379;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
+     cx="17.5"
+     cy="4.5"
+     r="3.5" />
 </svg>

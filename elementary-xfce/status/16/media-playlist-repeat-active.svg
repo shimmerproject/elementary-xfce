@@ -6,45 +6,45 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg3834"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg3834"
+   version="1.1">
   <defs
      id="defs3836">
     <linearGradient
-       y2="26.190468"
-       x2="211.01921"
-       y1="13.076198"
-       x1="211.17459"
-       gradientTransform="matrix(0.4100229,0,0,-0.5447147,-79.555769,22.258275)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-69"
        id="linearGradient3196"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-69" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4100229,0,0,-0.5447147,-79.555769,22.258275)"
+       x1="211.17459"
+       y1="13.076198"
+       x2="211.01921"
+       y2="26.190468" />
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-69">
       <stop
-         id="stop4629-22"
+         offset="0"
          style="stop-color:#49a3d2;stop-opacity:1"
-         offset="0" />
+         id="stop4629-22" />
       <stop
-         id="stop4631-4"
+         offset="0.704952"
          style="stop-color:#3470b4;stop-opacity:1"
-         offset="0.704952" />
+         id="stop4631-4" />
       <stop
-         id="stop4633-7"
+         offset="1"
          style="stop-color:#1b5699;stop-opacity:1"
-         offset="1" />
+         id="stop4633-7" />
     </linearGradient>
     <linearGradient
-       y2="13.544036"
-       x2="211.11362"
-       y1="26.424389"
-       x1="211.11362"
-       gradientTransform="matrix(-0.4100229,0,0,0.5447147,95.555769,-7.2582748)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-69"
        id="linearGradient3194"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-69" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.4100229,0,0,0.5447147,95.555769,-7.2582748)"
+       x1="211.11362"
+       y1="26.424389"
+       x2="211.11362"
+       y2="13.544036" />
   </defs>
   <metadata
      id="metadata3839">
@@ -61,16 +61,16 @@
   <g
      id="layer1">
     <path
-       id="path3941-3"
+       style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 12,1 12,3 6,3 C 3.23,3 1,5.007 1,7.5 1,7.6667194 1.0118091,7.8380826 1.03125,8 L 4,8 C 4,6.892 4.892,6 6,6 L 12,6 12,8 16,4.5 12,1 z m -8,8 -4,3.5 4,3.5 0,-2 6,0 c 2.77,0 5,-2.007 5,-4.5 C 15,9.3332806 14.988191,9.1619174 14.96875,9 L 12,9 c 0,1.108 -0.892,2 -2,2 L 4,11 4,9 z"
-       style="opacity:0.6;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path3941-3" />
     <path
-       id="path3941"
+       style="color:#000000;fill:url(#linearGradient3194);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 12,0 12,2 6,2 C 3.23,2 1,4.007 1,6.5 1,6.6667194 1.0118091,6.8380826 1.03125,7 L 4,7 C 4,5.892 4.892,5 6,5 l 6,0 0,2 4,-3.5 z"
-       style="color:#000000;fill:url(#linearGradient3194);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path3941" />
     <path
-       id="path3941-8"
+       style="color:#000000;fill:url(#linearGradient3196);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 4,8 -4,3.5 4,3.5 0,-2 6,0 c 2.77,0 5,-2.007 5,-4.5 C 15,8.3332806 14.988191,8.1619174 14.96875,8 L 12,8 c 0,1.108 -0.892,2 -2,2 L 4,10 4,8 z"
-       style="color:#000000;fill:url(#linearGradient3196);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       id="path3941-8" />
   </g>
 </svg>

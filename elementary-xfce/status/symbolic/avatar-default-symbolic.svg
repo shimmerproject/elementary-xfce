@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
+   height="16"
    width="16"
-   height="16">
+   id="svg2"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,21 +23,21 @@
   <defs
      id="defs12" />
   <g
-     id="g4"
-     transform="translate(-593 171)">
+     transform="translate(-593 171)"
+     id="g4">
     <path
-       id="path6"
-       style="marker:none"
-       overflow="visible"
-       fill="#666"
+       color="#000"
        d="M601-171a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 1a7 7 0 0 1 7 7c0 1.972-.844 3.728-2.156 5-.443-1.727-1.975-3-3.844-3h-2c-1.869 0-3.4 1.273-3.844 3-1.312-1.272-2.156-3.028-2.156-5a7 7 0 0 1 7-7z"
-       color="#000" />
-    <path
-       id="path8"
-       style="marker:none"
-       overflow="visible"
        fill="#666"
+       overflow="visible"
+       style="marker:none"
+       id="path6" />
+    <path
+       color="#000"
        d="M601-167.75c-1.795 0-3.25 1.4-3.25 3.125 0 1.726 1.455 3.125 3.25 3.125s3.25-1.4 3.25-3.125c0-1.726-1.455-3.125-3.25-3.125z"
-       color="#000" />
+       fill="#666"
+       overflow="visible"
+       style="marker:none"
+       id="path8" />
   </g>
 </svg>

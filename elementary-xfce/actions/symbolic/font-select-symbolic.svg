@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
+   height="16"
    width="16"
-   height="16">
+   id="svg2"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,24 +23,24 @@
   <defs
      id="defs12" />
   <g
-     id="g4"
-     transform="translate(-633 -117)">
+     transform="translate(-633 -117)"
+     id="g4">
     <path
-       id="path6"
-       word-spacing="0"
-       style="line-height:125%;-inkscape-font-specification:'DejaVu Serif';marker:none"
-       overflow="visible"
-       letter-spacing="0"
-       font-weight="400"
-       font-size="13.717"
-       font-family="DejaVu Serif"
-       fill="#666"
+       color="#bebebe"
        d="M640.375 120l-3.562 9.281h-.875V130h2.812v-.719h-1.094l.844-2.187h4.188l.843 2.187h-1.093V130h3.625v-.719h-1L641.5 120zm.219 1.625l1.844 4.75h-3.657z"
-       color="#bebebe" />
-    <path
-       id="path8"
-       fill-rule="evenodd"
        fill="#666"
-       d="M633 127v-4l2 2zM649 127v-4l-2 2z" />
+       font-family="DejaVu Serif"
+       font-size="13.717"
+       font-weight="400"
+       letter-spacing="0"
+       overflow="visible"
+       style="line-height:125%;-inkscape-font-specification:'DejaVu Serif';marker:none"
+       word-spacing="0"
+       id="path6" />
+    <path
+       d="M633 127v-4l2 2zM649 127v-4l-2 2z"
+       fill="#666"
+       fill-rule="evenodd"
+       id="path8" />
   </g>
 </svg>

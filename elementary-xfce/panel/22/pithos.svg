@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg3239"
-   height="22"
+   version="1.0"
    width="22"
-   version="1.0">
+   height="22"
+   id="svg3239">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -27,36 +27,36 @@
     <linearGradient
        id="linearGradient3587-6-5">
       <stop
-         offset="0"
+         id="stop3589-9-2"
          style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3591-7-4"
          style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       y2="18.561304"
-       x2="32.361256"
-       y1="4.561305"
-       x1="32.361256"
-       gradientTransform="matrix(1,0,0,1.1428571,-21.361257,-2.21292)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3587-6-5"
        id="linearGradient3027"
-       xlink:href="#linearGradient3587-6-5" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1428571,-21.361257,-2.21292)"
+       x1="32.361256"
+       y1="4.561305"
+       x2="32.361256"
+       y2="18.561304" />
   </defs>
   <g
      id="g3005">
     <g
        id="layer1">
       <path
-         d="M 5,5 C 3.892,5 3,5.892 3,7 l 0,10 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 19,7 C 19,5.892 18.108,5 17,5 z"
+         style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3235"
-         style="opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="M 5,5 C 3.892,5 3,5.892 3,7 l 0,10 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 19,7 C 19,5.892 18.108,5 17,5 z" />
       <path
-         id="rect2386"
+         style="opacity:0.69999999999999996;fill:url(#linearGradient3027);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="M 5 3 C 3.892 3 3 3.7337143 3 5 L 3 17 C 3 18.266285 3.892 19 5 19 L 17 19 C 18.108 19 19 18.266285 19 17 L 19 5 C 19 3.7337143 18.108 3 17 3 L 5 3 z M 8.09375 6 C 8.5237337 5.988564 9.1158991 6 9.875 6 C 12.615036 6 13.268059 6.1250926 14.0625 6.75 C 14.99723 7.48526 15.279511 8.7953018 14.78125 10.09375 C 14.449894 10.957249 12.724902 11.71875 11.09375 11.71875 L 9.65625 11.71875 L 9.65625 13.28125 C 9.65625 14.51504 9.820367 15.005243 10.4375 15.4375 C 11.190295 15.964779 11.120518 16 8.9375 16 C 6.754482 16 6.684705 15.964778 7.4375 15.4375 C 8.174374 14.921374 8.21875 14.60946 8.21875 11 C 8.21875 7.3905387 8.174375 7.0786265 7.4375 6.5625 C 6.8805552 6.1724005 6.8037989 6.034308 8.09375 6 z M 9.625 6.9375 C 9.6025288 8.3270795 9.5844197 9.7041473 9.59375 11.09375 L 10.9375 10.875 C 11.667069 10.756608 12.381024 10.529298 12.53125 10.375 C 12.681479 10.220696 12.910495 9.7093463 13.03125 9.21875 C 13.34271 7.9533833 12.540484 7.0101065 11.0625 6.9375 L 9.625 6.9375 z "
-         style="opacity:0.69999999999999996;fill:url(#linearGradient3027);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         id="rect2386" />
     </g>
   </g>
 </svg>

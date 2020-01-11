@@ -6,51 +6,51 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg5400"
+   width="16px"
    height="16px"
-   width="16px">
+   id="svg5400"
+   version="1.1">
   <defs
      id="defs5402">
     <linearGradient
        id="linearGradient3886-2-8">
       <stop
-         style="stop-color:#2ca42a;stop-opacity:1;"
+         id="stop3888-1-1"
          offset="0"
-         id="stop3888-1-1" />
+         style="stop-color:#2ca42a;stop-opacity:1;" />
       <stop
-         style="stop-color:#57d932;stop-opacity:1;"
+         id="stop3890-6-7"
          offset="1"
-         id="stop3890-6-7" />
+         style="stop-color:#57d932;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3904-5-7">
       <stop
-         id="stop3906-3-3"
+         style="stop-color:#1c521e;stop-opacity:1;"
          offset="0"
-         style="stop-color:#1c521e;stop-opacity:1;" />
+         id="stop3906-3-3" />
       <stop
-         id="stop3908-1-2"
+         style="stop-color:#2f821a;stop-opacity:1;"
          offset="1"
-         style="stop-color:#2f821a;stop-opacity:1;" />
+         id="stop3908-1-2" />
     </linearGradient>
     <linearGradient
-       y2="0"
-       x2="8"
-       y1="16"
-       x1="8"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3886-2-8"
        id="linearGradient4011"
-       xlink:href="#linearGradient3886-2-8" />
-    <linearGradient
-       y2="8"
-       x2="15"
-       y1="8"
-       x1="1"
-       gradientTransform="matrix(0,-1,1,0,0,16)"
        gradientUnits="userSpaceOnUse"
+       x1="8"
+       y1="16"
+       x2="8"
+       y2="0" />
+    <linearGradient
+       xlink:href="#linearGradient3904-5-7"
        id="linearGradient4013"
-       xlink:href="#linearGradient3904-5-7" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,0,16)"
+       x1="1"
+       y1="8"
+       x2="15"
+       y2="8" />
   </defs>
   <metadata
      id="metadata5405">
@@ -69,35 +69,35 @@
   <g
      id="layer2">
     <g
-       style="opacity:0.3"
-       id="g4015">
+       id="g4015"
+       style="opacity:0.3">
       <g
          id="layer1-3">
         <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4011);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           id="path4436-5"
            d="m 1.5,3.5 0,9 c 0,2 2,2 2,2 l 9,0 c 2,0 2,-2 2,-2 l 0,-9 c 0,-2 -2,-2 -2,-2 l -9,0 c -2,0 -2,2 -2,2 z"
-           id="path4436-5" />
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4011);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
         <path
-           id="path3832-1"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.81000000999999999;color:#000000;fill:none;stroke:url(#linearGradient4013);stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
            d="m 12.5,14.5 -9,0 c -2,0 -2,-2 -2,-2 l 0,-9 c 0,-2 2,-2 2,-2 l 9,0 c 2,0 2,2 2,2 l 0,9 c 0,2 -2,2 -2,2 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.81000000999999999;color:#000000;fill:none;stroke:url(#linearGradient4013);stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+           id="path3832-1" />
         <path
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           id="path4035-8"
            d="M 3.5,2 C 3.5,2 3.099493,1.9971285 2.71875,2.1875 2.338007,2.3778715 2,2.6666667 2,3.5 l 0,1 C 2,3.6666667 2.338007,3.3778715 2.71875,3.1875 3.099493,2.99713 3.5,3 3.5,3 l 9,0 c 0.833333,0 1.122128,0.338007 1.3125,0.71875 C 14.0029,4.099493 14,4.5 14,4.5 l 0,-1 C 14,3.5 14.0029,3.099493 13.8125,2.71875 13.622128,2.338007 13.333333,2 12.5,2 l -9,0 z"
-           id="path4035-8" />
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
         <path
-           id="path4051-0"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
            d="m 3.4999987,14.999997 c 0,0 -0.400507,0.0029 -0.78125,-0.1875 -0.380743,-0.190372 -0.71875,-0.479167 -0.71875,-1.3125 l 0,-1 c 0,0.833333 0.338007,1.122128 0.71875,1.3125 0.380743,0.19037 0.78125,0.1875 0.78125,0.1875 l 9.0000003,0 c 0.833333,0 1.122128,-0.338007 1.3125,-0.71875 0.1904,-0.380743 0.1875,-0.78125 0.1875,-0.78125 l 0,1 c 0,0 0.0029,0.400507 -0.1875,0.78125 -0.190372,0.380743 -0.479167,0.71875 -1.3125,0.71875 l -9.0000003,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+           id="path4051-0" />
       </g>
       <path
-         d="M 9,5.00028 9,9 11,9 8,13 5,9 7,9 7,5.00028 z"
+         style="opacity:0.29999999999999999;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path4238"
-         style="opacity:0.29999999999999999;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         d="M 9,5.00028 9,9 11,9 8,13 5,9 7,9 7,5.00028 z" />
       <path
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 9,4.00014 0,3.99972 2,0 -3,4 -3,-4 2,0 0,-3.99972 z"
          id="rect3005"
-         d="m 9,4.00014 0,3.99972 2,0 -3,4 -3,-4 2,0 0,-3.99972 z" />
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>

@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg3833"
-   height="22"
+   version="1.1"
    width="22"
-   version="1.1">
+   height="22"
+   id="svg3833">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -26,30 +26,30 @@
     <linearGradient
        id="linearGradient3678">
       <stop
-         id="stop3680"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3680" />
       <stop
-         id="stop3682"
+         style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1;" />
+         id="stop3682" />
     </linearGradient>
     <linearGradient
-       y2="17.561304"
-       x2="11.191199"
-       y1="3.561305"
-       x1="11.191199"
-       gradientTransform="translate(-0.191199,6.438695)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3678"
        id="linearGradient2851"
-       xlink:href="#linearGradient3678" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.191199,6.438695)"
+       x1="11.191199"
+       y1="3.561305"
+       x2="11.191199"
+       y2="17.561304" />
   </defs>
   <path
-     d="M 6.5,4.5 2,8 6.5,11 2,15 11,21 20,15 15.5,11 20,8 15.5,4.5 11,8 6.5,4.5 z"
+     style="opacity:0.50000000000000000;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3973"
-     style="opacity:0.50000000000000000;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="M 6.5,4.5 2,8 6.5,11 2,15 11,21 20,15 15.5,11 20,8 15.5,4.5 11,8 6.5,4.5 z" />
   <path
-     d="M 6.5,3.5 2,7 6.5,10 2,14 11,20 20,14 15.5,10 20,7 15.5,3.5 11,7 6.5,3.5 z"
+     style="opacity:1;color:#000000;fill:url(#linearGradient2851);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3967"
-     style="opacity:1;color:#000000;fill:url(#linearGradient2851);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     d="M 6.5,3.5 2,7 6.5,10 2,14 11,20 20,14 15.5,10 20,7 15.5,3.5 11,7 6.5,3.5 z" />
 </svg>

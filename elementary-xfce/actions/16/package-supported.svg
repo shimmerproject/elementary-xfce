@@ -6,67 +6,67 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg3495"
+   width="16"
    height="16"
-   width="16">
+   id="svg3495"
+   version="1.1">
   <defs
      id="defs3497">
     <clipPath
-       id="clipPath4307"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4307">
       <path
-         style="color:#000000;fill:#36e12b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 168,265 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z m 3.3125,3.0625 1.5625,1.40625 -5.25,6.9375 -4.0625,-3.5 1.34375,-1.78125 2.375,2.0625 4.03125,-5.125 z"
          id="path4309"
-         d="m 168,265 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z m 3.3125,3.0625 1.5625,1.40625 -5.25,6.9375 -4.0625,-3.5 1.34375,-1.78125 2.375,2.0625 4.03125,-5.125 z" />
+         style="color:#000000;fill:#36e12b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
     <clipPath
-       id="clipPath4201"
-       clipPathUnits="userSpaceOnUse">
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4201">
       <path
-         style="color:#000000;fill:url(#linearGradient4205);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 26.5,225.59375 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z"
          id="path4203"
-         d="m 26.5,225.59375 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z" />
+         style="color:#000000;fill:url(#linearGradient4205);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84323651;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        id="linearGradient3904">
       <stop
-         style="stop-color:#104b88;stop-opacity:1;"
+         id="stop3906"
          offset="0"
-         id="stop3906" />
+         style="stop-color:#104b88;stop-opacity:1;" />
       <stop
-         style="stop-color:#0e7398;stop-opacity:1;"
+         id="stop3908"
          offset="1"
-         id="stop3908" />
+         style="stop-color:#0e7398;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3886">
       <stop
-         id="stop3888"
+         style="stop-color:#5097e1;stop-opacity:1;"
          offset="0"
-         style="stop-color:#5097e1;stop-opacity:1;" />
+         id="stop3888" />
       <stop
-         id="stop3890"
+         style="stop-color:#53d0ff;stop-opacity:1"
          offset="1"
-         style="stop-color:#53d0ff;stop-opacity:1" />
+         id="stop3890" />
     </linearGradient>
     <linearGradient
-       y2="264"
-       x2="168"
-       y1="280"
-       x1="168"
-       gradientTransform="matrix(0.92857143,0,0,0.92857143,-148,-212.57143)"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3886"
        id="linearGradient3852"
-       xlink:href="#linearGradient3886" />
-    <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="272"
-       x2="175"
-       y1="272"
-       x1="161"
+       gradientTransform="matrix(0.92857143,0,0,0.92857143,-148,-212.57143)"
+       x1="168"
+       y1="280"
+       x2="168"
+       y2="264" />
+    <linearGradient
+       xlink:href="#linearGradient3904"
        id="linearGradient3860"
-       xlink:href="#linearGradient3904" />
+       x1="161"
+       y1="272"
+       x2="175"
+       y2="272"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3500">
@@ -81,31 +81,31 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-32)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-32)">
     <path
-       d="m 8,33.5 c -3.5898479,0 -6.5,2.910152 -6.5,6.5 0,3.589848 2.9101521,6.5 6.5,6.5 3.589857,0 6.5,-2.910152 6.5,-6.5 0,-3.589848 -2.910143,-6.5 -6.5,-6.5 z"
+       style="color:#000000;fill:url(#linearGradient3852);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.84323650999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path2922-6-6-0"
-       style="color:#000000;fill:url(#linearGradient3852);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.84323650999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       d="m 8,33.5 c -3.5898479,0 -6.5,2.910152 -6.5,6.5 0,3.589848 2.9101521,6.5 6.5,6.5 3.589857,0 6.5,-2.910152 6.5,-6.5 0,-3.589848 -2.910143,-6.5 -6.5,-6.5 z" />
     <g
-       clip-path="url(#clipPath4201)"
-       id="g4151-4"
+       transform="translate(-18.5,-192.59375)"
        style="display:inline;enable-background:new"
-       transform="translate(-18.5,-192.59375)">
+       id="g4151-4"
+       clip-path="url(#clipPath4201)">
       <path
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         id="path4153-1"
          d="m 31.4375,228.4065 -4.9375,4.9375 -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
-         id="path4153-1" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.3;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
       <path
-         id="path4155-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 31.4375,227.40625 -4.9375,4.9375 -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         id="path4155-1" />
     </g>
     <path
-       clip-path="url(#clipPath4307)"
-       style="opacity:0.81;color:#000000;fill:none;stroke:url(#linearGradient3860);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path4303"
+       transform="matrix(0,-1,-1,0,280,208)"
        d="m 168,265 c -3.86599,0 -7,3.13401 -7,7 0,3.86599 3.13401,7 7,7 3.866,0 7,-3.13401 7,-7 0,-3.86599 -3.134,-7 -7,-7 z"
-       transform="matrix(0,-1,-1,0,280,208)" />
+       id="path4303"
+       style="opacity:0.81;color:#000000;fill:none;stroke:url(#linearGradient3860);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       clip-path="url(#clipPath4307)" />
   </g>
 </svg>

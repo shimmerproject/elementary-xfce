@@ -6,41 +6,41 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg4524"
-   height="22"
+   version="1.1"
    width="22"
-   version="1.1">
+   height="22"
+   id="svg4524">
   <defs
      id="defs4526">
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5">
       <stop
-         offset="0"
+         id="stop5430-5-0-9"
          style="stop-color:#737373;stop-opacity:1"
-         id="stop5430-5-0-9" />
+         offset="0" />
       <stop
-         offset="0.26238"
+         id="stop5432-2-0-0"
          style="stop-color:#636363;stop-opacity:1"
-         id="stop5432-2-0-0" />
+         offset="0.26238" />
       <stop
-         offset="0.704952"
+         id="stop5434-9-6-8"
          style="stop-color:#4b4b4b;stop-opacity:1"
-         id="stop5434-9-6-8" />
+         offset="0.704952" />
       <stop
-         offset="1"
+         id="stop5436-2-7-0"
          style="stop-color:#3f3f3f;stop-opacity:1"
-         id="stop5436-2-7-0" />
+         offset="1" />
     </linearGradient>
     <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-3.2111225,-6.1752354e-8,6.6898384e-8,-3.4787161,53.744593,12.496487)"
-       r="7.4740219"
-       fy="3.3048072"
-       fx="13"
-       cy="3.3048072"
-       cx="13"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5"
        id="radialGradient3782"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-641-289-620-227-114-444-680-744-4-1-5" />
+       cx="13"
+       cy="3.3048072"
+       fx="13"
+       fy="3.3048072"
+       r="7.4740219"
+       gradientTransform="matrix(-3.2111225,-6.1752354e-8,6.6898384e-8,-3.4787161,53.744593,12.496487)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4529">
@@ -55,15 +55,15 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     id="path3784"
      d="m 6.380272,4.025978 c -0.096416,0.025584 -0.1847536,0.080795 -0.25,0.15625 l -2,2 c -0.173696,0.1835043 -0.173696,0.5039957 0,0.6875 l 4.65625,4.65625 -4.65625,4.65625 c -0.173696,0.183504 -0.173696,0.503996 0,0.6875 l 2,2 c 0.1835043,0.173696 0.5039957,0.173696 0.6875,0 l 4.65625,-4.65625 4.65625,4.65625 c 0.183504,0.173696 0.503996,0.173696 0.6875,0 l 2,-2 c 0.173696,-0.183504 0.173696,-0.503996 0,-0.6875 l -4.65625,-4.65625 4.65625,-4.65625 c 0.173696,-0.1835043 0.173696,-0.5039957 0,-0.6875 l -2,-2 c -0.183504,-0.173696 -0.503996,-0.173696 -0.6875,0 l -4.65625,4.65625 -4.65625,-4.65625 C 6.7086248,4.0638101 6.5397411,4.0034945 6.380272,4.025978 z"
-     id="path3784" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.35;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   <path
-     id="path3000"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#radialGradient3782);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="m 6.40625,3 c -0.096416,0.025584 -0.1847536,0.080795 -0.25,0.15625 l -2,2 c -0.173696,0.1835043 -0.173696,0.5039957 0,0.6875 L 8.8125,10.5 4.15625,15.15625 c -0.173696,0.183504 -0.173696,0.503996 0,0.6875 l 2,2 c 0.1835043,0.173696 0.5039957,0.173696 0.6875,0 L 11.5,13.1875 l 4.65625,4.65625 c 0.183504,0.173696 0.503996,0.173696 0.6875,0 l 2,-2 c 0.173696,-0.183504 0.173696,-0.503996 0,-0.6875 L 14.1875,10.5 18.84375,5.84375 c 0.173696,-0.1835043 0.173696,-0.5039957 0,-0.6875 l -2,-2 c -0.183504,-0.173696 -0.503996,-0.173696 -0.6875,0 L 11.5,7.8125 6.84375,3.15625 C 6.7346028,3.0378321 6.5657191,2.9775165 6.40625,3 z"
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#radialGradient3782);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+     id="path3000" />
   <path
-     id="path3058"
+     style="opacity:0.1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
      d="m 18.499995,15.5 -2,2 -5,-5 L 6.5,17.5 4.5,15.5 9.499995,10.499996 4.5,5.4999955 l 2,-2 4.999995,5 5,-5 2,2 -5,5.0000085 z"
-     style="opacity:0.1;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+     id="path3058" />
 </svg>

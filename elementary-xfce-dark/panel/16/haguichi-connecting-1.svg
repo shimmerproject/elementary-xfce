@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   id="svg6001"
-   height="16"
+   version="1.1"
    width="16"
-   version="1.1">
+   height="16"
+   id="svg6001">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -27,51 +27,51 @@
     <linearGradient
        id="linearGradient4140">
       <stop
-         id="stop4142"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1" />
+         id="stop4142" />
       <stop
-         id="stop4144"
+         style="stop-color:#e6e6e6;stop-opacity:1"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1" />
+         id="stop4144" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="10"
-       y1="4"
-       x1="10"
-       id="linearGradient4146"
-       xlink:href="#linearGradient4140" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="14"
-       y1="4"
-       x1="14"
-       id="linearGradient4154"
        xlink:href="#linearGradient4140"
-       gradientTransform="translate(-3.0000003,-4)" />
+       id="linearGradient4146"
+       x1="10"
+       y1="4"
+       x2="10"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(-3.0000003,-4)"
+       xlink:href="#linearGradient4140"
+       id="linearGradient4154"
+       x1="14"
+       y1="4"
+       x2="14"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
-     id="g4163"
+     transform="translate(-3.0000003,-4)"
      style="opacity:0.4"
-     transform="translate(-3.0000003,-4)">
+     id="g4163">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+       d="m 11.945488,5.0000001 5.054513,0 L 10.054513,12.5 7.4505151,15.131838 5.0000003,12.5 Z"
        id="rect4985-6-3"
-       d="m 11.945488,5.0000001 5.054513,0 L 10.054513,12.5 7.4505151,15.131838 5.0000003,12.5 Z" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4146);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+       d="m 11.945489,3.9999826 5.054513,0 -6.945488,7.5000004 -2.603998,2.631837 -2.4505148,-2.631837 z"
        id="rect4985-6"
-       d="m 11.945489,3.9999826 5.054513,0 -6.945488,7.5000004 -2.603998,2.631837 -2.4505148,-2.631837 z" />
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4146);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
   </g>
   <path
-     d="M 8.9454877,16 14.000001,16 7.4958277,8.974692 4.4417731,11.122649 Z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
      id="rect4985-3"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+     d="M 8.9454877,16 14.000001,16 7.4958277,8.974692 4.4417731,11.122649 Z" />
   <path
-     d="m 8.9454887,14.999983 5.0545133,0 L 7.4958287,7.974675 4.441774,10.122631 Z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
      id="rect4985"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+     d="m 8.9454887,14.999983 5.0545133,0 L 7.4958287,7.974675 4.441774,10.122631 Z" />
 </svg>

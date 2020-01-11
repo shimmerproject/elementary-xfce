@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   height="16"
-   width="16"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
   <defs
      id="defs7">
     <linearGradient
        id="linearGradient3678">
       <stop
-         id="stop3680"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3680" />
       <stop
-         id="stop3682"
+         style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1;" />
+         id="stop3682" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="15"
-       x2="3.4547529"
-       y1="1"
-       x1="3.4547529"
+       xlink:href="#linearGradient3678"
        id="linearGradient854"
-       xlink:href="#linearGradient3678" />
+       x1="3.4547529"
+       y1="1"
+       x2="3.4547529"
+       y2="15"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata12">
@@ -45,11 +45,11 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;stroke-width:0.93541437;marker:none;opacity:0.5"
+     id="path856"
      d="M 8,2 V 4 C 4.686292,4 2,6.100505 2,9 H 4 C 4,7.0667367 5.790556,5.999623 8,6 v 2 l 5,-3 z m 4,7 c 0,1.933263 -1.790556,3.000377 -4,3 v -2 l -5,3 5,3 v -2 c 3.313708,0 6,-2.100505 6,-5 z"
-     id="path856" />
+     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;stroke-width:0.93541437;marker:none;opacity:0.5" />
   <path
-     id="path816"
+     style="color:#bebebe;overflow:visible;fill:url(#linearGradient854);fill-opacity:1;stroke-width:0.93541437;marker:none"
      d="M 8 1 L 8 3 C 4.686292 3 2 5.100505 2 8 L 4 8 C 4 6.0667367 5.790556 4.999623 8 5 L 8 7 L 13 4 L 8 1 z M 12 8 C 12 9.9332633 10.209444 11.000377 8 11 L 8 9 L 3 12 L 8 15 L 8 13 C 11.313708 13 14 10.899495 14 8 L 12 8 z "
-     style="color:#bebebe;overflow:visible;fill:url(#linearGradient854);fill-opacity:1;stroke-width:0.93541437;marker:none" />
+     id="path816" />
 </svg>

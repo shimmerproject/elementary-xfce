@@ -5,10 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="svg2"
+   height="16"
    width="16"
-   height="16">
+   id="svg2"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,23 +23,23 @@
   <defs
      id="defs12" />
   <g
-     id="g4"
-     fill="#666">
+     fill="#666"
+     id="g4">
     <path
-       id="path6"
-       style="marker:none"
-       overflow="visible"
+       color="#bebebe"
        d="M6 12h3V4H6zm-4 2h3V4H2zm8-4h3V4h-3z"
-       color="#bebebe" />
-    <path
-       id="path8"
-       white-space="normal"
-       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
        overflow="visible"
-       font-weight="400"
-       font-family="sans-serif"
-       fill-rule="evenodd"
+       style="marker:none"
+       id="path6" />
+    <path
+       color="#000"
        d="M1 3h1V2H1zm2 0h1V2H3zm2 0h1V2H5zm2 0h1V2H7zm2 0h1V2H9zm2 0h1V2h-1zm2 0h1V2h-1z"
-       color="#000" />
+       fill-rule="evenodd"
+       font-family="sans-serif"
+       font-weight="400"
+       overflow="visible"
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal"
+       white-space="normal"
+       id="path8" />
   </g>
 </svg>

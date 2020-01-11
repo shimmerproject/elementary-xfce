@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   height="22"
-   width="22"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="22"
+   height="22">
   <defs
      id="defs7">
     <linearGradient
        id="linearGradient3587-6-5-3">
       <stop
-         offset="0"
+         id="stop3589-9-2-2"
          style="stop-color:#000000;stop-opacity:1"
-         id="stop3589-9-2-2" />
+         offset="0" />
       <stop
-         offset="1"
+         id="stop3591-7-4-73"
          style="stop-color:#363636;stop-opacity:1"
-         id="stop3591-7-4-73" />
+         offset="1" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="7"
-       y1="3"
-       x1="7"
+       xlink:href="#linearGradient3587-6-5-3"
        id="linearGradient836"
-       xlink:href="#linearGradient3587-6-5-3" />
+       x1="7"
+       y1="3"
+       x2="7"
+       y2="19"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata12">
@@ -45,13 +45,13 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path838"
+     style="color:#bebebe;overflow:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;marker:none"
+     overflow="visible"
      d="m 11,4 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 l 5,-3 z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
-     overflow="visible"
-     style="color:#bebebe;overflow:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;marker:none" />
+     id="path838" />
   <path
-     style="color:#bebebe;overflow:visible;fill:url(#linearGradient836);marker:none;fill-opacity:1;opacity:0.7"
-     overflow="visible"
+     id="path816"
      d="m 11,3 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 l 5,-3 z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
-     id="path816" />
+     overflow="visible"
+     style="color:#bebebe;overflow:visible;fill:url(#linearGradient836);marker:none;fill-opacity:1;opacity:0.7" />
 </svg>

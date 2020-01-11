@@ -6,31 +6,31 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   height="24"
-   width="24"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="24"
+   height="24">
   <defs
      id="defs7">
     <linearGradient
-       gradientTransform="matrix(1.1818182,0,0,1.125,-0.9090909,-0.375)"
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="7"
-       y1="3"
-       x1="7"
+       xlink:href="#linearGradient3678"
        id="linearGradient836"
-       xlink:href="#linearGradient3678" />
+       x1="7"
+       y1="3"
+       x2="7"
+       y2="19"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1818182,0,0,1.125,-0.9090909,-0.375)" />
     <linearGradient
        id="linearGradient3678">
       <stop
-         id="stop3680"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         id="stop3680" />
       <stop
-         id="stop3682"
+         style="stop-color:#e6e6e6;stop-opacity:1;"
          offset="1"
-         style="stop-color:#e6e6e6;stop-opacity:1;" />
+         id="stop3682" />
     </linearGradient>
   </defs>
   <metadata
@@ -46,11 +46,11 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path816-5-0"
+     style="color:#bebebe;overflow:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.15305912;marker:none"
      d="M 12,4 V 6 C 8.083799,6 5,9.2721 5,13 H 7 C 7,10.5147 9.3892,8 12,8 v 2 l 6,-3 z m 5,9 c 0,2.4853 -2.3892,5 -5,5 v -2 l -6,3 6,3 v -2 c 3.916201,0 7,-3.2721 7,-7 z"
-     style="color:#bebebe;overflow:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke-width:1.15305912;marker:none" />
+     id="path816-5-0" />
   <path
-     id="path816"
+     style="color:#bebebe;overflow:visible;opacity:1;fill:url(#linearGradient836);fill-opacity:1.0;stroke-width:1.15305912;marker:none"
      d="M 12 3 L 12 5 C 8.0837991 5 5 8.2721 5 12 L 7 12 C 7 9.5147 9.3892 7 12 7 L 12 9 L 18 6 L 12 3 z M 17 12 C 17 14.4853 14.6108 17 12 17 L 12 15 L 6 18 L 12 21 L 12 19 C 15.916201 19 19 15.7279 19 12 L 17 12 z "
-     style="color:#bebebe;overflow:visible;opacity:1;fill:url(#linearGradient836);fill-opacity:1.0;stroke-width:1.15305912;marker:none" />
+     id="path816" />
 </svg>

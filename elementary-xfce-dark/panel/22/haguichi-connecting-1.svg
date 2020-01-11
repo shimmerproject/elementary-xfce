@@ -6,10 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="22"
+   id="svg6001"
    height="22"
-   id="svg6001">
+   width="22"
+   version="1.1">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -27,49 +27,49 @@
     <linearGradient
        id="linearGradient4140">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop4142"
          offset="0"
-         id="stop4142" />
+         style="stop-color:#ffffff;stop-opacity:1" />
       <stop
-         style="stop-color:#e6e6e6;stop-opacity:1"
+         id="stop4144"
          offset="1"
-         id="stop4144" />
+         style="stop-color:#e6e6e6;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient4140"
-       id="linearGradient4146"
-       x1="10"
-       y1="4"
+       gradientUnits="userSpaceOnUse"
+       y2="19"
        x2="10"
-       y2="19"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#linearGradient4140"
-       id="linearGradient4154"
-       x1="14"
        y1="4"
-       x2="14"
+       x1="10"
+       id="linearGradient4146"
+       xlink:href="#linearGradient4140" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
        y2="19"
-       gradientUnits="userSpaceOnUse" />
+       x2="14"
+       y1="4"
+       x1="14"
+       id="linearGradient4154"
+       xlink:href="#linearGradient4140" />
   </defs>
   <g
-     style="opacity:0.4"
-     id="g4163">
+     id="g4163"
+     style="opacity:0.4">
     <path
-       d="m 11.945488,5.0000001 5.054513,0 L 10.054513,12.5 7.4505151,15.131838 5.0000003,12.5 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        id="rect4985-6-3"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+       d="m 11.945488,5.0000001 5.054513,0 L 10.054513,12.5 7.4505151,15.131838 5.0000003,12.5 Z" />
     <path
-       d="m 11.945489,3.9999826 5.054513,0 -6.945488,7.5000004 -2.603998,2.631837 -2.4505148,-2.631837 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4146);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        id="rect4985-6"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4146);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+       d="m 11.945489,3.9999826 5.054513,0 -6.945488,7.5000004 -2.603998,2.631837 -2.4505148,-2.631837 z" />
   </g>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+     d="m 11.945488,20 5.054513,0 -6.504173,-7.025308 -3.0540546,2.147957 z"
      id="rect4985-3"
-     d="m 11.945488,20 5.054513,0 -6.504173,-7.025308 -3.0540546,2.147957 z" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+     d="m 11.945489,18.999983 5.054513,0 -6.504173,-7.025308 -3.0540547,2.147956 z"
      id="rect4985"
-     d="m 11.945489,18.999983 5.054513,0 -6.504173,-7.025308 -3.0540547,2.147956 z" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
 </svg>

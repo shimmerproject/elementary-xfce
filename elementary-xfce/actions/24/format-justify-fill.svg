@@ -6,59 +6,59 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   id="svg3495"
+   width="24"
    height="24"
-   width="24">
+   id="svg3495"
+   version="1.1">
   <defs
      id="defs3497">
     <linearGradient
        id="linearGradient3821">
       <stop
-         id="stop3823"
+         style="stop-color:#555555;stop-opacity:1;"
          offset="0"
-         style="stop-color:#555555;stop-opacity:1;" />
+         id="stop3823" />
       <stop
-         id="stop3825"
+         style="stop-color:#666666;stop-opacity:1;"
          offset="1"
-         style="stop-color:#666666;stop-opacity:1;" />
+         id="stop3825" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(-1,0,0,1,21,35)"
-       y2="0"
-       x2="12"
-       y1="22"
-       x1="12"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3821"
        id="linearGradient3233"
-       xlink:href="#linearGradient3821" />
-    <linearGradient
-       gradientTransform="matrix(-1,0,0,1,22,30)"
-       y2="0"
-       x2="12"
-       y1="22"
-       x1="12"
        gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="22"
+       x2="12"
+       y2="0"
+       gradientTransform="matrix(-1,0,0,1,21,35)" />
+    <linearGradient
+       xlink:href="#linearGradient3821"
        id="linearGradient3247"
-       xlink:href="#linearGradient3821" />
-    <linearGradient
-       gradientTransform="matrix(-1,0,0,1,23,25)"
-       y2="0"
-       x2="12"
-       y1="22"
-       x1="12"
        gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="22"
+       x2="12"
+       y2="0"
+       gradientTransform="matrix(-1,0,0,1,22,30)" />
+    <linearGradient
+       xlink:href="#linearGradient3821"
        id="linearGradient3261"
-       xlink:href="#linearGradient3821" />
-    <linearGradient
-       gradientTransform="matrix(-1,0,0,1,20,20)"
-       y2="0"
-       x2="12"
-       y1="22"
-       x1="12"
        gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="22"
+       x2="12"
+       y2="0"
+       gradientTransform="matrix(-1,0,0,1,23,25)" />
+    <linearGradient
+       xlink:href="#linearGradient3821"
        id="linearGradient3275"
-       xlink:href="#linearGradient3821" />
+       gradientUnits="userSpaceOnUse"
+       x1="12"
+       y1="22"
+       x2="12"
+       y2="0"
+       gradientTransform="matrix(-1,0,0,1,20,20)" />
   </defs>
   <metadata
      id="metadata3500">
@@ -73,55 +73,55 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-24)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-24)">
     <path
-       id="rect3816"
+       style="fill:url(#linearGradient3233);fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 21.5,43.5 0,3 -19,0 0,-3 z"
-       style="fill:url(#linearGradient3233);fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="rect3816" />
     <path
-       id="path3833"
+       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
        d="m 21.5,43.5 0,3 -19,0 0,-3 z"
-       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round" />
+       id="path3833" />
     <path
-       id="path3835"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 3,44 0,2 1,0 0,-1 17,0 0,-1 z"
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3835" />
     <path
-       id="path3067"
+       style="fill:url(#linearGradient3247);fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 21.5,38.5 0,3 -19,0 0,-3 z"
-       style="fill:url(#linearGradient3247);fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3067" />
     <path
-       id="path3069"
+       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
        d="m 21.5,38.5 0,3 -19,0 0,-3 z"
-       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round" />
+       id="path3069" />
     <path
-       id="path3071"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 3,39 0,2 1,0 0,-1 17,0 0,-1 z"
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3071" />
     <path
-       id="path3091"
+       style="fill:url(#linearGradient3261);fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 21.5,33.5 0,3 -19,0 0,-3 z"
-       style="fill:url(#linearGradient3261);fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3091" />
     <path
-       id="path3093"
+       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
        d="m 21.5,33.5 0,3 -19,0 0,-3 z"
-       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round" />
+       id="path3093" />
     <path
-       id="path3095"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 3,34 0,2 1,0 0,-1 17,0 0,-1 z"
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3095" />
     <path
-       id="path3115"
+       style="fill:url(#linearGradient3275);fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 21.5,28.5 0,3 -19,0 0,-3 z"
-       style="fill:url(#linearGradient3275);fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3115" />
     <path
-       id="path3117"
+       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
        d="m 21.5,28.5 0,3 -19,0 0,-3 z"
-       style="opacity:0.61000001;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round" />
+       id="path3117" />
     <path
-       id="path3119"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round"
        d="m 3,29 0,2 1,0 0,-1 17,0 0,-1 z"
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linejoin:round" />
+       id="path3119" />
   </g>
 </svg>
