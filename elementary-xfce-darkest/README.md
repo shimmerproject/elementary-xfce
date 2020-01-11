@@ -1,1 +1,1 @@
-../README.md
+../elementary-xfce/README.md
