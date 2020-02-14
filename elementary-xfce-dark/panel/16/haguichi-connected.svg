@@ -5,11 +5,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg6001"
    height="16"
    width="16"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="haguichi-connected.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview12"
+     showgrid="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-4.5762712"
+     inkscape:cy="6.9152542"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6001">
+    <inkscape:grid
+       type="xygrid"
+       id="grid830" />
+  </sodipodi:namedview>
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,34 +51,22 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6003">
-    <linearGradient
-       id="linearGradient4149">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop4151" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:1"
-         offset="1"
-         id="stop4153" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(-3,-4)"
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="14"
-       y1="4"
-       x1="14"
-       id="linearGradient4150"
-       xlink:href="#linearGradient4149" />
-  </defs>
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-     d="M 8.945312,1 2,8.5 l 2.4414062,2.623047 0.00977,0.0098 L 8.945312,16 14,16 7.496094,8.974609 4.5058594,11.078125 7.054688,8.5 14,1 8.945312,1 Z"
-     id="rect4985-3" />
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4150);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-     d="M 8.945312,0 2,7.5 l 2.4433594,2.621094 -0.00195,0.002 L 8.945312,15 14,15 7.496094,7.974609 4.4980469,10.082031 7.054688,7.5 14,0 8.945312,0 Z"
-     id="rect4985" />
+     id="defs6003" />
+  <g
+     transform="translate(-3,-4)"
+     id="g4163"
+     style="opacity:1;fill:#fcfcfc;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#fcfcfc;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 11.5834,19 H 16.375 L 10.2095,12.4433 7.3146,14.448 Z"
+       id="path5" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#fcfcfc;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 11.5834,4.9999999 H 16.375 L 9.7909,11.9996 7.3229,14.457 5,11.9996 Z"
+       id="path7" />
+  </g>
 </svg>
