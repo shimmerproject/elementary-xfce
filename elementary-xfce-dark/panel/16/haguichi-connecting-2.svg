@@ -5,11 +5,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg6001"
    height="16"
    width="16"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="haguichi-connecting-2.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview12"
+     showgrid="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-17.254237"
+     inkscape:cy="6.3728813"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4163">
+    <inkscape:grid
+       type="xygrid"
+       id="grid830" />
+  </sodipodi:namedview>
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,55 +51,22 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6003">
-    <linearGradient
-       id="linearGradient4138">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop4140" />
-      <stop
-         style="stop-color:#e6e6e6;stop-opacity:1"
-         offset="1"
-         id="stop4142" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="translate(-3.0000003,-4)"
-       xlink:href="#linearGradient4138"
-       id="linearGradient4144"
-       x1="10"
-       y1="4"
-       x2="10"
-       y2="19"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#linearGradient4138"
-       id="linearGradient4154"
-       x1="14"
-       y1="4"
-       x2="14"
-       y2="19"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <path
-     d="m 8.9454877,1.0000001 5.0545133,0 L 7.0545127,8.5 4.4505148,11.131838 2,8.5 Z"
-     id="rect4985-6-3"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
-  <path
-     d="m 8.9454887,-1.74e-5 5.0545133,0 L 7.0545137,7.499983 4.4505157,10.13182 2.0000009,7.499983 Z"
-     id="rect4985-6"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4144);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new" />
+     id="defs6003" />
   <g
-     transform="translate(-3.0000003,-4)"
-     style="opacity:0.4"
-     id="g4140">
+     transform="translate(-3,-4)"
+     id="g4163"
+     style="opacity:1;fill:#d4d4d4;fill-opacity:1">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-       id="rect4985-3"
-       d="m 11.945488,20 5.054513,0 -6.504173,-7.025308 -3.0540546,2.147957 z" />
+       inkscape:connector-curvature="0"
+       style="fill:#666666;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 11.5834,19 H 16.375 L 10.2095,12.4433 7.3146,14.448 Z"
+       id="path5" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4154);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-       id="rect4985"
-       d="m 11.945489,18.999983 5.054513,0 -6.504173,-7.025308 -3.0540547,2.147956 z" />
+       inkscape:connector-curvature="0"
+       style="fill:#fcfcfc;fill-opacity:1"
+       class="ColorScheme-Text"
+       d="M 11.5834,4.9999999 H 16.375 L 9.7909,11.9996 7.3229,14.457 5,11.9996 Z"
+       id="path7" />
   </g>
 </svg>
