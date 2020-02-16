@@ -6,25 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="22"
-   height="22"
-   sodipodi:docname="software-update-urgent.svg.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   height="22">
   <defs
      id="defs7">
-    <linearGradient
-       x1="159.68553"
-       y1="14.403693"
-       x2="159.68553"
-       y2="38.279892"
-       id="linearGradient2388"
-       xlink:href="#linearGradient3587-6-5-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.32801832,0,0,0.5447147,39.023996,-13.845903)" />
     <linearGradient
        id="linearGradient3587-6-5-3">
       <stop
@@ -37,7 +24,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3587-6-5-3"
        id="linearGradient835"
        x1="6"
@@ -46,30 +32,6 @@
        y2="19"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1149"
-     id="namedview5"
-     showgrid="true"
-     inkscape:zoom="16.94"
-     inkscape:cx="-3.4321134"
-     inkscape:cy="7.7638725"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4538" />
-  </sodipodi:namedview>
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -78,15 +40,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <path
      id="path837"
      d="m 11,4 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 L 14.164062,8.1015625 A 3.5,3.5 0 0 1 13,5.5 3.5,3.5 0 0 1 13.013672,5.2089844 Z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
-     style="color:#bebebe;overflow:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;marker:none"
-     inkscape:connector-curvature="0" />
+     style="color:#bebebe;overflow:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;marker:none" />
   <circle
      r="3.5"
      cy="5.5"

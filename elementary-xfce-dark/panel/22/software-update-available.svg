@@ -6,25 +6,12 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="22"
-   height="22"
-   sodipodi:docname="software-update-available.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   height="22">
   <defs
      id="defs7">
-    <linearGradient
-       xlink:href="#linearGradient3678"
-       id="linearGradient3805"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.51263812,0,0,-0.51263812,30.421543,8.587315)"
-       x1="18.684637"
-       y1="34.307465"
-       x2="18.684637"
-       y2="5.0470595" />
     <linearGradient
        id="linearGradient3678">
       <stop
@@ -37,7 +24,6 @@
          id="stop3682" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3678"
        id="linearGradient843"
        x1="8"
@@ -46,30 +32,6 @@
        y2="20"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
-     id="namedview5"
-     showgrid="true"
-     inkscape:zoom="18.16"
-     inkscape:cx="11.802519"
-     inkscape:cy="10.432819"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4538" />
-  </sodipodi:namedview>
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -91,8 +53,7 @@
   <path
      id="path821"
      d="m 11,4 v 2 a 6,6 0 0 0 -6,6 h 2 a 4,4 0 0 1 4,-4 v 2 L 14.164062,8.1015625 A 3.5,3.5 0 0 1 13,5.5 3.5,3.5 0 0 1 13.013672,5.2089844 Z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
-     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;marker:none;opacity:0.5"
-     inkscape:connector-curvature="0" />
+     style="color:#bebebe;overflow:visible;fill:#000000;fill-opacity:1;marker:none;opacity:0.5" />
   <path
      style="color:#bebebe;overflow:visible;fill:url(#linearGradient843);fill-opacity:1;marker:none"
      d="M 11 3 L 11 5 A 6 6 0 0 0 5 11 L 7 11 A 4 4 0 0 1 11 7 L 11 9 L 14.164062 7.1015625 A 3.5 3.5 0 0 1 13 4.5 A 3.5 3.5 0 0 1 13.013672 4.2089844 L 11 3 z M 15 11 A 4 4 0 0 1 11 15 L 11 13 L 6 16 L 11 19 L 11 17 A 6 6 0 0 0 17 11 L 15 11 z "
