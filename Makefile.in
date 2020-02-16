@@ -46,8 +46,9 @@ builddir:
 	mkdir -p build/elementary-xfce-darker && cp -R elementary-xfce-darker/. build/elementary-xfce-darker
 	mkdir -p build/elementary-xfce-darkest && cp -R elementary-xfce-darkest/. build/elementary-xfce-darkest
 	rm build/elementary-xfce/AUTHORS && cp AUTHORS build/elementary-xfce
-	rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce
 	rm build/elementary-xfce/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce
+	rm build/elementary-xfce/LICENSE && cp LICENSE build/elementary-xfce
+	rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce
 
 .PHONY: all $(SUBDIRS)
 
