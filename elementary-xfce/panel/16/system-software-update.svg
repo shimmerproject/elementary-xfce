@@ -5,33 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="16"
-   height="16">
+   height="16"
+   sodipodi:docname="system-software-update.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
-     id="defs7">
-    <linearGradient
-       id="linearGradient3587-6-5-3">
-      <stop
-         id="stop3589-9-2-2"
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3591-7-4-73"
-         style="stop-color:#363636;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient3587-6-5-3"
-       id="linearGradient837"
-       x1="4"
-       y1="1"
-       x2="4"
-       y2="15"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview5"
+     showgrid="true"
+     inkscape:zoom="15.81"
+     inkscape:cx="-32.073371"
+     inkscape:cy="6.7349778"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid814" />
+  </sodipodi:namedview>
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -45,11 +52,9 @@
     </rdf:RDF>
   </metadata>
   <path
-     id="path839"
-     d="M 8,2 V 4 C 4.686292,4 2,6.100505 2,9 H 4 C 4,7.0667367 5.790556,5.999623 8,6 v 2 l 5,-3 z m 4,7 c 0,1.933263 -1.790556,3.000377 -4,3 v -2 l -5,3 5,3 v -2 c 3.313708,0 6,-2.100505 6,-5 z"
-     style="color:#bebebe;overflow:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;stroke-width:0.93541437;marker:none" />
-  <path
-     style="color:#bebebe;overflow:visible;fill:url(#linearGradient837);fill-opacity:1;stroke-width:0.93541437;marker:none;opacity:0.7"
-     d="M 8 1 L 8 3 C 4.686292 3 2 5.100505 2 8 L 4 8 C 4 6.0667367 5.790556 4.999623 8 5 L 8 7 L 13 4 L 8 1 z M 12 8 C 12 9.9332633 10.209444 11.000377 8 11 L 8 9 L 3 12 L 8 15 L 8 13 C 11.313708 13 14 10.899495 14 8 L 12 8 z "
-     id="path816" />
+     id="path816"
+     d="M 7,0 V 2 A 6,6 0 0 0 1,8 H 3 A 4,4 0 0 1 7,4 v 2 l 5,-3 z m 4,8 a 4,4 0 0 1 -4,4 v -2 l -5,3 5,3 v -2 a 6,6 0 0 0 6,-6 z"
+     overflow="visible"
+     style="color:#bebebe;overflow:visible;opacity:1;fill:#666666;fill-opacity:1;marker:none"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -5,11 +5,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
-   width="16"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg6001"
    height="16"
-   id="svg6001">
+   width="16"
+   version="1.1"
+   sodipodi:docname="haguichi-disconnected.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview12"
+     showgrid="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-29.932203"
+     inkscape:cy="5.8305084"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4163">
+    <inkscape:grid
+       type="xygrid"
+       id="grid830" />
+  </sodipodi:namedview>
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,38 +51,22 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs6003">
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="19"
-       x2="11"
-       y1="4"
-       x1="11"
-       id="linearGradient4144"
-       xlink:href="#linearGradient4138" />
-    <linearGradient
-       id="linearGradient4138">
-      <stop
-         id="stop4140"
-         offset="0"
-         style="stop-color:#000000;stop-opacity:1" />
-      <stop
-         id="stop4142"
-         offset="1"
-         style="stop-color:#363636;stop-opacity:1" />
-    </linearGradient>
-  </defs>
+     id="defs6003" />
   <g
      transform="translate(-3,-4)"
-     id="g4154"
-     style="opacity:0.4">
+     id="g4163"
+     style="opacity:1;fill:#d4d4d4;fill-opacity:1">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-       d="M 11.945312,5 5,12.5 l 2.4414062,2.623047 0.00977,0.0098 L 11.945312,20 17,20 10.496094,12.974609 7.5058594,15.078125 10.054688,12.5 17,5 11.945312,5 Z"
-       id="rect4985-3" />
+       inkscape:connector-curvature="0"
+       style="fill:#666666;fill-opacity:1;opacity:0.35"
+       class="ColorScheme-Text"
+       d="M 11.5834,19 H 16.375 L 10.2095,12.4433 7.3146,14.448 Z"
+       id="path5" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:url(#linearGradient4144);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-       d="M 11.945312,4 5,11.5 l 2.4433594,2.621094 -0.00195,0.002 L 11.945312,19 17,19 10.496094,11.974609 7.4980469,14.082031 10.054688,11.5 17,4 11.945312,4 Z"
-       id="rect4985" />
+       inkscape:connector-curvature="0"
+       style="fill:#666666;fill-opacity:1;opacity:0.35"
+       class="ColorScheme-Text"
+       d="M 11.5834,4.9999999 H 16.375 L 9.7909,11.9996 7.3229,14.457 5,11.9996 Z"
+       id="path7" />
   </g>
 </svg>
