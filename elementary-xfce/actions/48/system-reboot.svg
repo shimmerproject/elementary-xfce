@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="48"
    height="48"
-   id="svg4031">
+   id="svg4031"
+   sodipodi:docname="xfsm-reboot.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="16.520833"
+     inkscape:cx="24.121059"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4031" />
   <defs
      id="defs4033">
     <linearGradient
@@ -85,6 +109,37 @@
          style="stop-color:#3689e6;stop-opacity:1"
          offset="1" />
     </linearGradient>
+    <radialGradient
+       r="62.769119"
+       fy="185.29727"
+       fx="99.189415"
+       cy="185.29727"
+       cx="99.189415"
+       gradientTransform="matrix(0.3823536,7.5555777e-8,-1.8372241e-8,0.1115198,-5.9254271,36.335849)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3300-8"
+       xlink:href="#linearGradient3820-7-2" />
+    <linearGradient
+       id="linearGradient3820-7-2">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop3822-2-6" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0"
+         id="stop3824-1-2" />
+    </linearGradient>
+    <radialGradient
+       r="62.769119"
+       fy="185.29727"
+       fx="99.189415"
+       cy="185.29727"
+       cx="99.189415"
+       gradientTransform="matrix(0.2549024,5.3967361e-8,-1.2248161e-8,0.07965545,6.7163816,44.240666)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4192-6"
+       xlink:href="#linearGradient3820-7-2" />
   </defs>
   <metadata
      id="metadata4036">
@@ -98,10 +153,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     d="m 40.999999,41.499999 a 17,5.4999999 0 1 1 -33.999999,0 17,5.4999999 0 1 1 33.999999,0 z"
-     id="path3818-0-5"
-     style="fill:url(#radialGradient3025);fill-opacity:1;stroke:none" />
+  <g
+     style="stroke-width:1.40587"
+     transform="matrix(0.70833333,0,0,0.71428273,1.3333345,0.78459684)"
+     id="g4198-4">
+    <path
+       style="opacity:0.2;fill:url(#radialGradient3300-8);fill-opacity:1;stroke:none;stroke-width:1.40587"
+       id="path3818-0-6"
+       d="m 55.999998,57.0017 a 24,6.9985714 0 1 1 -47.9999991,0 24,6.9985714 0 1 1 47.9999991,0 z" />
+    <path
+       d="m 47.999998,59.0017 a 16,4.9988822 0 1 1 -31.999999,0 16,4.9988822 0 1 1 31.999999,0 z"
+       id="path4190-2"
+       style="opacity:0.4;fill:url(#radialGradient4192-6);fill-opacity:1;stroke:none;stroke-width:1.40587" />
+  </g>
   <path
      d="m 24.000001,3.499999 c -11.311198,0 -20.5000012,9.188802 -20.5000012,20.499999 0,11.311198 9.1888032,20.500001 20.5000012,20.500001 11.311196,0 20.500018,-9.188803 20.499999,-20.500001 C 44.5,12.688801 35.311197,3.499999 24.000001,3.499999 Z"
      id="path2555-7-8-5-0-9"
