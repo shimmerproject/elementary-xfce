@@ -28,4 +28,7 @@ find "$icondir" -iname '*.svg' -not \( -wholename "*/scalable/*" -o -wholename "
 
 #ignore the output if the theme depends on another one (e.g. elementary-xfce-dark needs to be converted before elementary-xfce)
 echo " * Checking dangling symlinks"
-find -L "$icondir" -type l -exec /bin/ls -go {} \;
+if find -L "elementary-xfce" -type l -exec /bin/ls -go {} \; | grep .; then
+  echo "Found some dangling symlinks, please go fix those.";
+  exit 1;
+fi

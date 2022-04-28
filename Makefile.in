@@ -30,12 +30,14 @@ icon-caches:
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darker
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darkest
 
-build: builddir $(SUBDIRS)
+test: builddir $(SUBDIRS)
 	chmod +x ./svgtopng/pngtheme.sh
 	@./svgtopng/pngtheme.sh build/elementary-xfce
 	@./svgtopng/pngtheme.sh build/elementary-xfce-dark
 	@./svgtopng/pngtheme.sh build/elementary-xfce-darker
 	@./svgtopng/pngtheme.sh build/elementary-xfce-darkest
+
+build: test
 	@echo == Optimizing all icon pngs
 	@find build -type f -iname '*.png' | xargs optipng -strip all -silent
 
