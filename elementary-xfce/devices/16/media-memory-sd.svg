@@ -1,1 +1,94 @@
-gnome-dev-media-sdmmc.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient6235">
+      <stop
+         offset="0"
+         style="stop-color:#505050;stop-opacity:1"
+         id="stop6237" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e;stop-opacity:1"
+         id="stop6239" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3659">
+      <stop
+         offset="0"
+         style="stop-color:#aa1e1e;stop-opacity:1"
+         id="stop3661" />
+      <stop
+         offset="1"
+         style="stop-color:#e35d5d;stop-opacity:1"
+         id="stop3663" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient6235"
+       id="linearGradient3815"
+       x1="7"
+       y1="1044.3622"
+       x2="7"
+       y2="1050.3622"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       xlink:href="#linearGradient3659"
+       id="linearGradient3842"
+       x1="8"
+       y1="13"
+       x2="8"
+       y2="3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666666,0,0,1,-1.833333,1036.3622)" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0,-1036.3622)">
+    <path
+       style="fill:url(#linearGradient3815);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2.5,1050.8622 0,-13 8.5,0 1.5,1.5 0,11.5 z"
+       id="path3039" />
+    <path
+       style="fill:url(#linearGradient3842);fill-opacity:1;stroke:none"
+       d="m 4,1040.3622 0,9 7,0 0,-9 z"
+       id="path3834" />
+    <path
+       style="opacity:0.2;fill:#141414;fill-opacity:1;stroke:none"
+       d="m 4,1040.3622 7,0 0,2 -7,0 z"
+       id="path3817" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Sans Bold"
+       x="4.9714355"
+       y="1048.3134"
+       id="text3804"><tspan
+         id="tspan3806"
+         x="4.9714355"
+         y="1048.3134"
+         style="font-size:5px;fill:#ffffff;fill-opacity:1">SD</tspan></text>
+  </g>
+</svg>
