@@ -1,6 +1,9 @@
 name: "Check symlinks"
 
-on: [pull_request, push]
+on:
+  push
+    branches:
+    - master
 
 jobs:
   check:

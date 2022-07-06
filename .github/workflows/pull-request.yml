@@ -1,0 +1,37 @@
+name: "Check symlinks and build theme"
+
+on: pull_request
+
+jobs:
+  check:
+    name: Check for dangling symlinks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      - name: Check symlinks and build theme
+        shell: bash
+        run: |
+          sudo apt install -y libgtk-3-dev optipng --no-install-recommends
+          ./configure
+          make test
+          make
+          cd build
+          tar -cf elementary-xfce.tar.gz *
+      - name: Upload theme artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: elementary-xfce
+          path: build/elementary-xfce.tar.gz
+      - name: Add comment with link
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: "Get the theme build from this PR for easy local testing: [elementary-xfce.zip](https://nightly.link/shimmerproject/elementary-xfce/actions/runs/${{ github.run_id }}/elementary-xfce.zip)"
+            })
