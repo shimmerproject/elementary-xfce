@@ -16,3 +16,36 @@ jobs:
           sudo apt install -y libgtk-3-dev --no-install-recommends
           ./configure
           make test
+      - name: Build png theme
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          sudo apt install -y libgtk-3-dev optipng --no-install-recommends
+          ./configure
+          make
+          cd build
+          tar -cf elementary-xfce.tar.gz *
+      - name: Upload theme artifact
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v3
+        with:
+          name: elementary-xfce
+          path: build/elementary-xfce.tar.gz
+      - name: Get artifact link
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          echo "ARTIFACT_URL=$(curl -H 'Accept: application/vnd.github+json' -H 'Authorization: token ${{ secrets.GITHUB_TOKEN }}' https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts | grep url)" >> $GITHUB_ENV
+          echo "${{ env.ARTIFACT_URL }}"
+      - name: Add comment with link
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'link to the artifact: ${{ env.ARTIFACT_URL }}'
+            })
