@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3828"
    height="24"
    width="24"
    version="1.1"
    sodipodi:docname="application-json.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,16 +24,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1030"
+     inkscape:window-height="1029"
      id="namedview38"
      showgrid="false"
      inkscape:zoom="33.041667"
-     inkscape:cx="12.06053"
-     inkscape:cy="12"
+     inkscape:cx="3.4501891"
+     inkscape:cy="12.015132"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3828" />
+     inkscape:current-layer="svg3828"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs3830">
     <linearGradient
@@ -152,11 +153,11 @@
        id="linearGradient1543">
       <stop
          id="stop1539"
-         style="stop-color:#666666;stop-opacity:1"
+         style="stop-color:#4d4d4d;stop-opacity:1"
          offset="0" />
       <stop
          id="stop1541"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fafafa;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -177,7 +178,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -215,5 +215,5 @@
   <path
      d="M 11.984536,8.6045751 C 9.9379064,7.8991609 7.4307714,9.5859586 7.4307714,12.964596 c 0,5.516699 4.0880486,6.017408 4.5836146,6.017408 C 15.592472,18.982004 19,16.024847 19,11.978863 19,7.4817126 15.093966,4.9906776 12.014386,4.9906776 c 0.852959,-0.1181252 4.597326,0.9231174 4.597326,6.0407204 0,3.337353 -2.795876,5.154184 -4.614353,4.377926 -0.04178,-0.01549 -2.0574683,-0.810644 -2.0574683,-3.408171 0,-2.5864924 2.0446453,-3.3965779 2.0446453,-3.3965779 z"
      id="path7510"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3002);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.04375;marker:none" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3002);fill-opacity:1.0;fill-rule:evenodd;stroke:none;stroke-width:0.04375;marker:none" />
 </svg>
