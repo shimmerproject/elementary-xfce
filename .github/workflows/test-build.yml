@@ -38,5 +38,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'link to the artifact: https://nightly.link/shimmerproject/elementary-xfce/actions/runs/${{ github.run_id }}/elementary-xfce.tar.gz'
+              body: 'link to the artifact: https://nightly.link/shimmerproject/elementary-xfce/actions/runs/${{ github.run_id }}/elementary-xfce.zip'
             })
