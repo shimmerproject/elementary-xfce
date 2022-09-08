@@ -31,5 +31,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'link to the artifact: https://nightly.link/shimmerproject/elementary-xfce/actions/runs/${{ github.run_id }}/elementary-xfce.zip'
+              body: "Here's a link to the build from this PR: [elementary-xfce.zip](https://nightly.link/shimmerproject/elementary-xfce/actions/runs/${{ github.run_id }}/elementary-xfce.zip)"
             })
