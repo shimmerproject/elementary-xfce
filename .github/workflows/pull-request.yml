@@ -17,11 +17,13 @@ jobs:
           ./configure
           make test
           make
+          cd build
+          tar -cf elementary-xfce.tar.gz *
       - name: Upload theme artifact
         uses: actions/upload-artifact@v3
         with:
           name: elementary-xfce
-          path: build/*
+          path: build/elementary-xfce.tar.gz
       - name: Add comment with link
         uses: actions/github-script@v5
         with:
