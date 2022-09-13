@@ -9,14 +9,17 @@ all: build
 $(SUBDIRS):
 	$(MAKE) -C $@
 
-install:
+install: install-theme icon-caches
+
+install-theme:
 	install -d $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons
 	@echo
-	@echo The icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
+	@echo The icon-theme has been installed.
+	@echo
 
 uninstall:
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
@@ -29,6 +32,8 @@ icon-caches:
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-dark
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darker
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darkest
+	@echo
+	@echo The icon-theme cache has been regenerated
 
 test: builddir $(SUBDIRS)
 	chmod +x ./svgtopng/pngtheme.sh
