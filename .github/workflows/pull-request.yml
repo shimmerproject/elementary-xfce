@@ -28,9 +28,8 @@ jobs:
           name: elementary-xfce
           path: build/elementary-xfce.tar.gz
       - name: Add comment with link
-        uses: actions/github-script@v5
+        uses: actions/github-script@v6
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
