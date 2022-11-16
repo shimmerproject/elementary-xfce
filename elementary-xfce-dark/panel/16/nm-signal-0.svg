@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   width="16"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="nm-signal-0.svg"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   width="16"
+   height="16">
+  <sodipodi:namedview
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="8"
+     inkscape:cx="8.0394575"
+     inkscape:zoom="50.6875"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="1019"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,16 +47,16 @@
   <defs
      id="defs10" />
   <g
-     transform="translate(-333 351)"
+     style="fill:#64baff;fill-opacity:1;opacity:0.35"
      id="g4"
-     style="fill:#d4d4d4">
+     transform="translate(-333 351)">
     <path
-       color="#000"
-       d="M341-348c-2.853 0-5.468 1.111-7.5 2.938l1.282 1.437c1.811-1.588 3.732-2.375 6.218-2.375 2.487 0 4.32.74 6.22 2.406l1.28-1.469c-2.031-1.826-4.646-2.937-7.5-2.937zm0 4c-1.847 0-3.514.75-4.875 1.875l1.344 1.406c.907-.649 2.299-1.281 3.469-1.281 1.198 0 2.674.634 3.594 1.313l1.375-1.47C344.546-343.28 342.848-344 341-344zm0 4c-.883 0-1.764.477-2.125.875l2.125 2.281 2.125-2.281c-.36-.418-1.24-.875-2.125-.875z"
-       fill="#666"
-       opacity=".35"
+       id="path6"
+       style="marker:none;fill:#64baff;fill-opacity:1"
        overflow="visible"
-       style="marker:none;fill:#d4d4d4"
-       id="path6" />
+       opacity=".35"
+       fill="#666"
+       d="M341-348c-2.853 0-5.468 1.111-7.5 2.938l1.282 1.437c1.811-1.588 3.732-2.375 6.218-2.375 2.487 0 4.32.74 6.22 2.406l1.28-1.469c-2.031-1.826-4.646-2.937-7.5-2.937zm0 4c-1.847 0-3.514.75-4.875 1.875l1.344 1.406c.907-.649 2.299-1.281 3.469-1.281 1.198 0 2.674.634 3.594 1.313l1.375-1.47C344.546-343.28 342.848-344 341-344zm0 4c-.883 0-1.764.477-2.125.875l2.125 2.281 2.125-2.281c-.36-.418-1.24-.875-2.125-.875z"
+       color="#000" />
   </g>
 </svg>
