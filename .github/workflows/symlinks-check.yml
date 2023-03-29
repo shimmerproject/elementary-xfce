@@ -17,6 +17,7 @@ jobs:
       - name: Check symlinks
         shell: bash
         run: |
+          sudo apt-get update
           sudo apt install -y libgtk-3-dev --no-install-recommends
           ./configure
           make test

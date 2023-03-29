@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="24"
    height="24"
-   id="svg4073">
+   id="svg4073"
+   sodipodi:docname="nm-device-wired.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="28.416667"
+     inkscape:cx="11.982405"
+     inkscape:cy="12"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1220" />
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -18,7 +40,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,34 +57,78 @@
          id="stop3682" />
     </linearGradient>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient3678"
-       id="linearGradient3684"
-       x1="9.1701241"
-       y1="3"
-       x2="9.311203"
-       y2="15"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1,1)" />
-    <linearGradient
-       xlink:href="#linearGradient3678"
-       id="linearGradient3692"
-       x1="15"
-       y1="8"
-       x2="15"
-       y2="20"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1,1)" />
+       id="linearGradient1025"
+       x1="9.5262728"
+       y1="0.23187667"
+       x2="9.5262728"
+       y2="15.91228"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  <path
-     style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 8,5 -5,5 3,0 0,7 4,0 0,-7 3,0 -5,-5 z m 6,5 0,7 -3,0 5,5 5,-5 -3,0 0,-7 -4,0 z"
-     id="path4348-1-7" />
-  <path
-     d="m 21,16 -5,5 -5,-5 3,0 0,-7 4,0 0,7 3,0 z"
-     id="path4348-1"
-     style="fill:url(#linearGradient3692);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="M 13,9 8,4 3,9 l 3,0 0,7 4,0 0,-7 3,0 z"
-     id="path4348-1-3"
-     style="fill:url(#linearGradient3684);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <g
+     fill="#2e3436"
+     id="g1220"
+     style="fill:#000000;fill-opacity:0.5"
+     transform="translate(4,5)">
+    <path
+       id="path1206"
+       style="fill:#000000;fill-opacity:0.5"
+       d="M 11 8.5 L 11 12 L 4 12 L 4 14 L 11 14 L 13 14 L 20 14 L 20 12 L 13 12 L 13 8.5 L 11 8.5 z "
+       transform="translate(-4,-5)" />
+    <path
+       d="m 12,7 h 2 v 6 h -2 z m 0,0"
+       id="path1210"
+       style="fill:#000000;fill-opacity:0.5" />
+    <path
+       d="m 2,7 h 2 v 6 H 2 Z m 0,0"
+       id="path1212"
+       style="fill:#000000;fill-opacity:0.5" />
+    <path
+       d="m 1,11 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 H 1 C 0.449219,16 0,15.550781 0,15 v -3 c 0,-0.550781 0.449219,-1 1,-1 z m 0,0"
+       id="path1214"
+       style="fill:#000000;fill-opacity:0.5" />
+    <path
+       d="m 11,11 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 h -4 c -0.550781,0 -1,-0.449219 -1,-1 v -3 c 0,-0.550781 0.449219,-1 1,-1 z m 0,0"
+       id="path1216"
+       style="fill:#000000;fill-opacity:0.5" />
+    <path
+       d="m 6,0 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 H 6 C 5.449219,5 5,4.550781 5,4 V 1 C 5,0.449219 5.449219,0 6,0 Z m 0,0"
+       id="path1218"
+       style="fill:#000000;fill-opacity:0.5" />
+  </g>
+  <g
+     fill="#2e3436"
+     id="g16"
+     style="fill:url(#linearGradient1025);fill-opacity:1"
+     transform="translate(4,4)">
+    <path
+       d="M 0,7 H 16 V 9 H 0 Z m 0,0"
+       id="path2"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="M 7,3.5 H 9 V 9 H 7 Z m 0,0"
+       id="path4"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="m 12,7 h 2 v 6 h -2 z m 0,0"
+       id="path6"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="m 2,7 h 2 v 6 H 2 Z m 0,0"
+       id="path8"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="m 1,11 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 H 1 C 0.449219,16 0,15.550781 0,15 v -3 c 0,-0.550781 0.449219,-1 1,-1 z m 0,0"
+       id="path10"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="m 11,11 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 h -4 c -0.550781,0 -1,-0.449219 -1,-1 v -3 c 0,-0.550781 0.449219,-1 1,-1 z m 0,0"
+       id="path12"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <path
+       d="m 6,0 h 4 c 0.550781,0 1,0.449219 1,1 v 3 c 0,0.550781 -0.449219,1 -1,1 H 6 C 5.449219,5 5,4.550781 5,4 V 1 C 5,0.449219 5.449219,0 6,0 Z m 0,0"
+       id="path14"
+       style="fill:url(#linearGradient1025);fill-opacity:1.0" />
+  </g>
 </svg>
