@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    width="96"
    height="96"
    id="svg3958"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="io.github.Hexchat.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview9648"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.375"
+     inkscape:cx="43.880597"
+     inkscape:cy="48.119403"
+     inkscape:window-width="1278"
+     inkscape:window-height="1005"
+     inkscape:window-x="506"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs3960">
     <linearGradient
@@ -33,15 +56,6 @@
        fx="20.248743"
        fy="4.9115634"
        r="23" />
-    <linearGradient
-       xlink:href="#linearGradient3707-319-631-477-589-201-606"
-       id="linearGradient3883"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9775716,0,0,2.0163988,0.53856157,-31.55239)"
-       x1="18.138792"
-       y1="45.21809"
-       x2="18.138792"
-       y2="2.9999995" />
     <radialGradient
        xlink:href="#linearGradient3725-941-985-508-595-572-135-693"
        id="radialGradient3878"
@@ -135,21 +149,6 @@
          style="stop-color:#919dab;stop-opacity:1"
          id="stop4152" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient3707-319-631-477-589-201-606">
-      <stop
-         offset="0"
-         style="stop-color:#898989;stop-opacity:1"
-         id="stop4156" />
-      <stop
-         offset="0.5"
-         style="stop-color:#aaaaaa;stop-opacity:1"
-         id="stop4158" />
-      <stop
-         offset="1"
-         style="stop-color:#d2d2d2;stop-opacity:1"
-         id="stop4160" />
-    </linearGradient>
     <radialGradient
        xlink:href="#linearGradient5108"
        id="radialGradient3120"
@@ -169,7 +168,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -181,7 +179,7 @@
        id="path8836"
        d="m 95.145545,47.556389 c 0,9.012331 -21.154553,16.318247 -47.25,16.318247 -26.095448,0 -47.24999956,-7.305916 -47.24999956,-16.318247 0,-9.012315 21.15455156,-16.31824 47.24999956,-16.31824 26.095447,0 47.25,7.305925 47.25,16.31824 l 0,0 z" />
     <path
-       style="fill:url(#radialGradient3881);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3883);stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
+       style="fill:url(#radialGradient3881);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999958;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible"
        id="path6145"
        d="M 41.697162,-23.923656 C 18.919518,-20.499585 2.0654318,-4.4977573 3.5968095,12.827987 4.5884421,24.047104 13.033661,33.281403 25.110637,38.15356 l -4.066523,16.156529 c 0,0 -0.433945,1.512582 0.188914,2.046926 0.622847,0.534331 2.122955,-0.598384 2.122955,-0.598384 l 19.015004,-14.022074 0.154165,-0.01439 c 2.752161,0.134148 5.517095,0.1786 8.386306,-0.08833 C 75.395347,39.356311 94.01044,22.744565 92.403734,4.5667361 90.797045,-13.611098 69.572975,-26.516784 45.08909,-24.239187 c -1.14769,0.106769 -2.271721,0.14714 -3.391928,0.315541 z" />
     <path
