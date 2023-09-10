@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-31.728814"
-     inkscape:cy="18.711865"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="5.6440679"
+     inkscape:cy="24.508475"
      inkscape:window-width="1322"
      inkscape:window-height="861"
      inkscape:window-x="0"
@@ -35,17 +35,6 @@
      inkscape:current-layer="svg3828" />
   <defs
      id="defs3830">
-    <linearGradient
-       id="linearGradient4186">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.502"
-         offset="0"
-         id="stop4188" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop4190" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5060">
       <stop
@@ -122,15 +111,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1875001,0,0,2.1875001,-2.25,-2.249977)" />
     <linearGradient
-       xlink:href="#linearGradient4186"
-       id="linearGradient4192"
-       x1="12"
-       y1="24.466665"
-       x2="12"
-       y2="2.9333332"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9411764,0,0,1.941174,0.7058824,0.70591423)" />
-    <linearGradient
        x1="15"
        y1="-0.67051095"
        x2="15"
@@ -159,6 +139,34 @@
        xlink:href="#linearGradient5060"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.25,0,0,2.9999998,-3.000003,-11.999997)" />
+    <linearGradient
+       x1="38.999996"
+       y1="6.0831103"
+       x2="38.999996"
+       y2="41.939384"
+       id="linearGradient3058-5"
+       xlink:href="#linearGradient1201"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.89189189,0,0,0.89189189,2.5945845,2.5946039)" />
+    <linearGradient
+       id="linearGradient1201">
+      <stop
+         id="stop1193"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop1195"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.06781636" />
+      <stop
+         id="stop1197"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.94694352" />
+      <stop
+         id="stop1199"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata3833">
@@ -204,15 +212,6 @@
      y="6.4999776"
      id="rect7169"
      style="opacity:0.3;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     width="33"
-     height="33"
-     rx="3"
-     ry="3"
-     x="7.5"
-     y="7.5"
-     id="rect4183"
-     style="fill:none;stroke:url(#linearGradient4192);stroke-width:1" />
   <path
      d="m 33,21 v 6 H 15 v -6 z"
      id="path4215"
@@ -229,4 +228,13 @@
      d="m 33.5,20.5 v 7 h -19 v -7 z"
      id="path2262"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient4231-6);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+  <rect
+     style="fill:none;stroke:url(#linearGradient3058-5);stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect6741-2-8-4"
+     y="7.5"
+     x="7.5"
+     ry="3"
+     rx="3"
+     height="33"
+     width="33" />
 </svg>
