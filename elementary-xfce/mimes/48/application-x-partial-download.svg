@@ -5,7 +5,7 @@
    width="48"
    version="1.1"
    sodipodi:docname="application-x-partial-download.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,28 +23,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="22.056921"
-     inkscape:cx="24.00607"
-     inkscape:cy="19.812375"
+     inkscape:zoom="22.056922"
+     inkscape:cx="26.884984"
+     inkscape:cy="13.759853"
      inkscape:window-width="1317"
      inkscape:window-height="890"
-     inkscape:window-x="890"
-     inkscape:window-y="50"
+     inkscape:window-x="687"
+     inkscape:window-y="256"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3901" />
   <defs
      id="defs3903">
-    <linearGradient
-       id="linearGradient855">
-      <stop
-         id="stop851"
-         offset="0"
-         style="stop-color:#a56de2;stop-opacity:1" />
-      <stop
-         id="stop853"
-         offset="1"
-         style="stop-color:#7239b3;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        id="linearGradient3403">
       <stop
@@ -168,14 +157,6 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient3170"
        xlink:href="#linearGradient3104-6" />
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="54.350002"
-       x2="36.868137"
-       y1="6.2374997"
-       x1="36.868137"
-       id="linearGradient857"
-       xlink:href="#linearGradient855" />
   </defs>
   <metadata
      id="metadata3906">
@@ -217,17 +198,27 @@
      style="fill:none;stroke:url(#linearGradient3170);stroke-width:0.99992192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
   <path
      id="path10725"
-     d="m 23,19.999996 v 3 h 2 v -3 z m 2,3 v 3 h -2 v -3 h -3 v 3 H 14 L 24,39 34,25.999996 h -6 v -3 z"
+     d="m 23,17.999996 v 3 h 2 v -3 z m 2,3 v 3 h -2 v -3 h -3 v 3 h 8 v -3 z"
      style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#68b723;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccccc" />
+  <path
+     id="path873-5"
+     style="font-variation-settings:normal;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;stop-color:#000000"
+     d="m 16.917969,24 c -0.692801,0 -1.251953,0.578179 -1.251953,1.296874 0,0.387348 0.162155,0.733398 0.419922,0.970704 l 7.041015,7.384765 c 0.223968,0.219349 0.525106,0.355469 0.857422,0.355469 0.332332,0 0.633454,-0.136124 0.857422,-0.355469 l 7.072265,-7.384765 c 0.257849,-0.237306 0.419922,-0.583356 0.419922,-0.970704 0,-0.718695 -0.559137,-1.296875 -1.251953,-1.296874 z"
+     sodipodi:nodetypes="csccsccscc" />
   <path
      id="rect867"
-     d="m 22.999997,8 v 3 h 2 V 8 Z m 2,3 v 3 h 3 v -3 z m 0,3 h -2 v 3 h 2 z m -2,0 v -3 h -3 v 3 z"
+     d="m 24.999997,12 h -2 v 3 h 2 z"
      style="display:inline;opacity:0.2;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none;enable-background:new"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccc" />
   <path
      id="rect875"
-     d="m 19.999997,14 v 3 h 3 v -3 z m 3,3 v 3 h 2 3 v -3 -3 h -3 v 3 z m 0,3 h -3 v 3 h 3 z"
+     d="m 19.999997,12 v 3 h 3 v -3 z m 3,3 v 3 h 2 3 v -3 -3 h -3 v 3 z m 0,3 h -3 v 3 h 3 z"
      style="display:inline;opacity:0.6;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none;enable-background:new"
      sodipodi:nodetypes="ccccccccccccccccccc" />
+  <path
+     id="path1144"
+     d="m 26,9 h -4 v 3 h 4 z"
+     style="display:inline;opacity:0.2;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:1.99999;stroke-opacity:1;marker:none;enable-background:new"
+     sodipodi:nodetypes="ccccc" />
 </svg>
