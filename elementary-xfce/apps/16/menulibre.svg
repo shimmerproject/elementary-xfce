@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="menulibre.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,17 +23,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="42.625"
-     inkscape:cx="12.070381"
-     inkscape:cy="5.2668622"
+     inkscape:zoom="30.140427"
+     inkscape:cx="10.019765"
+     inkscape:cy="9.5055057"
      inkscape:window-width="1317"
      inkscape:window-height="890"
      inkscape:window-x="593"
      inkscape:window-y="53"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4563" />
+     inkscape:current-layer="g4563"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient19499">
+      <stop
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         offset="0"
+         id="stop19495" />
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1;"
+         offset="1"
+         id="stop19497" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4322">
       <stop
@@ -482,6 +496,15 @@
        x2="30.037716"
        y1="24.989594"
        x1="30.037716" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19499"
+       id="linearGradient19501"
+       x1="8.3449688"
+       y1="1035.2712"
+       x2="8.3449688"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -502,7 +525,7 @@
       <path
          id="rect5505-21-3-2"
          d="m 2.1666667,1036.8624 10.6669993,0 c 0.369335,0 0.666668,0.307 0.666668,0.6896 l 0,11.6155 c 0,0.3825 -0.297334,0.6947 -0.666668,0.6947 l -6.333666,0 -1.5,2 -1.5,-2 -1.3333333,0 C 1.7973333,1049.8622 1.5,1049.55 1.5,1049.1675 l 0,-11.6156 c 0,-0.3826 0.2973333,-0.6895 0.6666667,-0.6895 z"
-         style="color:#000000;fill:#eeeeee;fill-opacity:1;stroke:#b1b1b1;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:url(#linearGradient19501);fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.28;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          width="1"
          height="1"
