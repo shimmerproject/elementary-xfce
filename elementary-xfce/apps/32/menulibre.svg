@@ -5,7 +5,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="menulibre.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,17 +23,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="10.65625"
-     inkscape:cx="9.8064516"
-     inkscape:cy="25.055718"
+     inkscape:zoom="21.3125"
+     inkscape:cx="8.914956"
+     inkscape:cy="19.706745"
      inkscape:window-width="1317"
      inkscape:window-height="893"
-     inkscape:window-x="61"
-     inkscape:window-y="385"
+     inkscape:window-x="498"
+     inkscape:window-y="118"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient13895">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop13891" />
+      <stop
+         style="stop-color:#e3e3e3;stop-opacity:0.90435326;"
+         offset="1"
+         id="stop13893" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4322">
       <stop
@@ -513,6 +527,15 @@
        x2="9.5220556"
        y1="37.371799"
        x1="5.5178981" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13895"
+       id="linearGradient13897"
+       x1="16.331316"
+       y1="1020.2656"
+       x2="16.331316"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -534,7 +557,7 @@
        d="m 17.5514,45.853424 a 3.1567266,0.75761443 0 1 1 -6.313453,0 3.1567266,0.75761443 0 1 1 6.313453,0 z"
        transform="matrix(0.59575697,0,0,0.56893646,1.924273,1024.2745)" />
     <path
-       style="color:#000000;fill:#eeeeee;fill-opacity:1;stroke:#b1b1b1;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient13897);fill-opacity:1;stroke:#000000;stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.25999999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 6.5769229,1023.8632 18.8461531,0 c 0.596617,0 1.076924,0.4978 1.076924,1.1184 l 0,19.6523 c 0,0.6206 -0.480796,1.2045 -1.076924,1.2286 l -12.339743,0 -2.333333,3.4997 -2.3333335,-3.4997 -1.8397436,0 c -0.5966154,0 -1.076923,-0.608 -1.076923,-1.2286 l 0,-19.6525 c 0,-0.6205 0.4803076,-1.1182 1.076923,-1.1182 z"
        id="rect5505-21-3-2" />
     <rect
