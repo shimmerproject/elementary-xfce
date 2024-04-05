@@ -1,6 +1,8 @@
 PREFIX=@prefix@
+HIDPI=@hidpi@
 DESTDIR=
 CC?=gcc
+export
 
 SUBDIRS := svgtopng
 
@@ -11,11 +13,16 @@ $(SUBDIRS):
 
 install:
 	install -d $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons
 	@echo
+	@-if $(HIDPI);                                                             \
+        then                                                                       \
+           cp -rf build/elementary-xfce-hidpi $(DESTDIR)/$(PREFIX)/share/icons;    \
+        else                                                                       \
+            cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons;         \
+            cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons;    \
+            cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons;  \
+            cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons; \
+        fi
 	@echo The icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
 
 uninstall:
@@ -31,26 +38,45 @@ icon-caches:
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darkest
 
 test: builddir $(SUBDIRS)
-	chmod +x ./svgtopng/pngtheme.sh
-	@./svgtopng/pngtheme.sh build/elementary-xfce
-	@./svgtopng/pngtheme.sh build/elementary-xfce-dark
-	@./svgtopng/pngtheme.sh build/elementary-xfce-darker
-	@./svgtopng/pngtheme.sh build/elementary-xfce-darkest
+	@-if ! $(HIDPI);                                          \
+        then                                                      \
+            chmod +x ./svgtopng/pngtheme.sh;                      \
+            ./svgtopng/pngtheme.sh build/elementary-xfce;         \
+            ./svgtopng/pngtheme.sh build/elementary-xfce-dark;    \
+            ./svgtopng/pngtheme.sh build/elementary-xfce-darker;  \
+            ./svgtopng/pngtheme.sh build/elementary-xfce-darkest; \
+        fi
+	@echo Build finished, ready to run install!
 
 build: test
-	@echo == Optimizing all icon pngs
-	@find build -type f -iname '*.png' | xargs optipng -strip all -silent
+	@-if ! $(HIDPI);                                                          \
+        then                                                                      \
+            echo == Optimizing all icon pngs;                                     \
+            find build -type f -iname '*.png' | xargs optipng -strip all -silent; \
+        fi
 
 builddir:
 	mkdir -p build
-	mkdir -p build/elementary-xfce && cp -R elementary-xfce/. build/elementary-xfce
-	mkdir -p build/elementary-xfce-dark && cp -R elementary-xfce-dark/. build/elementary-xfce-dark
-	mkdir -p build/elementary-xfce-darker && cp -R elementary-xfce-darker/. build/elementary-xfce-darker
-	mkdir -p build/elementary-xfce-darkest && cp -R elementary-xfce-darkest/. build/elementary-xfce-darkest
-	rm build/elementary-xfce/AUTHORS && cp AUTHORS build/elementary-xfce
-	rm build/elementary-xfce/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce
-	rm build/elementary-xfce/LICENSE && cp LICENSE build/elementary-xfce
-	rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce
+	@-if $(HIDPI);                                                                                                   \
+            then                                                                                                         \
+                mkdir -p build/elementary-xfce-hidpi && cp -R elementary-xfce/. build/elementary-xfce-hidpi;             \
+                mv build/elementary-xfce-hidpi/index-hidpi.theme build/elementary-xfce-hidpi/index.theme;                \
+                rm build/elementary-xfce-hidpi/AUTHORS && cp AUTHORS build/elementary-xfce-hidpi;                        \
+                rm build/elementary-xfce-hidpi/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce-hidpi;              \
+                rm build/elementary-xfce-hidpi/LICENSE && cp LICENSE build/elementary-xfce-hidpi;                        \
+                rm build/elementary-xfce-hidpi/README.md && cp README.md build/elementary-xfce-hidpi;                    \
+                find build/elementary-xfce-hidpi -mindepth 1 -maxdepth 1 -type d -exec sh -c "ln -sr '{}' '{}'@2x" \;    \
+                                                                                 -exec sh -c "ln -sr '{}' '{}'@3x" \;;   \
+            else                                                                                                         \
+                mkdir -p build/elementary-xfce && cp -R elementary-xfce/. build/elementary-xfce;                         \
+                mkdir -p build/elementary-xfce-dark && cp -R elementary-xfce-dark/. build/elementary-xfce-dark;          \
+                mkdir -p build/elementary-xfce-darker && cp -R elementary-xfce-darker/. build/elementary-xfce-darker;    \
+                mkdir -p build/elementary-xfce-darkest && cp -R elementary-xfce-darkest/. build/elementary-xfce-darkest; \
+                rm build/elementary-xfce/AUTHORS && cp AUTHORS build/elementary-xfce;                                    \
+                rm build/elementary-xfce/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce;                          \
+                rm build/elementary-xfce/LICENSE && cp LICENSE build/elementary-xfce;                                    \
+                rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce;                                \
+            fi
 
 .PHONY: all $(SUBDIRS)
 

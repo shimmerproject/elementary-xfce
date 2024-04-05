@@ -45,3 +45,6 @@ make icon-caches
 make
 sudo make install
 sudo make icon-caches
+```
+
+HiDPI scaling is supported by using the `--hidpi` configure flag.

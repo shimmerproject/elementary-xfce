@@ -2,12 +2,13 @@
 
 help () {
     echo "Supported options are:"
-    echo "    --help                          print this help and exit"
-    echo "    --prefix=<path>                 specify installation prefix"
-    echo "        default <path> is /usr/local"
+    echo "    --help                  Print this help and exit"
+    echo "    --prefix=<path>         Specify installation prefix, default <path> is /usr/local"
+    echo "    --hidpi                 Use SVG icons for 2-3x scaling, high resolution displays"
 }
 
 PREFIX="/usr/local"
+HIDPI="false"
 while [ $# -gt 0 ]; do
     case $1 in
         --help)
@@ -17,6 +18,9 @@ while [ $# -gt 0 ]; do
         --prefix=*)
             PREFIX=`echo $1 | sed 's/--prefix=//'`
             ;;
+        --hidpi)
+            HIDPI="true"
+            ;;
         *)
             echo "Unknown option $1"
             ;;
@@ -25,5 +29,5 @@ while [ $# -gt 0 ]; do
 done
 
 echo "Creating Makefile..."
-sed -e s,@prefix@,$PREFIX, Makefile.in > Makefile
+sed -e s,@prefix@,$PREFIX, -e s,@hidpi@,$HIDPI, Makefile.in > Makefile
 echo "Installation prefix is $PREFIX"
