@@ -13,29 +13,21 @@ install:
 	install -d $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce-darker $(DESTDIR)/$(PREFIX)/share/icons
-	cp -rf build/elementary-xfce-darkest $(DESTDIR)/$(PREFIX)/share/icons
 	@echo
 	@echo The icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
 
 uninstall:
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-dark
-	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darker
-	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darkest
 
 icon-caches:
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-dark
-	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darker
-	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-darkest
 
 test: builddir $(SUBDIRS)
 	chmod +x ./svgtopng/pngtheme.sh
 	@./svgtopng/pngtheme.sh build/elementary-xfce
 	@./svgtopng/pngtheme.sh build/elementary-xfce-dark
-	@./svgtopng/pngtheme.sh build/elementary-xfce-darker
-	@./svgtopng/pngtheme.sh build/elementary-xfce-darkest
 
 build: test
 	@echo == Optimizing all icon pngs
@@ -45,8 +37,6 @@ builddir:
 	mkdir -p build
 	mkdir -p build/elementary-xfce && cp -R elementary-xfce/. build/elementary-xfce
 	mkdir -p build/elementary-xfce-dark && cp -R elementary-xfce-dark/. build/elementary-xfce-dark
-	mkdir -p build/elementary-xfce-darker && cp -R elementary-xfce-darker/. build/elementary-xfce-darker
-	mkdir -p build/elementary-xfce-darkest && cp -R elementary-xfce-darkest/. build/elementary-xfce-darkest
 	rm build/elementary-xfce/AUTHORS && cp AUTHORS build/elementary-xfce
 	rm build/elementary-xfce/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce
 	rm build/elementary-xfce/LICENSE && cp LICENSE build/elementary-xfce
