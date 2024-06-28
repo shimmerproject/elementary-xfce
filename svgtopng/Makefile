@@ -3,6 +3,7 @@
 ICONDIR ?= elementary-xfce
 
 all: svgtopng
+	@-if $(HIDPI); then echo "svgtopng: HiDPI option used, PNGs not needed, exiting svgtopng."; fi
 
 svgtopng:
 	${CC} -Wall -Werror -O0 -pipe \
