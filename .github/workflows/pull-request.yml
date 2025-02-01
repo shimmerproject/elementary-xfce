@@ -24,7 +24,7 @@ jobs:
           cd build
           tar -cf elementary-xfce.tar.gz *
       - name: Upload theme artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: elementary-xfce
           path: build/elementary-xfce.tar.gz
