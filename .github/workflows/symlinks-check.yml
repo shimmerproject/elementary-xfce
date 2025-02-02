@@ -16,8 +16,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Check symlinks
         shell: bash
-        run: |
-          sudo apt-get update
-          sudo apt install -y libgtk-3-dev --no-install-recommends
-          ./configure
-          make test
+        run: sudo apt-get update
+        run: sudo apt install -y libgtk-3-dev --no-install-recommends
+        run: ./configure
+        run: make test
