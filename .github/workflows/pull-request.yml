@@ -5,14 +5,14 @@ on: pull_request
 jobs:
   check:
     name: Check for dangling symlinks
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     permissions:
       pull-requests: write
 
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Check symlinks and build theme
         shell: bash
         run: |
