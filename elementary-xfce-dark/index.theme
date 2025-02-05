@@ -6,31 +6,4 @@ Inherits=elementary-xfce
 Example=directory-x-normal
 
 #Directory list
-Directories=panel/16,panel/22,panel/24,panel/32,panel/48,
-
-[panel/16]
-Size=16
-Context=Status
-Type=Fixed
-
-[panel/22]
-Size=22
-Context=Status
-Type=Fixed
-
-[panel/24]
-Size=24
-Context=Status
-Type=Fixed
-
-[panel/32]
-Size=32
-Context=Status
-Type=Fixed
-
-[panel/48]
-Size=48
-MinSize=25
-MaxSize=64
-Context=Status
-Type=Scalable
+Directories=
