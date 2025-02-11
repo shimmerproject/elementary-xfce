@@ -13,16 +13,19 @@ install:
 	install -d $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce $(DESTDIR)/$(PREFIX)/share/icons
 	cp -rf build/elementary-xfce-dark $(DESTDIR)/$(PREFIX)/share/icons
+	cp -rf build/elementary-xfce-hidpi $(DESTDIR)/$(PREFIX)/share/icons;
 	@echo
 	@echo The icon-theme cache has not yet been regenerated, which means your changes may not be visible yet. Please run 'make icon-caches' next.
 
 uninstall:
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
 	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-dark
+	rm -rf $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-hidpi
 
 icon-caches:
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce
 	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-dark
+	gtk-update-icon-cache -f $(DESTDIR)/$(PREFIX)/share/icons/elementary-xfce-hidpi
 
 test: builddir $(SUBDIRS)
 	chmod +x ./svgtopng/pngtheme.sh
@@ -41,6 +44,13 @@ builddir:
 	rm build/elementary-xfce/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce
 	rm build/elementary-xfce/LICENSE && cp LICENSE build/elementary-xfce
 	rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce
+	mkdir -p build/elementary-xfce-hidpi && cp -R elementary-xfce/. build/elementary-xfce-hidpi
+	mv build/elementary-xfce-hidpi/index-hidpi.theme build/elementary-xfce-hidpi/index.theme
+	rm build/elementary-xfce-hidpi/AUTHORS && cp AUTHORS build/elementary-xfce-hidpi
+	rm build/elementary-xfce-hidpi/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce-hidpi
+	rm build/elementary-xfce-hidpi/LICENSE && cp LICENSE build/elementary-xfce-hidpi
+	rm build/elementary-xfce-hidpi/README.md && cp README.md build/elementary-xfce-hidpi
+	find build/elementary-xfce-hidpi -mindepth 1 -maxdepth 1 -type d -exec ln -sr {} {}@2x \; -exec ln -sr {} {}@3x \;
 
 .PHONY: all $(SUBDIRS)
 
