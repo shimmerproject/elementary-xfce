@@ -26,8 +26,19 @@ We'd like to encourage you to not only consider contributing to this, but also t
 You can use the Makefile to install the theme locally (default prefix is /usr/local).
 
 ### Build dependencies
-- optipng
-- GTK3
+
+> Arch Linux:
+```
+sudo pacman -S gcc gdk-pixbuf2 gtk-update-icon-cache librsvg make optipng pkgconf
+```
+> Debian/Ubuntu and derivatives:
+```
+sudo apt install gcc gtk-update-icon-cache libgdk-pixbuf-2.0-dev librsvg2-common make optipng pkgconf
+```
+> Fedora:
+```
+sudo dnf install gcc gdk-pixbuf2-devel gtk-update-icon-cache make optipng pkgconf rsvg-pixbuf-loader
+```
 
 ### Installation for the current user only (without admin privileges)
 

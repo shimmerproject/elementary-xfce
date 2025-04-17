@@ -28,7 +28,7 @@
 #include <unistd.h>
 #include <errno.h>
 
-#include <gtk/gtk.h>
+#include <gdk-pixbuf/gdk-pixbuf.h>
 
 
 static void
