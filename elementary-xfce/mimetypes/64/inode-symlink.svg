@@ -5,7 +5,7 @@
    width="64"
    version="1.1"
    sodipodi:docname="inode-symlink.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,15 +23,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="15.070213"
-     inkscape:cx="35.268247"
-     inkscape:cy="38.08838"
-     inkscape:window-width="1317"
-     inkscape:window-height="893"
-     inkscape:window-x="928"
-     inkscape:window-y="442"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="49.624998"
+     inkscape:cy="38.562498"
+     inkscape:window-width="1324"
+     inkscape:window-height="828"
+     inkscape:window-x="563"
+     inkscape:window-y="129"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3844" />
+     inkscape:current-layer="svg3844"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3846">
     <linearGradient
@@ -157,25 +159,6 @@
        x2="302.85715"
        y1="366.64789"
        x1="302.85715" />
-    <linearGradient
-       xlink:href="#linearGradient920"
-       id="linearGradient922"
-       x1="32"
-       y1="1"
-       x2="32"
-       y2="59"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient920">
-      <stop
-         style="stop-color:#ed5353;stop-opacity:1"
-         offset="0"
-         id="stop916" />
-      <stop
-         style="stop-color:#c6262e;stop-opacity:1"
-         offset="1"
-         id="stop918" />
-    </linearGradient>
   </defs>
   <metadata
      id="metadata3849">
@@ -207,6 +190,11 @@
      d="m 9,0.9998799 c 10.540935,0 45.999945,0.004 45.999945,0.004 L 55,59.00002 c 0,0 -30.666666,0 -46,0 0,-19.3334 0,-38.6665 0,-57.9998201 z"
      id="path4160-6"
      style="display:inline;fill:url(#linearGradient3096);fill-opacity:1;stroke:none" />
+  <path
+     id="path873-5-3-7-3-6"
+     style="fill:#555761;stroke:none;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 39.0625,20 c -0.512019,1e-6 -0.894531,0.489949 -0.894531,0.990234 C 38.100019,24.301399 35.166896,27 31,27 h -1.999906 v -4.648219 c 0,-0.749783 -0.635175,-1.351562 -1.425781,-1.351562 -0.426107,0 -0.805354,0.174077 -1.066407,0.453125 l -8.117281,7.620898 C 18.149328,29.316631 18,29.64037 18,30.000023 c 0,0.359654 0.149326,0.685346 0.390625,0.927735 l 8.117281,7.616921 c 0.261053,0.279059 0.6403,0.455078 1.066407,0.455078 0.790606,0 1.425781,-0.603727 1.425781,-1.353515 V 33 H 31 c 2.299325,0 3.074219,-0.714844 3.074219,-0.714844 0.996272,-1.581407 2.60499,-2.741042 4.490234,-3.136718 0.989381,-1.444404 1.474927,-3.225286 1.433594,-5.150391 V 20.990234 C 39.998047,20.406403 39.673989,20 39.0625,20 Z"
+     sodipodi:nodetypes="scscssccsccsscscccss" />
   <path
      d="m 54.499999,58.50002 -44.9999992,0 0,-57.0000401 44.9999992,0 z"
      id="rect6741-1-8"
@@ -251,9 +239,15 @@
        style="display:inline"
        id="layer12" />
   </g>
+  <circle
+     style="font-variation-settings:normal;fill:#f24040;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;stop-color:#000000"
+     id="path6156"
+     cx="40"
+     cy="36"
+     r="6" />
   <path
-     id="path2"
-     style="fill:#ed5353;fill-opacity:1;stroke-width:0.5;marker:none"
-     d="m 28,17 v 2 h -7 c 0,0 -1,0 -1,1 v 3 h 24 v -3 c 0,-1 -1,-1 -1,-1 h -7 v -2 z m -6,8 v 18 c 0,0 0,2 2,2 H 39.939453 C 39.999453,45 42,45 42,43 V 25 H 23.939453 Z m 4,3 h 2 v 14 h -2 z m 5,0 h 2 v 14 h -2 z m 5,0 h 2 v 14 h -2 z"
-     sodipodi:nodetypes="cccsccsccccccssscccccccccccccccccc" />
+     id="circle6158-2"
+     style="font-variation-settings:normal;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:markers fill stroke;stop-color:#000000"
+     d="m 38.999998,31.999998 v 5 h 2 v -5 z m 1.999985,6 h -1.999969 v 2 h 1.999969 z"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>
