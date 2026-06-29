@@ -31,31 +31,26 @@
      inkscape:current-layer="g3" />
   <defs
      id="defs3" />
-  <g
-     transform="translate(-653,-97)"
-     id="g3"
-     style="fill:#555761">
-    <path
-       color="#000000"
-       d="m 659,97 v 1 h -2 v -1 z m 9,2 v 1 h -7 v -1 z m -9,0 v 1 h -5 v -1 z m 9,11 v 1 h -7 v -1 z m -9,0 v 1 h -5 v -1 z m 0,2 v 1 h -2 v -1 z"
-       fill="#666"
-       opacity="0.4"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
-       id="path1" />
-    <path
-       color="#000000"
-       d="m 659,102 v 2 h -6 v -2 z m 0,4 v 2 h -4 v -2 z"
-       fill="#666"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
-       id="path2" />
-    <path
-       color="#bebebe"
-       d="m 664,109 5,-4.016 -5,-3.984 v 2 h -3 v 4 h 3 z"
-       fill="#666"
-       overflow="visible"
-       style="fill:#555761;marker:none"
-       id="path3" />
-  </g>
+  <path
+     color="#000000"
+     d="M 6,0 V 1 H 4 V 0 Z m 9,2 V 3 H 8 V 2 Z M 6,2 V 3 H 1 V 2 Z m 9,11 v 1 H 8 v -1 z m -9,0 v 1 H 1 v -1 z m 0,2 v 1 H 4 v -1 z"
+     fill="#666"
+     opacity="0.4"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
+     id="path1" />
+  <path
+     color="#000000"
+     d="M 6,5 V 7 H 0 V 5 Z m 0,4 v 2 H 2 V 9 Z"
+     fill="#666"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
+     id="path2" />
+  <path
+     color="#bebebe"
+     d="M 11,12 16,7.984 11,4 V 6 H 8 v 4 h 3 z"
+     fill="#666"
+     overflow="visible"
+     style="fill:#555761;marker:none"
+     id="path3" />
 </svg>

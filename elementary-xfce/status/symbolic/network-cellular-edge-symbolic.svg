@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    height="16"
    width="16"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="network-cellular-edge-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,15 +34,10 @@
   </metadata>
   <defs
      id="defs10" />
-  <g
-     color="#bebebe"
-     transform="translate(-473 231)"
-     id="g4">
-    <path
-       d="M475.063-231c-1.151 0-2.063.912-2.063 2.063v11.875c0 1.15.912 2.062 2.063 2.062h11.875c1.15 0 2.062-.912 2.062-2.063v-11.875c0-1.15-.912-2.062-2.062-2.062zm3.937 3h6v2h-6v2h6v2h-6v2h6v2h-6c-.625 0-.994-.241-1.344-.563-.33-.304-.644-.79-.625-1.437H477v-6h.031c-.013-.475.11-1 .469-1.406.354-.401.934-.583 1.5-.563z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none"
-       id="path6" />
-  </g>
+  <path
+     d="M 2.063,0 C 0.912,0 0,0.912 0,2.063 V 13.938 C 0,15.088 0.912,16 2.063,16 H 13.938 C 15.088,16 16,15.088 16,13.937 V 2.062 C 16,0.912 15.088,0 13.938,0 Z M 6,3 h 6 V 5 H 6 v 2 h 6 V 9 H 6 v 2 h 6 v 2 H 6 C 5.375,13 5.006,12.759 4.656,12.437 4.326,12.133 4.012,11.647 4.031,11 H 4 V 5 H 4.031 C 4.018,4.525 4.141,4 4.5,3.594 4.854,3.193 5.434,3.011 6,3.031 Z"
+     fill="#666666"
+     overflow="visible"
+     style="color:#bebebe;marker:none"
+     id="path6" />
 </svg>

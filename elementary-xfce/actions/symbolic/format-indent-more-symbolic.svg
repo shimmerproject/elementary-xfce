@@ -4,35 +4,42 @@
    width="16"
    version="1.1"
    id="svg3"
+   sodipodi:docname="format-indent-more-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3" />
-  <g
-     transform="translate(-593 -97)"
-     id="g3"
-     style="fill:#555761">
-    <path
-       color="#000"
-       d="M603 97v1h2v-1zm-9 2v1h7v-1zm9 0v1h5v-1zm-9 11v1h7v-1zm9 0v1h5v-1zm0 2v1h2v-1z"
-       fill="#666"
-       opacity=".4"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#555761"
-       id="path1" />
-    <path
-       color="#000"
-       d="M603 102v2h6v-2zm0 4v2h4v-2z"
-       fill="#666"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal;marker:none;fill:#555761"
-       id="path2" />
-    <path
-       color="#bebebe"
-       d="M597 109l5.001-4.016-5-3.984v2h-3v4h3z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none;fill:#555761"
-       id="path3" />
-  </g>
+  <path
+     color="#000000"
+     d="m 10,0 v 1 h 2 V 0 Z M 1,2 V 3 H 8 V 2 Z m 9,0 v 1 h 5 V 2 Z M 1,13 v 1 h 7 v -1 z m 9,0 v 1 h 5 v -1 z m 0,2 v 1 h 2 v -1 z"
+     fill="#666"
+     opacity="0.4"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
+     id="path1" />
+  <path
+     color="#000000"
+     d="m 10,5 v 2 h 6 V 5 Z m 0,4 v 2 h 4 V 9 Z"
+     fill="#666"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
+     id="path2" />
+  <path
+     color="#bebebe"
+     d="M 4,12 9.001,7.984 4.001,4 v 2 h -3 v 4 h 3 z"
+     fill="#666"
+     overflow="visible"
+     style="fill:#555761;marker:none"
+     id="path3" />
 </svg>

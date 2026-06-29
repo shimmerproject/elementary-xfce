@@ -30,15 +30,10 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1" />
-  <g
-     color="#bebebe"
-     transform="translate(-333 91)"
-     id="g1">
-    <path
-       d="M338-89c-2.77 0-5 2.23-5 5s2.23 5 5 5h3.344L344-76v-3c2.77 0 5-2.23 5-5s-2.23-5-5-5zm0 2h6c1.662 0 3 1.338 3 3s-1.338 3-3 3h-6c-1.662 0-3-1.338-3-3s1.338-3 3-3z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none;fill:#555761;fill-opacity:1"
-       id="path1" />
-  </g>
+  <path
+     d="M 5,2 C 2.23,2 0,4.23 0,7 0,9.77 2.23,12 5,12 H 8.344 L 11,15 v -3 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z m 0,2 h 6 c 1.662,0 3,1.338 3,3 0,1.662 -1.338,3 -3,3 H 5 C 3.338,10 2,8.662 2,7 2,5.338 3.338,4 5,4 Z"
+     fill="#666"
+     overflow="visible"
+     style="color:#bebebe;fill:#555761;fill-opacity:1;marker:none"
+     id="path1" />
 </svg>

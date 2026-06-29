@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    height="16"
    width="16"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="face-smirk-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,15 +34,10 @@
   </metadata>
   <defs
      id="defs10" />
-  <g
-     color="#bebebe"
-     transform="translate(-1108 -114)"
-     id="g4">
-    <path
-       d="M1116 114c-4.412 0-8 3.588-8 8s3.588 8 8 8 8-3.588 8-8-3.588-8-8-8zm0 1c3.872 0 7 3.128 7 7s-3.128 7-7 7-7-3.128-7-7 3.128-7 7-7zm-2 5.012c-2.5 0-4 1-1 1a1 1 0 1 0 1-1zm5 0c-2.5 0-4 1-1 1a1 1 0 1 0 1-1zm.738 3.668s-1.171 1.293-2.633 1.328c-1.719.04-3.105-.008-3.105-.008l-.035 1s1.413.05 3.164.008c2.01-.048 3.365-1.672 3.365-1.672z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none"
-       id="path6" />
-  </g>
+  <path
+     d="M 8,0 C 3.588,0 0,3.588 0,8 c 0,4.412 3.588,8 8,8 4.412,0 8,-3.588 8,-8 C 16,3.588 12.412,0 8,0 Z m 0,1 c 3.872,0 7,3.128 7,7 0,3.872 -3.128,7 -7,7 C 4.128,15 1,11.872 1,8 1,4.128 4.128,1 8,1 Z M 6,6.012 c -2.5,0 -4,1 -1,1 a 1,1 0 1 0 1,-1 z m 5,0 c -2.5,0 -4,1 -1,1 a 1,1 0 1 0 1,-1 z m 0.738,3.668 c 0,0 -1.171,1.293 -2.633,1.328 C 7.386,11.048 6,11 6,11 l -0.035,1 c 0,0 1.413,0.05 3.164,0.008 2.01,-0.048 3.365,-1.672 3.365,-1.672 z"
+     fill="#666666"
+     overflow="visible"
+     style="color:#bebebe;marker:none"
+     id="path6" />
 </svg>

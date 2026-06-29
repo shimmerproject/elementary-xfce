@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    height="16"
    width="16"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="network-cellular-gprs-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,15 +34,10 @@
   </metadata>
   <defs
      id="defs10" />
-  <g
-     color="#bebebe"
-     transform="translate(-453 231)"
-     id="g4">
-    <path
-       d="M455.063-231c-1.151 0-2.063.912-2.063 2.063v11.875c0 1.15.912 2.062 2.063 2.062h11.875c1.15 0 2.062-.912 2.062-2.063v-11.875c0-1.15-.912-2.062-2.062-2.062zm4.062 3.031H462.97c.003 0-.003.032 0 .031.527-.02 1.072.076 1.5.47.415.38.593 1.007.562 1.593h.032v.875h-2v-.968c-.018-.003.003-.003-.032 0h-3.937c-.006.003-.03-.004-.031 0-.007.022.007.046 0 .062v5.843c-.024-.021-.003.061 0 .063h3.906c.007-.02.03-.016.031 0V-221.969h-2v-2h4v3.938c0 .562-.227 1-.562 1.375a1.966 1.966 0 0 1-1.469.625v.031H459.063c-.625 0-.994-.241-1.344-.563a1.863 1.863 0 0 1-.625-1.437c0-.002-.031.002-.031 0V-226.062c.062-.438.205-.89.562-1.282.358-.392.946-.625 1.5-.625z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none"
-       id="path6" />
-  </g>
+  <path
+     d="M 2.063,0 C 0.912,0 0,0.912 0,2.063 V 13.938 C 0,15.088 0.912,16 2.063,16 H 13.938 C 15.088,16 16,15.088 16,13.937 V 2.062 C 16,0.912 15.088,0 13.938,0 Z M 6.125,3.031 H 9.97 c 0.003,0 -0.003,0.032 0,0.031 0.527,-0.02 1.072,0.076 1.5,0.47 0.415,0.38 0.593,1.007 0.562,1.593 h 0.032 V 6 h -2 V 5.032 c -0.018,-0.003 0.003,-0.003 -0.032,0 H 6.095 c -0.006,0.003 -0.03,-0.004 -0.031,0 -0.007,0.022 0.007,0.046 0,0.062 v 5.843 C 6.04,10.916 6.061,10.998 6.064,11 H 9.97 C 9.977,10.98 10,10.984 10.001,11 V 9.031 h -2 v -2 h 4 v 3.938 c 0,0.562 -0.227,1 -0.562,1.375 A 1.966,1.966 0 0 1 9.97,12.969 V 13 H 6.063 C 5.438,13 5.069,12.759 4.719,12.437 A 1.863,1.863 0 0 1 4.094,11 c 0,-0.002 -0.031,0.002 -0.031,0 V 4.938 C 4.125,4.5 4.268,4.048 4.625,3.656 4.983,3.264 5.571,3.031 6.125,3.031 Z"
+     fill="#666666"
+     overflow="visible"
+     style="color:#bebebe;marker:none"
+     id="path6" />
 </svg>

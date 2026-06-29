@@ -4,27 +4,34 @@
    width="16"
    version="1.1"
    id="svg2"
+   sodipodi:docname="avatar-default-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
-  <g
-     transform="translate(-593 171)"
-     id="g2"
-     style="fill:#555761">
-    <path
-       color="#000"
-       d="M601-171a8 8 0 1 0 0 16 8 8 0 0 0 0-16zm0 1a7 7 0 0 1 7 7c0 1.972-.844 3.728-2.156 5-.443-1.727-1.975-3-3.844-3h-2c-1.869 0-3.4 1.273-3.844 3-1.312-1.272-2.156-3.028-2.156-5a7 7 0 0 1 7-7z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none;fill:#555761"
-       id="path1" />
-    <path
-       color="#000"
-       d="M601-167.75c-1.795 0-3.25 1.4-3.25 3.125 0 1.726 1.455 3.125 3.25 3.125s3.25-1.4 3.25-3.125c0-1.726-1.455-3.125-3.25-3.125z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none;fill:#555761"
-       id="path2" />
-  </g>
+  <path
+     color="#000000"
+     d="M 8,0 A 8,8 0 1 0 8,16 8,8 0 0 0 8,0 Z m 0,1 a 7,7 0 0 1 7,7 c 0,1.972 -0.844,3.728 -2.156,5 C 12.401,11.273 10.869,10 9,10 H 7 C 5.131,10 3.6,11.273 3.156,13 1.844,11.728 1,9.972 1,8 A 7,7 0 0 1 8,1 Z"
+     fill="#666"
+     overflow="visible"
+     style="fill:#555761;marker:none"
+     id="path1" />
+  <path
+     color="#000000"
+     d="M 8,3.25 C 6.205,3.25 4.75,4.65 4.75,6.375 4.75,8.101 6.205,9.5 8,9.5 9.795,9.5 11.25,8.1 11.25,6.375 11.25,4.649 9.795,3.25 8,3.25 Z"
+     fill="#666"
+     overflow="visible"
+     style="fill:#555761;marker:none"
+     id="path2" />
 </svg>

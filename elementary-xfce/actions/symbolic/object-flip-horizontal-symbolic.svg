@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    height="16"
    width="16"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="object-flip-horizontal-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,15 +34,10 @@
   </metadata>
   <defs
      id="defs10" />
-  <g
-     color="#bebebe"
-     transform="translate(-493 -77)"
-     id="g4">
-    <path
-       d="M498 81l-5 4 5 4v-3h6v3l5-4-5-4v3h-6z"
-       fill="#666"
-       overflow="visible"
-       style="marker:none"
-       id="path6" />
-  </g>
+  <path
+     d="M 5,4 0,8 5,12 V 9 h 6 v 3 L 16,8 11,4 V 7 H 5 Z"
+     fill="#666666"
+     overflow="visible"
+     style="color:#bebebe;marker:none"
+     id="path6" />
 </svg>

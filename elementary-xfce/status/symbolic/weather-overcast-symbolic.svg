@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    height="16"
    width="16"
    id="svg2"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="weather-overcast-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -22,24 +34,20 @@
   </metadata>
   <defs
      id="defs12" />
-  <g
-     transform="translate(-313 191)"
-     id="g4">
-    <path
-       color="#000"
-       d="M321-190.002c-1.608 0-3.03.965-3.656 2.398l-.023.047a4.013 4.013 0 0 0-.207.635c-.2-.052-.407-.079-.614-.08-.135 0-.27.014-.404.037a2.5 2.5 0 0 0-2.096 2.463 2.5 2.5 0 0 0 2.5 2.5h1.705c.688-1.181 1.877-1.998 3.295-1.998h.002c1.402.001 2.523.844 3.219 1.998H326a2 2 0 1 0 0-4l-.014.002H325c0-.252-.028-.497-.072-.736l-.01-.063h.002A4 4 0 0 0 321-190z"
-       fill="#666"
-       fill-rule="evenodd"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal"
-       id="path6" />
-    <path
-       color="#000"
-       d="M321.5-183a2.998 2.998 0 0 0-2.908 2.273 1.875 1.875 0 0 0 .283 3.727h6.003a1.875 1.875 0 0 0 0-3.75h-.48A2.998 2.998 0 0 0 321.5-183z"
-       fill="#666"
-       fill-rule="evenodd"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal"
-       id="path8" />
-  </g>
+  <path
+     color="#000000"
+     d="m 8,0.998 c -1.608,0 -3.03,0.965 -3.656,2.398 L 4.321,3.443 A 4.013,4.013 0 0 0 4.114,4.078 C 3.914,4.026 3.707,3.999 3.5,3.998 3.365,3.998 3.23,4.012 3.096,4.035 A 2.5,2.5 0 0 0 1,6.498 2.5,2.5 0 0 0 3.5,8.998 H 5.205 C 5.893,7.817 7.082,7 8.5,7 h 0.002 c 1.402,0.001 2.523,0.844 3.219,1.998 H 13 a 2,2 0 1 0 0,-4 L 12.986,5 H 12 C 12,4.748 11.972,4.503 11.928,4.264 L 11.918,4.201 H 11.92 A 4,4 0 0 0 8,1 Z"
+     fill="#666666"
+     fill-rule="evenodd"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal"
+     id="path6" />
+  <path
+     color="#000000"
+     d="M 8.5,8 A 2.998,2.998 0 0 0 5.592,10.273 1.875,1.875 0 0 0 5.875,14 h 6.003 a 1.875,1.875 0 0 0 0,-3.75 h -0.48 A 2.998,2.998 0 0 0 8.5,8 Z"
+     fill="#666666"
+     fill-rule="evenodd"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal"
+     id="path8" />
 </svg>

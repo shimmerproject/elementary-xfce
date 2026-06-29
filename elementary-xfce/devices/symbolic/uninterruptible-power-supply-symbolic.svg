@@ -31,23 +31,18 @@
      inkscape:current-layer="svg2" />
   <defs
      id="defs2" />
-  <g
-     transform="translate(-1133,-21)"
-     id="g2"
-     style="fill:#555761">
-    <path
-       color="#000000"
-       d="m 1137,21 c -1.108,0 -2,0.892 -2,2 v 13.5 c 0,0 0,0.5 0.5,0.5 h 11 c 0,0 0.5,0 0.5,-0.5 V 23 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 8 c 0.554,0 1,0.446 1,1 v 10.5 c 0,0 0.054,0.5 -0.5,0.5 h -9 c 0,0 -0.5,0 -0.5,-0.5 V 23 c 0,-0.554 0.446,-1 1,-1 z m 8.5,13 a 0.5,0.5 0 1 1 0,1 0.5,0.5 0 0 1 0,-1 z"
-       fill="#666"
-       overflow="visible"
-       style="fill:#555761;marker:none"
-       id="path1" />
-    <path
-       color="#bebebe"
-       d="m 1141,24 -3,5 h 3 v 3 l 3,-5 h -3 z"
-       fill="#666"
-       overflow="visible"
-       style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
-       id="path2" />
-  </g>
+  <path
+     color="#000000"
+     d="M 4,0 C 2.892,0 2,0.892 2,2 v 13.5 c 0,0 0,0.5 0.5,0.5 h 11 c 0,0 0.5,0 0.5,-0.5 V 2 C 14,0.892 13.108,0 12,0 Z m 0,1 h 8 c 0.554,0 1,0.446 1,1 v 10.5 c 0,0 0.054,0.5 -0.5,0.5 h -9 C 3.5,13 3,13 3,12.5 V 2 C 3,1.446 3.446,1 4,1 Z m 8.5,13 a 0.5,0.5 0 1 1 0,1 0.5,0.5 0 0 1 0,-1 z"
+     fill="#666"
+     overflow="visible"
+     style="fill:#555761;marker:none"
+     id="path1" />
+  <path
+     color="#bebebe"
+     d="M 8,3 5,8 h 3 v 3 L 11,6 H 8 Z"
+     fill="#666"
+     overflow="visible"
+     style="isolation:auto;mix-blend-mode:normal;fill:#555761;marker:none"
+     id="path2" />
 </svg>
